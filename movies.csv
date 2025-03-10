@@ -1,0 +1,901 @@
+id,title,genre_ids,actors,director,duration
+1064213,Anora,"[18, 35, 10749]","Mikey Madison, Mark Eydelshteyn, Yura Borisov, Karren Karagulian, Vache Tovmasyan, Luna Sofía Miranda, Lindsey Normington, Darya Ekamasova, Aleksey Serebryakov, Anton Bitter",Sean Baker,0
+696506,Mickey 17,"[878, 35, 12]","Robert Pattinson, Naomi Ackie, Steven Yeun, Mark Ruffalo, Toni Collette, Anamaria Vartolomei, Daniel Henshall, Patsy Ferran, Steve Park, Tim Key",Bong Joon Ho,0
+822119,Captain America: Brave New World,"[28, 53, 878]","Anthony Mackie, Harrison Ford, Danny Ramirez, Shira Haas, Tim Blake Nelson, Carl Lumbly, Giancarlo Esposito, Liv Tyler, Xosha Roquemore, Jóhannes Haukur Jóhannesson",Julius Onah,0
+823219,Flow,"[16, 14, 12]",,Gints Zilbalodis,0
+1104845,Plankton: The Movie,"[16, 12, 35, 10751, 14]","Mr. Lawrence, Jill Talley, Tom Kenny, Bill Fagerbakke, Rodger Bumpass, Carolyn Lawrence, Clancy Brown, Mary Jo Catlett, Lori Alan, Dee Bradley Baker",Dave Needham,0
+1084199,Companion,"[27, 878, 53]","Sophie Thatcher, Jack Quaid, Lukas Gage, Megan Suri, Harvey Guillén, Rupert Friend, Jaboukie Young-White, Matthew J. McCarthy, Marc Menchaca, Woody Fu",Drew Hancock,0
+974576,Conclave,"[18, 53, 9648]","Ralph Fiennes, Stanley Tucci, John Lithgow, Isabella Rossellini, Lucian Msamati, Carlos Diehz, Sergio Castellitto, Brían F. O'Byrne, Merab Ninidze, Thomas Loibl",Edward Berger,0
+549509,The Brutalist,[18],"Adrien Brody, Felicity Jones, Guy Pearce, Joe Alwyn, Raffey Cassidy, Stacy Martin, Isaach de Bankolé, Alessandro Nivola, Ariane Labed, Michael Epp",Brady Corbet,0
+950396,The Gorge,"[10749, 878, 53]","Miles Teller, Anya Taylor-Joy, Sigourney Weaver, Sope Dirisu, William Houston, Kobna Holdbrook-Smith, James Marlowe, Julianna Kurokawa, Ruta Gedmintas, Oliver Trevena",Scott Derrickson,0
+402431,Wicked,"[18, 10749, 14]","Cynthia Erivo, Ariana Grande, Jeff Goldblum, Michelle Yeoh, Jonathan Bailey, Ethan Slater, Marissa Bode, Peter Dinklage, Andy Nyman, Courtney-Mae Briggs",Jon M. Chu,0
+1302916,Heart Eyes,"[27, 35, 9648]","Olivia Holt, Mason Gooding, Jordana Brewster, Devon Sawa, Gigi Zumbado, Ben Black, Chris Parker, Latham Gaines, Lauren O'Hara, Michaela Watkins",Josh Ruben,0
+558449,Gladiator II,"[28, 12, 18]","Paul Mescal, Denzel Washington, Pedro Pascal, Connie Nielsen, Joseph Quinn, Fred Hechinger, Lior Raz, Derek Jacobi, Peter Mensah, Matt Lucas",Ridley Scott,0
+933260,The Substance,"[27, 878]","Demi Moore, Margaret Qualley, Dennis Quaid, Edward Hamilton-Clark, Gore Abrams, Oscar Lesage, Christian Erickson, Robin Greer, Tom Morton, Hugo Diego Garcia",Coralie Fargeat,0
+1204892,Picture This,"[10749, 35]","Simone Ashley, Hero Fiennes Tiffin, Sindhu Vee, Luke Fetherston, Nikesh Patel, Adil Ray, Anoushka Chadha, Eben Figueiredo, Kulvinder Ghir, Asim Chaudhry",Prarthana Mohan,0
+661539,A Complete Unknown,"[18, 10402]","Timothée Chalamet, Edward Norton, Elle Fanning, Monica Barbaro, Scoot McNairy, Dan Fogler, Boyd Holbrook, Will Harrison, Joe Tippett, Eriko Hatsune",James Mangold,0
+1405338,Demon City,"[28, 80, 14, 53]","Toma Ikuta, Masahiro Higashide, Miou Tanaka, Ami Touma, Taro Suruga, Mai Kiryu, Naoto Takenaka, Takuma Otoo, Matsuya Onoe, Masanobu Takashima",Seiji Tanaka,0
+1230208,Squad 36,"[28, 80, 18, 53]","Victor Belmondo, Tewfik Jallab, Soufiane Guerrab, Juliette Dol, Yvan Attal, Nicolas Wanczycki, Ludovic Faure, Lydia Andréï, Jean-Michel Correia, Moussa Mansaly",Olivier Marchal,0
+939243,Sonic the Hedgehog 3,"[28, 878, 35, 10751]","Jim Carrey, Ben Schwartz, Keanu Reeves, Idris Elba, Colleen O'Shaughnessey, James Marsden, Tika Sumpter, Lee Majdoub, Krysten Ritter, Adam Pally",Jeff Fowler,0
+1000837,I'm Still Here,"[18, 36]","Fernanda Torres, Selton Mello, Valentina Herszage, Bárbara Luz, Guilherme Silveira, Cora Ramalho, Luiza Kosovski, Pri Helena, Luiz Bertazzo, Maeve Jinkings",Walter Salles,0
+1241982,Moana 2,"[16, 12, 10751, 35]","Auliʻi Cravalho, Dwayne Johnson, Hualālai Chung, Rose Matafeo, David Fane, Awhimai Fraser, Khaleesi Lambert-Tsuda, Temuera Morrison, Nicole Scherzinger, Rachel House",David G. Derrick Jr.,0
+1418522,Delicious,"[53, 18]","Valerie Pachner, Fahri Yardım, Carla Díaz, Naila Schuberth, Caspar Hoffmann, Julien de Saint Jean, Sina Martens, Johann von Bülow, Nina Zem, Miveck Packa",Nele Mueller-Stöfen,0
+762509,Mufasa: The Lion King,"[12, 10751, 16]","Aaron Pierre, Kelvin Harrison, Jr., Tiffany Boone, Kagiso Lediga, Preston Nyman, Blue Ivy Carter, John Kani, Mads Mikkelsen, Seth Rogen, Billy Eichner",Barry Jenkins,0
+1356039,Counterattack,"[28, 12, 53]","Luis Alberti, Noé Hernández, Leonardo Alonso, Luis Curiel, Guillermo Nava, David Calderón León, Mayra Batalla, Israel Islas, Ishbel Bautista, Frida Jiser",Chava Cartas,0
+426063,Nosferatu,"[14, 27]","Lily-Rose Depp, Nicholas Hoult, Bill Skarsgård, Aaron Taylor-Johnson, Willem Dafoe, Emma Corrin, Ralph Ineson, Simon McBurney, Adéla Hesová, Milena Konstantinova",Robert Eggers,0
+447273,Snow White,"[10751, 14]","Rachel Zegler, Gal Gadot, Emilia Faucher, Andrew Burnap, Andrew Barth Feldman, Tituss Burgess, Martin Klebba, Jason Kravits, George Salazar, Jeremy Swift",Marc Webb,0
+693134,Dune: Part Two,"[878, 12]","Timothée Chalamet, Zendaya, Rebecca Ferguson, Javier Bardem, Josh Brolin, Austin Butler, Florence Pugh, Dave Bautista, Christopher Walken, Léa Seydoux",Denis Villeneuve,0
+1013850,A Real Pain,"[35, 18]","Jesse Eisenberg, Kieran Culkin, Will Sharpe, Jennifer Grey, Kurt Egyiawan, Liza Sadovy, Daniel Oreskes, Ellora Torchia, Banner Eisenberg, Olha Bosova",Jesse Eisenberg,0
+974950,Emilia Pérez,"[18, 53]","Karla Sofía Gascón, Zoe Saldaña, Selena Gomez, Adriana Paz, Edgar Ramírez, Mark Ivanir, Eduardo Aladro, Emiliano Hasan, Gaël Murgia-Fur, Tirso Pietriga",Jacques Audiard,0
+980477,Ne Zha 2,"[16, 14, 12]","Lü Yanting, Joseph, Han Mo, Chen Hao, Lü Qi, Zhang Jiaming, Yang Wei, Wang Deshun, Yu Chen, Zhou Yongxi",Yang Yu,0
+940139,Here,[18],"Tom Hanks, Robin Wright, Paul Bettany, Kelly Reilly, Ellis Grunsell, Teddy Russell, Finn Guegan, Callum Macreadie, Lauren McQueen, Grace Lyra",Robert Zemeckis,0
+539972,Kraven the Hunter,"[28, 12, 53]","Aaron Taylor-Johnson, Ariana DeBose, Fred Hechinger, Alessandro Nivola, Christopher Abbott, Russell Crowe, Yuri Kolokolnikov, Levi Miller, Tom Reed, Billy Barratt",J.C. Chandor,0
+1124620,The Monkey,"[27, 35]","Theo James, Tatiana Maslany, Christian Convery, Colin O'Brien, Adam Scott, Elijah Wood, Rohan Campbell, Sarah Levy, Osgood Perkins, Nicco Del Rio",Osgood Perkins,0
+157336,Interstellar,"[12, 18, 878]","Matthew McConaughey, Anne Hathaway, Michael Caine, Jessica Chastain, Casey Affleck, Wes Bentley, Topher Grace, Mackenzie Foy, Ellen Burstyn, John Lithgow",Christopher Nolan,0
+11360,Dumbo,"[16, 10751]","Edward Brophy, Margaret Wright, Verna Felton, Sarah Selby, Noreen Gammill, Dorothy Scott, Herman Bing, Cliff Edwards, Jim Carmichael, Hall Johnson",Ben Sharpsteen,0
+1126166,Flight Risk,"[28, 53, 80]","Mark Wahlberg, Michelle Dockery, Topher Grace, Leah Remini, Paul Ben-Victor, Maaz Ali, Monib Abhat, Eilise Patton, Senor Pablo, Savanah Joeckel",Mel Gibson,0
+1226406,Love Hurts,"[28, 35, 10749]","Ke Huy Quan, Ariana DeBose, Mustafa Shakir, Lio Tipton, Daniel Wu, Cam Gigandet, Marshawn Lynch, André Eriksen, Rhys Darby, Sean Astin",Jonathan Eusebio,0
+1028196,Nickel Boys,[18],"Ethan Herisse, Brandon Wilson, Aunjanue Ellis-Taylor, Hamish Linklater, Gralen Bryant Banks, Fred Hechinger, Jimmie Fails, Luke Tennie, Bryan Gael Guzman, Ethan Cole Sharp",RaMell Ross,0
+1212855,Fight or Flight,"[28, 53]","Josh Hartnett, Katee Sackhoff, Marko Zaror, Julian Kostov, Charithra Chandran, JuJu Chan, Sanjeev Kohli, Rebecka Johnston, Nóra Trokán, Sarah Lam",James Madigan,0
+516729,Paddington in Peru,"[10751, 12, 35]","Ben Whishaw, Hugh Bonneville, Emily Mortimer, Samuel Joslin, Madeleine Harris, Antonio Banderas, Olivia Colman, Julie Walters, Jim Broadbent, Carla Tous",Dougal Wilson,0
+1140535,Presence,"[27, 18]","Callina Liang, Lucy Liu, Chris Sullivan, Eddy Maday, Julia Fox, Lucas Papaelias, West Mulholland, Daniel Danielson, Benny Elledge, Natalie Woolams-Torres",Steven Soderbergh,0
+1184918,The Wild Robot,"[16, 878, 10751]","Lupita Nyong'o, Pedro Pascal, Kit Connor, Bill Nighy, Stephanie Hsu, Matt Berry, Ving Rhames, Mark Hamill, Catherine O'Hara, Boone Storm",Chris Sanders,0
+1195506,Novocaine,"[28, 53, 35]","Jack Quaid, Amber Midthunder, Ray Nicholson, Jacob Batalon, Betty Gabriel, Matt Walsh, Evan Hengst, Conrad Kemp, Jessica Stanley, Dominique Maher",Dan Berk,0
+604685,Den of Thieves 2: Pantera,"[28, 80, 53]","Gerard Butler, O'Shea Jackson Jr., Evin Ahmad, Salvatore Esposito, Meadow Williams, Swen Temmel, Michael Bisping, Orli Shuka, Rico Verhoeven, Jordan Bridges",Christian Gudegast,0
+671,Harry Potter and the Philosopher's Stone,"[12, 14]","Daniel Radcliffe, Rupert Grint, Emma Watson, Richard Harris, Tom Felton, Alan Rickman, Robbie Coltrane, Maggie Smith, Richard Griffiths, Ian Hart",Chris Columbus,0
+912649,Venom: The Last Dance,"[28, 878, 12]","Tom Hardy, Chiwetel Ejiofor, Juno Temple, Rhys Ifans, Stephen Graham, Peggy Lu, Clark Backo, Alanna Ubach, Cristo Fernández, Jared Abrahamson",Kelly Marcel,0
+1426486,Chaos: The Manson Murders,"[80, 99]",Charles Manson,Errol Morris,0
+1224993,Dark Nuns,"[53, 27, 9648, 18]","Song Hye-kyo, Jeon Yeo-been, Lee Jin-uk, Moon Woo-jin, Huh Joon-ho, Kim Kuk-hee, Shin Jae-hwi, Gang Dong-won, Han Dong-hee, Park Jeong-hak",Kwon Hyeok-jae,0
+1216780,Nadaaniyan,"[10749, 35, 18]","Ibrahim Ali Khan, Khushi Kapoor, Mahima Chaudhry, Suniel Shetty, Dia Mirza, Jugal Hansraj, Apoorva Mukhija, Aaliyah Qureishi, Agastya Shah, Dev Agasteya",Shauna Gautam,0
+1078600,Marked Men: Rule + Shaw,"[10749, 18]","Chase Stokes, Sydney Taylor, Ella Balinska, Evan Mock, Alexander Ludwig, Natalie Alyn Lind, Matthew Noszka, Hannah Kepple, Daisy Jelley, Michael Bradway",Nick Cassavetes,0
+533535,Deadpool & Wolverine,"[28, 35, 878]","Ryan Reynolds, Hugh Jackman, Emma Corrin, Matthew Macfadyen, Dafne Keen, Jon Favreau, Morena Baccarin, Rob Delaney, Leslie Uggams, Jennifer Garner",Shawn Levy,0
+1077782,Old Guy,"[28, 35]","Christoph Waltz, Lucy Liu, Cooper Hoffman, Karishma Navekar, Desmond Edwards, Ryan McParland, Ann Akinjirin, Charlie Hamblett, Tamara Chanel White, Jason Done",Simon West,0
+11,Star Wars,"[12, 28, 878]","Mark Hamill, Harrison Ford, Carrie Fisher, Peter Cushing, Alec Guinness, Anthony Daniels, Kenny Baker, Peter Mayhew, David Prowse, James Earl Jones",George Lucas,0
+438631,Dune,"[878, 12]","Timothée Chalamet, Rebecca Ferguson, Oscar Isaac, Jason Momoa, Stellan Skarsgård, Stephen McKinley Henderson, Josh Brolin, Javier Bardem, Sharon Duncan-Brewster, Chang Chen",Denis Villeneuve,0
+1771,Captain America: The First Avenger,"[28, 12, 878]","Chris Evans, Hayley Atwell, Sebastian Stan, Tommy Lee Jones, Hugo Weaving, Dominic Cooper, Richard Armitage, Stanley Tucci, Samuel L. Jackson, Toby Jones",Joe Johnston,0
+9100,The Craft,"[27, 18, 14]","Robin Tunney, Fairuza Balk, Neve Campbell, Rachel True, Skeet Ulrich, Christine Taylor, Breckin Meyer, Nathaniel Marston, Cliff DeYoung, Assumpta Serna",Andrew Fleming,0
+615453,Ne Zha,"[16, 14, 12]","Lü Yanting, Joseph, Han Mo, Chen Hao, Lü Qi, Yang Wei, Zhang Jiaming, He Yuxiang, Ren Junpeng, Da Hai",Yang Yu,0
+1232493,No Other Land,[99],"Basel Adra, Yuval Abraham, Farisa Abu Aram, Nasser Adra, Harun Abu Aram, Kifah Adara",Basel Adra,0
+1730,Inland Empire,"[27, 53, 9648]","Laura Dern, Jeremy Irons, Justin Theroux, Harry Dean Stanton, Karolina Gruszka, Peter J. Lucas, Krzysztof Majchrzak, Jan Hencz, Grace Zabriskie, William H. Macy",David Lynch,0
+1726,Iron Man,"[28, 878, 12]","Robert Downey Jr., Terrence Howard, Jeff Bridges, Gwyneth Paltrow, Leslie Bibb, Shaun Toub, Faran Tahir, Clark Gregg, Bill Smitrovich, Sayed Badreya",Jon Favreau,0
+774370,Dog Man,"[10751, 16, 35, 28]","Peter Hastings, Pete Davidson, Lil Rel Howery, Isla Fisher, Lucas Hopkins Calderon, Ricky Gervais, Poppy Liu, Stephen Root, Billy Boyd, Luenell",Peter Hastings,0
+496243,Parasite,"[35, 53, 18]","Song Kang-ho, Lee Sun-kyun, Cho Yeo-jeong, Choi Woo-shik, Park So-dam, Lee Jung-eun, Jang Hye-jin, Park Myung-hoon, Jung Ji-so, Jung Hyeon-jun",Bong Joon Ho,0
+1211472,September 5,"[53, 18, 36]","John Magaro, Leonie Benesch, Peter Sarsgaard, Ben Chaplin, Zinedine Soualem, Georgina Rich, Corey Johnson, Marcus Rutherford, Daniel Adeosun, Benjamin Walker",Tim Fehlbaum,0
+807,Se7en,"[80, 9648, 53]","Morgan Freeman, Brad Pitt, Gwyneth Paltrow, John Cassini, Peter Crombie, Reg E. Cathey, R. Lee Ermey, Daniel Zacapa, Andrew Kevin Walker, George Christy",David Fincher,0
+1359,American Psycho,"[53, 18, 80]","Christian Bale, Justin Theroux, Josh Lucas, Bill Sage, Chloë Sevigny, Reese Witherspoon, Samantha Mathis, Matt Ross, Jared Leto, Willem Dafoe",Mary Harron,0
+710295,Wolf Man,"[27, 53]","Christopher Abbott, Julia Garner, Matilda Firth, Sam Jaeger, Ben Prendergast, Benedict Hardie, Zac Chandler, Milo Cawthorne, Leigh Whannell, Rob MacBride",Leigh Whannell,0
+1022789,Inside Out 2,"[16, 12, 35, 10751]","Amy Poehler, Maya Hawke, Kensington Tallman, Liza Lapira, Tony Hale, Lewis Black, Phyllis Smith, Ayo Edebiri, Lilimar, Grace Lu",Kelsey Mann,0
+777443,The Electric State,"[18, 12, 878, 28]","Millie Bobby Brown, Chris Pratt, Woody Harrelson, Ke Huy Quan, Giancarlo Esposito, Stanley Tucci, Anthony Mackie, Brian Cox, Jenny Slate, Woody Norman",Joe Russo,0
+324544,In the Lost Lands,"[14, 12, 28]","Milla Jovovich, Dave Bautista, Arly Jover, Amara Okereke, Fraser James, Deirdre Mullins, Sebastian Stankiewicz, Tue Lunding, Jacek Dzisiewicz, Ian Hanmore",Paul W. S. Anderson,0
+27205,Inception,"[28, 878, 12]","Leonardo DiCaprio, Joseph Gordon-Levitt, Ken Watanabe, Tom Hardy, Elliot Page, Dileep Rao, Cillian Murphy, Tom Berenger, Marion Cotillard, Pete Postlethwaite",Christopher Nolan,0
+2119,Days of Thunder,"[12, 28, 18]","Tom Cruise, Robert Duvall, Nicole Kidman, Randy Quaid, Cary Elwes, Michael Rooker, Fred Thompson, John C. Reilly, J.C. Quinn, Don Simpson",Tony Scott,0
+872585,Oppenheimer,"[18, 36]","Cillian Murphy, Emily Blunt, Matt Damon, Robert Downey Jr., Florence Pugh, Josh Hartnett, Casey Affleck, Rami Malek, Kenneth Branagh, Benny Safdie",Christopher Nolan,0
+455,Bend It Like Beckham,"[35, 18, 10749]","Parminder Nagra, Keira Knightley, Jonathan Rhys Meyers, Anupam Kher, Shaheen Khan, Archie Panjabi, Frank Harper, Juliet Stevenson, Shaznay Lewis, Ameet Chana",Gurinder Chadha,0
+19995,Avatar,"[28, 12, 14, 878]","Sam Worthington, Zoe Saldaña, Sigourney Weaver, Stephen Lang, Michelle Rodriguez, Giovanni Ribisi, Joel David Moore, CCH Pounder, Wes Studi, Laz Alonso",James Cameron,0
+271110,Captain America: Civil War,"[12, 28, 878]","Chris Evans, Robert Downey Jr., Scarlett Johansson, Sebastian Stan, Anthony Mackie, Don Cheadle, Jeremy Renner, Chadwick Boseman, Paul Bettany, Elizabeth Olsen",Joe Russo,0
+10138,Iron Man 2,"[12, 28, 878]","Robert Downey Jr., Gwyneth Paltrow, Don Cheadle, Scarlett Johansson, Sam Rockwell, Mickey Rourke, Samuel L. Jackson, Clark Gregg, John Slattery, Garry Shandling",Jon Favreau,0
+98,Gladiator,"[28, 18, 12]","Russell Crowe, Joaquin Phoenix, Connie Nielsen, Oliver Reed, Richard Harris, Derek Jacobi, Djimon Hounsou, David Schofield, John Shrapnel, Tomas Arana",Ridley Scott,0
+603692,John Wick: Chapter 4,"[28, 53, 80]","Keanu Reeves, Donnie Yen, Bill Skarsgård, Ian McShane, Laurence Fishburne, Lance Reddick, Clancy Brown, Hiroyuki Sanada, Rina Sawayama, Scott Adkins",Chad Stahelski,0
+354912,Coco,"[10751, 16, 10402, 12]","Anthony Gonzalez, Gael García Bernal, Benjamin Bratt, Alanna Ubach, Renee Victor, Jaime Camil, Alfonso Arau, Herbert Siguenza, Gabriel Iglesias, Lombardo Boyar",Lee Unkrich,0
+986056,Thunderbolts*,"[28, 12]","Florence Pugh, Sebastian Stan, David Harbour, Wyatt Russell, Hannah John-Kamen, Olga Kurylenko, Lewis Pullman, Julia Louis-Dreyfus, Geraldine Viswanathan, Chris Bauer",Jake Schreier,0
+277834,Moana,"[12, 35, 10751, 16]","Auliʻi Cravalho, Dwayne Johnson, Rachel House, Temuera Morrison, Jemaine Clement, Nicole Scherzinger, Alan Tudyk, Louise Bush, Oscar Kightley, Troy Polamalu",John Musker,0
+238,The Godfather,"[18, 80]","Marlon Brando, Al Pacino, James Caan, Robert Duvall, Richard S. Castellano, Diane Keaton, Talia Shire, Gianni Russo, Sterling Hayden, John Marley",Francis Ford Coppola,0
+10195,Thor,"[12, 14, 28]","Chris Hemsworth, Natalie Portman, Tom Hiddleston, Anthony Hopkins, Stellan Skarsgård, Kat Dennings, Clark Gregg, Colm Feore, Idris Elba, Ray Stevenson",Kenneth Branagh,0
+1221404,Crayon Shin-chan the Movie: Our Dinosaur Diary,"[16, 12, 35, 10751]","Yumiko Kobayashi, Miki Narahashi, Toshiyuki Morikawa, Satomi Korogi, Mari Mashiba, Tamao Hayashi, Teiyu Ichiryusai, Takumi Kitamura, Hatanaka Yū, Shunsuke Ito",Shinobu Sasaki,0
+272,Batman Begins,"[28, 80, 18]","Christian Bale, Michael Caine, Liam Neeson, Katie Holmes, Gary Oldman, Cillian Murphy, Tom Wilkinson, Rutger Hauer, Ken Watanabe, Mark Boone Junior",Christopher Nolan,0
+1195631,William Tell,"[28, 18]","Claes Bang, Connor Swindells, Golshifteh Farahani, Jonah Hauer-King, Ellie Bamber, Rafe Spall, Emily Beecham, Jonathan Pryce, Ben Kingsley, Solly McLeod",Nick Hamm,0
+1391385,Uppercut,"[18, 53]","Ving Rhames, Luise Grossmann, Jordan E. Cooper, Joanna Cassidy, Scott Monahan, Andrew Ibach, Lynn Favin, Jaime Wallace, Manny Ayala, Fermin Padilla III",Torsten Rüther,0
+9480,Daredevil,"[14, 28]","Ben Affleck, Jennifer Garner, Colin Farrell, Michael Clarke Duncan, Jon Favreau, Scott Terra, Ellen Pompeo, Joe Pantoliano, Leland Orser, Lennie Loftin",Mark Steven Johnson,0
+100402,Captain America: The Winter Soldier,"[28, 12, 878]","Chris Evans, Samuel L. Jackson, Scarlett Johansson, Robert Redford, Sebastian Stan, Anthony Mackie, Cobie Smulders, Frank Grillo, Maximiliano Hernández, Emily VanCamp",Joe Russo,0
+121,The Lord of the Rings: The Two Towers,"[12, 14, 28]","Elijah Wood, Ian McKellen, Viggo Mortensen, Sean Astin, Andy Serkis, John Rhys-Davies, Orlando Bloom, Bernard Hill, Miranda Otto, Dominic Monaghan",Peter Jackson,0
+950387,A Minecraft Movie,"[12, 14, 10751, 35]","Jason Momoa, Jack Black, Danielle Brooks, Emma Myers, Sebastian Eugene Hansen, Jennifer Coolidge, Rachel House, Matt Berry, Kate McKinnon, Jemaine Clement",Jared Hess,0
+348,Alien,"[27, 878]","Tom Skerritt, Sigourney Weaver, Veronica Cartwright, Harry Dean Stanton, John Hurt, Ian Holm, Yaphet Kotto, Bolaji Badejo, Helen Horton",Ridley Scott,0
+1272149,Bridget Jones: Mad About the Boy,"[10749, 35, 18]","Renée Zellweger, Chiwetel Ejiofor, Leo Woodall, Hugh Grant, Jim Broadbent, Gemma Jones, Colin Firth, Sarah Solemani, Josette Simon, Nico Parker",Michael Morris,0
+799766,Better Man,"[10402, 18]","Robbie Williams, Jonno Davies, Steve Pemberton, Alison Steadman, Kate Mulvany, Frazer Hadfield, Damon Herriman, Raechelle Banno, Tom Budge, Jake Simmance",Michael Gracey,0
+1233575,Black Bag,"[53, 18]","Michael Fassbender, Cate Blanchett, Marisa Abela, Tom Burke, Naomie Harris, Regé-Jean Page, Pierce Brosnan, Gustaf Skarsgård, Kae Alexander, Martin Bassindale",Steven Soderbergh,0
+808,Shrek,"[16, 35, 14, 12, 10751]","Mike Myers, Eddie Murphy, Cameron Diaz, John Lithgow, Vincent Cassel, Peter Dennis, Clive Pearse, Jim Cummings, Bobby Block, Chris Miller",Andrew Adamson,0
+335983,Venom,"[878, 28]","Tom Hardy, Michelle Williams, Riz Ahmed, Scott Haze, Reid Scott, Jenny Slate, Melora Walters, Woody Harrelson, Peggy Lu, Malcolm C. Murray",Ruben Fleischer,0
+597,Titanic,"[18, 10749]","Leonardo DiCaprio, Kate Winslet, Billy Zane, Kathy Bates, Frances Fisher, Gloria Stuart, Victor Garber, Bill Paxton, Bernard Hill, David Warner",James Cameron,0
+673,Harry Potter and the Prisoner of Azkaban,"[12, 14]","Daniel Radcliffe, Rupert Grint, Emma Watson, Robbie Coltrane, Michael Gambon, Gary Oldman, David Thewlis, Timothy Spall, Alan Rickman, Tom Felton",Alfonso Cuarón,0
+1294203,My Fault: London,"[10749, 18]","Asha Banks, Matthew Broome, Eve Macklin, Ray Fearon, Enva Lewis, Jason Flemyng, Kerim Hassan, Sam Buchanan, Amelia Kenworthy, Harry Gilby",Dani Girdwood,0
+335984,Blade Runner 2049,"[878, 18]","Ryan Gosling, Harrison Ford, Ana de Armas, Dave Bautista, Robin Wright, Sylvia Hoeks, Mackenzie Davis, Jared Leto, Carla Juri, Hiam Abbass",Denis Villeneuve,0
+120,The Lord of the Rings: The Fellowship of the Ring,"[12, 14, 28]","Elijah Wood, Ian McKellen, Viggo Mortensen, Sean Astin, Ian Holm, Liv Tyler, Christopher Lee, Sean Bean, Billy Boyd, Dominic Monaghan",Peter Jackson,0
+1111873,Abigail,"[27, 53]","Melissa Barrera, Dan Stevens, Alisha Weir, William Catlett, Kathryn Newton, Kevin Durand, Angus Cloud, Giancarlo Esposito, Matthew Goode",Matt Bettinelli-Olpin,0
+1858,Transformers,"[12, 878, 28]","Shia LaBeouf, Megan Fox, Mark Ryan, Peter Cullen, Hugo Weaving, Josh Duhamel, Tyrese Gibson, Charlie Adler, Rachael Taylor, Anthony Anderson",Michael Bay,0
+862,Toy Story,"[16, 12, 10751, 35]","Tom Hanks, Tim Allen, Don Rickles, Jim Varney, Wallace Shawn, John Ratzenberger, Annie Potts, John Morris, Erik von Detten, Laurie Metcalf",John Lasseter,0
+785542,The Outrun,[18],"Saoirse Ronan, Paapa Essiedu, Nabil Elouahabi, Izuka Hoyle, Lauren Lyle, Stephen Dillane, Saskia Reeves, Naomi Wirthner, Tony Hamilton-Croft, Posy Sterling",Nora Fingscheidt,0
+105,Back to the Future,"[12, 35, 878]","Michael J. Fox, Christopher Lloyd, Crispin Glover, Lea Thompson, Claudia Wells, Thomas F. Wilson, Marc McClure, Wendie Jo Sperber, George DiCenzo, Frances Lee McCain",Robert Zemeckis,0
+22,Pirates of the Caribbean: The Curse of the Black Pearl,"[12, 14, 28]","Johnny Depp, Orlando Bloom, Keira Knightley, Geoffrey Rush, Jack Davenport, Jonathan Pryce, Lee Arenberg, Mackenzie Crook, Damian O'Hare, Giles New",Gore Verbinski,0
+845781,Red One,"[28, 14, 35]","Dwayne Johnson, Chris Evans, Lucy Liu, J.K. Simmons, Bonnie Hunt, Kristofer Hivju, Kiernan Shipka, Mary Elizabeth Ellis, Wesley Kimmel, Nick Kroll",Jake Kasdan,0
+76600,Avatar: The Way of Water,"[878, 12, 28]","Sam Worthington, Zoe Saldaña, Sigourney Weaver, Stephen Lang, Kate Winslet, Cliff Curtis, Joel David Moore, CCH Pounder, Edie Falco, Jemaine Clement",James Cameron,0
+150540,Inside Out,"[16, 10751, 12, 18, 35]","Amy Poehler, Phyllis Smith, Richard Kind, Bill Hader, Lewis Black, Mindy Kaling, Kaitlyn Dias, Diane Lane, Kyle MacLachlan, Paula Poundstone",Pete Docter,0
+1100782,Smile 2,"[27, 9648]","Naomi Scott, Rosemarie DeWitt, Lukas Gage, Miles Gutierrez-Riley, Peter Jacobson, Ray Nicholson, Dylan Gelula, Raúl Castillo, Kyle Gallner, Drew Barrymore",Parker Finn,0
+1056444,The Colors Within,"[16, 18, 10402]","Sayu Suzukawa, Akari Takaishi, Taisei Kido, Yui Aragaki, Aoi Yuki, Yasuko, Minako Kotobuki, Keiko Toda",Naoko Yamada,0
+995926,"I, the Executioner","[28, 80]","Hwang Jung-min, Jung Hae-in, Oh Dal-su, Oh Dae-hwan, Jang Yoon-ju, Kim Si-hoo, Jin Kyung, Shin Seung-hwan, Jeong Man-sik, Kwon Hae-hyo",Ryoo Seung-wan,0
+313369,La La Land,"[35, 18, 10749, 10402]","Ryan Gosling, Emma Stone, John Legend, Rosemarie DeWitt, J.K. Simmons, Amiée Conn, Terry Walters, Thom Shelton, Cinda Adams, Callie Hernandez",Damien Chazelle,0
+877817,Wolfs,"[35, 28, 80]","George Clooney, Brad Pitt, Austin Abrams, Amy Ryan, Poorna Jagannathan, Zlatko Burić, Richard Kind, Frances McDormand, Sergio Cota Jr., Alfred Chou",Jon Watts,0
+945961,Alien: Romulus,"[27, 878]","Cailee Spaeny, David Jonsson, Archie Renaux, Isabela Merced, Spike Fearn, Aileen Wu, Rosie Ede, Soma Simon, Bence Okeke, Viktor Orizu",Fede Álvarez,0
+109445,Frozen,"[16, 10751, 12, 14]","Kristen Bell, Idina Menzel, Jonathan Groff, Josh Gad, Livvy Stubenrauch, Santino Fontana, Eva Bella, Alan Tudyk, Maia Wilson, Ciarán Hinds",Chris Buck,0
+839033,The Lord of the Rings: The War of the Rohirrim,"[16, 14, 12, 28]","Brian Cox, Gaia Wise, Luke Pasqualino, Laurence Ubong Williams, Lorraine Ashbourne, Miranda Otto, Shaun Dooley, Benjamin Wainwright, Yazdan Qafouri, Michael Wildman",Kenji Kamiyama,0
+49026,The Dark Knight Rises,"[28, 80, 18, 53]","Christian Bale, Gary Oldman, Tom Hardy, Joseph Gordon-Levitt, Anne Hathaway, Marion Cotillard, Morgan Freeman, Michael Caine, Matthew Modine, Alon Aboutboul",Christopher Nolan,0
+346698,Barbie,"[35, 12]","Margot Robbie, Ryan Gosling, America Ferrera, Ariana Greenblatt, Issa Rae, Kate McKinnon, Alexandra Shipp, Emma Mackey, Hari Nef, Sharon Rooney",Greta Gerwig,0
+346698,Barbie,"[35, 12]","Margot Robbie, Ryan Gosling, America Ferrera, Ariana Greenblatt, Issa Rae, Kate McKinnon, Alexandra Shipp, Emma Mackey, Hari Nef, Sharon Rooney",Greta Gerwig,0
+698687,Transformers One,"[16, 878, 12, 10751]","Chris Hemsworth, Brian Tyree Henry, Scarlett Johansson, Keegan-Michael Key, Jon Hamm, Steve Buscemi, Laurence Fishburne, Vanessa Liguori, Jon Bailey, Jason Konopisos-Alvarez",Josh Cooley,0
+1420424,UFC 313: Pereira vs. Ankalaev,[28],"Alex Pereira, Magomed Ankalaev, Justin Gaethje, Rafael Fiziev, Jalin Turner, Ignacio Bahamondes, Amanda Lemos, Iasmin Lucindo, King Green, Mauricio Ruffy",Unknown,0
+116149,Paddington,"[35, 12, 10751]","Ben Whishaw, Hugh Bonneville, Sally Hawkins, Madeleine Harris, Samuel Joslin, Nicole Kidman, Julie Walters, Imelda Staunton, Peter Capaldi, Michael Gambon",Paul King,0
+603,The Matrix,"[28, 878]","Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving, Gloria Foster, Joe Pantoliano, Marcus Chong, Julian Arahanga, Matt Doran, Belinda McClory",Lana Wachowski,0
+675,Harry Potter and the Order of the Phoenix,"[12, 14]","Daniel Radcliffe, Rupert Grint, Emma Watson, Imelda Staunton, Helena Bonham Carter, Robbie Coltrane, Gary Oldman, Ralph Fiennes, Michael Gambon, Alan Rickman",David Yates,0
+1138194,Heretic,"[27, 53]","Hugh Grant, Sophie Thatcher, Chloe East, Topher Grace, Elle Young, Julie Lynn-Mortensen, Haylie Hansen, Elle McKinnon, Hanna Huffman, Anesha Bailey",Scott Beck,0
+299534,Avengers: Endgame,"[12, 878, 28]","Robert Downey Jr., Chris Evans, Mark Ruffalo, Chris Hemsworth, Scarlett Johansson, Jeremy Renner, Josh Brolin, Don Cheadle, Paul Rudd, Benedict Cumberbatch",Anthony Russo,0
+420818,The Lion King,"[12, 18, 10751, 16]","Chiwetel Ejiofor, John Oliver, Donald Glover, James Earl Jones, John Kani, Alfre Woodard, Beyoncé, JD McCrary, Shahadi Wright Joseph, Penny Johnson Jerald",Jon Favreau,0
+1426674,A Copenhagen Love Story,"[10749, 18]","Rosalinde Mynster, Joachim Fjelstrup, Sara Fanta Traore, Mille Lehfeldt, Magnus Haugaard, Magnus Millang, Sargun Oshana, Anne Marie Helger, Mia Lerdam, Sarah Juel Werner",Ditte Hansen,0
+1407861,The Bayou,"[53, 27, 28]","Elisha Applebaum, Madalena Aragão, David Newman, Sarah Priddy, Andonis Anthony, Athena Strates, Isabelle Bonfrer, Tayla Kovacevic-Ebong, Mohammed Mansaray, Flynn Barnard",Taneli Mustonen,0
+68721,Iron Man 3,"[28, 12, 878]","Robert Downey Jr., Gwyneth Paltrow, Don Cheadle, Guy Pearce, Rebecca Hall, Jon Favreau, Ben Kingsley, James Badge Dale, Stephanie Szostak, Paul Bettany",Shane Black,0
+299537,Captain Marvel,"[28, 12, 878]","Brie Larson, Samuel L. Jackson, Ben Mendelsohn, Jude Law, Annette Bening, Djimon Hounsou, Lee Pace, Lashana Lynch, Gemma Chan, Clark Gregg",Ryan Fleck,0
+1187417,Rumours,"[35, 27]","Cate Blanchett, Roy Dupuis, Nikki Amuka-Bird, Charles Dance, Takehiro Hira, Denis Ménochet, Rolando Ravello, Zlatko Burić, Alicia Vikander, Alexa Kennedy",Guy Maddin,0
+493922,Hereditary,"[27, 9648, 53]","Toni Collette, Alex Wolff, Gabriel Byrne, Milly Shapiro, Ann Dowd, Mallory Bechtel, Brock McKinney, Jake Brown, Morgan Lund, Christy Summerhays",Ari Aster,0
+330459,Rogue One: A Star Wars Story,"[28, 12, 878]","Felicity Jones, Diego Luna, Alan Tudyk, Donnie Yen, Jiang Wen, Ben Mendelsohn, Guy Henry, Forest Whitaker, Riz Ahmed, Mads Mikkelsen",Gareth Edwards,0
+1216191,Oddity,"[27, 9648]","Carolyn Bracken, Jonathan French, Steve Wall, Joe Rooney, Gwilym Lee, Tadhg Murphy, Caroline Menton, Ivan de Wergifosse, Shane Whisker, Josuha Campbell",Damian Mc Carthy,0
+245891,John Wick,"[28, 53]","Keanu Reeves, Michael Nyqvist, Alfie Allen, Willem Dafoe, Dean Winters, Adrianne Palicki, Omer Barnea, Toby Leonard Moore, Daniel Bernhardt, Bridget Moynahan",Chad Stahelski,0
+1426142,Sosyal Climbers,"[10749, 35]","Maris Racal, Anthony Jennings, Ricky Davao, Carmi Martin, Bart Guingona, Cheska Iñigo, Marissa Sanchez, Raquel Pareño, Pam Arambulo, Shanaia Gomez",Jason Paul Laxamana,0
+8587,The Lion King,"[10751, 16, 18]","Matthew Broderick, Moira Kelly, Nathan Lane, Ernie Sabella, James Earl Jones, Jeremy Irons, Robert Guillaume, Rowan Atkinson, Jonathan Taylor Thomas, Niketa Calame-Harris",Roger Allers,0
+299536,Avengers: Infinity War,"[12, 28, 878]","Robert Downey Jr., Chris Evans, Chris Hemsworth, Josh Brolin, Mark Ruffalo, Scarlett Johansson, Don Cheadle, Benedict Cumberbatch, Tom Holland, Chadwick Boseman",Joe Russo,0
+118340,Guardians of the Galaxy,"[28, 878, 12]","Chris Pratt, Zoe Saldaña, Dave Bautista, Vin Diesel, Bradley Cooper, Lee Pace, Michael Rooker, Karen Gillan, Djimon Hounsou, John C. Reilly",James Gunn,0
+10494,Perfect Blue,"[16, 53]","Junko Iwao, Rica Matsumoto, Shiho Niiyama, Masaaki Okura, Shinpachi Tsuji, Emiko Furukawa, Yosuke Akimoto, Yoku Shioya, Hideyuki Hori, Emi Shinohara",Satoshi Kon,0
+12445,Harry Potter and the Deathly Hallows: Part 2,"[14, 12]","Daniel Radcliffe, Emma Watson, Rupert Grint, Ralph Fiennes, Alan Rickman, Michael Gambon, Warwick Davis, Helena Bonham Carter, Ciarán Hinds, Matthew Lewis",David Yates,0
+1425816,Barbie & Teresa: Recipe for Friendship,"[16, 10751, 35]","Tatiana Varria, America Young, Yeni Alvarez, Giselle Fernández, Ren Hanami, Cristina Milizia, Margo Rey, Nicolas Roye, Desirae Whitfield",Karen J. Lloyd,0
+1724,The Incredible Hulk,"[878, 28, 12]","Edward Norton, Liv Tyler, Tim Roth, William Hurt, Tim Blake Nelson, Ty Burrell, Christina Cabot, Peter Mensah, Lou Ferrigno, Paul Soles",Louis Leterrier,0
+12444,Harry Potter and the Deathly Hallows: Part 1,"[12, 14]","Daniel Radcliffe, Emma Watson, Rupert Grint, Toby Jones, Helena Bonham Carter, Alan Rickman, Ralph Fiennes, Bill Nighy, Simon McBurney, Rhys Ifans",David Yates,0
+1097549,Babygirl,[18],"Nicole Kidman, Harris Dickinson, Antonio Banderas, Esther-Rose McGregor, Sophie Wilde, Vaughan Reilly, Victor Slezak, Leslie Silva, Gaite Jansen, Robert Farrior",Halina Reijn,0
+1082195,The Order,"[80, 18, 53]","Jude Law, Nicholas Hoult, Tye Sheridan, Jurnee Smollett, Alison Oliver, Odessa Young, Sebastian Pigott, George Tchortov, Victor Slezak, Phillip Forest Lewitski",Justin Kurzel,0
+993710,Back in Action,"[28, 35]","Jamie Foxx, Cameron Diaz, McKenna Roberts, Rylan Jackson, Kyle Chandler, Glenn Close, Jamie Demetriou, Andrew Scott, Fola Evans-Akingbola, Robert Besta",Seth Gordon,0
+218,The Terminator,"[28, 53, 878]","Arnold Schwarzenegger, Michael Biehn, Linda Hamilton, Paul Winfield, Lance Henriksen, Rick Rossovich, Bess Motta, Earl Boen, Dick Miller, Shawn Schepps",James Cameron,0
+680,Pulp Fiction,"[53, 80]","John Travolta, Samuel L. Jackson, Uma Thurman, Bruce Willis, Ving Rhames, Harvey Keitel, Eric Stoltz, Tim Roth, Amanda Plummer, Maria de Medeiros",Quentin Tarantino,0
+1893,Star Wars: Episode I - The Phantom Menace,"[12, 28, 878]","Liam Neeson, Ewan McGregor, Natalie Portman, Jake Lloyd, Ian McDiarmid, Pernilla August, Oliver Ford Davies, Hugh Quarshie, Ahmed Best, Anthony Daniels",George Lucas,0
+458156,John Wick: Chapter 3 - Parabellum,"[28, 53, 80]","Keanu Reeves, Halle Berry, Ian McShane, Laurence Fishburne, Mark Dacascos, Asia Kate Dillon, Lance Reddick, Anjelica Huston, Saïd Taghmaoui, Jerome Flynn",Chad Stahelski,0
+329,Jurassic Park,"[12, 878]","Sam Neill, Laura Dern, Jeff Goldblum, Richard Attenborough, Bob Peck, Martin Ferrero, BD Wong, Joseph Mazzello, Ariana Richards, Samuel L. Jackson",Steven Spielberg,0
+1216191,Oddity,"[27, 9648]","Carolyn Bracken, Jonathan French, Steve Wall, Joe Rooney, Gwilym Lee, Tadhg Murphy, Caroline Menton, Ivan de Wergifosse, Shane Whisker, Josuha Campbell",Damian Mc Carthy,0
+674,Harry Potter and the Goblet of Fire,"[12, 14]","Daniel Radcliffe, Rupert Grint, Emma Watson, Brendan Gleeson, Michael Gambon, Robert Pattinson, Ralph Fiennes, Robbie Coltrane, Alan Rickman, David Tennant",Mike Newell,0
+129,Spirited Away,"[16, 10751, 14]","Rumi Hiiragi, Miyu Irino, Mari Natsuki, Takashi Naito, Yasuko Sawaguchi, Tsunehiko Kamijô, Takehiko Ono, Bunta Sugawara, Akio Nakamura, Yumi Tamai",Hayao Miyazaki,0
+155,The Dark Knight,"[18, 28, 80, 53]","Christian Bale, Heath Ledger, Aaron Eckhart, Michael Caine, Maggie Gyllenhaal, Gary Oldman, Morgan Freeman, Monique Gabriela Curnen, Ron Dean, Cillian Murphy",Christopher Nolan,0
+1035048,Elevation,"[28, 878, 53]","Anthony Mackie, Morena Baccarin, Maddie Hasson, Danny Boyd Jr., Rachel Nicks, Shauna Earp, Tyler Grey, Drexel Malkoff, David Malkoff, Mike Hickman",George Nolfi,0
+1391482,WWE Elimination Chamber: Toronto,"[10751, 18, 28]","John Cena, Gionna Daddio, Phil Brooks, Bianca Crawford, Andrew Galloway, Alexis Cabrera, Pam Martinez, Logan Paul, Luis Martinez, Patricia Stratigeas",Unknown,0
+454626,Sonic the Hedgehog,"[28, 878, 35, 10751]","Ben Schwartz, James Marsden, Tika Sumpter, Jim Carrey, Natasha Rothwell, Adam Pally, Neal McDonough, Lee Majdoub, Tom Butler, Frank C. Turner",Jeff Fowler,0
+447365,Guardians of the Galaxy Vol. 3,"[878, 12, 28]","Chris Pratt, Zoe Saldaña, Dave Bautista, Karen Gillan, Pom Klementieff, Vin Diesel, Bradley Cooper, Sean Gunn, Chukwudi Iwuji, Will Poulter",James Gunn,0
+361743,Top Gun: Maverick,"[28, 18]","Tom Cruise, Miles Teller, Monica Barbaro, Lewis Pullman, Jay Ellis, Danny Ramirez, Glen Powell, Bashir Salahuddin, Jon Hamm, Charles Parnell",Joseph Kosinski,0
+675353,Sonic the Hedgehog 2,"[28, 12, 10751, 35]","Ben Schwartz, James Marsden, Tika Sumpter, Colleen O'Shaughnessey, Idris Elba, Jim Carrey, Natasha Rothwell, Adam Pally, Shemar Moore, Lee Majdoub",Jeff Fowler,0
+293660,Deadpool,"[28, 12, 35]","Ryan Reynolds, Morena Baccarin, Ed Skrein, T.J. Miller, Gina Carano, Leslie Uggams, Brianna Hildebrand, Stefan Kapičić, Karan Soni, Randal Reeder",Tim Miller,0
+609681,The Marvels,"[878, 12, 28]","Brie Larson, Teyonah Parris, Iman Vellani, Samuel L. Jackson, Zawe Ashton, Gary Lewis, Park Seo-jun, Zenobia Shroff, Mohan Kapur, Saagar Shaikh",Nia DaCosta,0
+284052,Doctor Strange,"[28, 12, 14]","Benedict Cumberbatch, Chiwetel Ejiofor, Rachel McAdams, Benedict Wong, Mads Mikkelsen, Tilda Swinton, Michael Stuhlbarg, Benjamin Bratt, Scott Adkins, Zara Phythian",Scott Derrickson,0
+1895,Star Wars: Episode III - Revenge of the Sith,"[12, 28, 878]","Hayden Christensen, Ewan McGregor, Natalie Portman, Ian McDiarmid, Samuel L. Jackson, Jimmy Smits, Frank Oz, Anthony Daniels, Christopher Lee, Keisha Castle-Hughes",George Lucas,0
+1129923,Hitman 2,"[28, 35]","Kwon Sang-woo, Jeong Jun-ho, Lee Yi-kyung, Hwang Woo-seul-hye, Lee Ji-won, Kim Seung-o, Lee Soon-won, Lee Jun-hyeok, Han Ji-eun, Park Kwang-jae",Choi Won-sub,0
+1226578,Longlegs,"[80, 27, 53]","Maika Monroe, Nicolas Cage, Blair Underwood, Alicia Witt, Michelle Choi-Lee, Dakota Daulby, Lauren Acala, Kiernan Shipka, Maïla Hosie, Jason William Day",Osgood Perkins,0
+13,Forrest Gump,"[35, 18, 10749]","Tom Hanks, Robin Wright, Gary Sinise, Sally Field, Mykelti Williamson, Michael Conner Humphreys, Hanna Hall, Haley Joel Osment, Siobhan Fallon Hogan, Rebecca Williams",Robert Zemeckis,0
+122,The Lord of the Rings: The Return of the King,"[12, 14, 28]","Elijah Wood, Ian McKellen, Viggo Mortensen, Sean Astin, Andy Serkis, Dominic Monaghan, Billy Boyd, John Noble, David Wenham, Miranda Otto",Peter Jackson,0
+1420424,UFC 313: Pereira vs. Ankalaev,[28],"Alex Pereira, Magomed Ankalaev, Justin Gaethje, Rafael Fiziev, Jalin Turner, Ignacio Bahamondes, Amanda Lemos, Iasmin Lucindo, King Green, Mauricio Ruffy",Unknown,0
+710,GoldenEye,"[12, 28, 53]","Pierce Brosnan, Sean Bean, Izabella Scorupco, Famke Janssen, Joe Don Baker, Judi Dench, Robbie Coltrane, Tchéky Karyo, Gottfried John, Alan Cumming",Martin Campbell,0
+620,Ghostbusters,"[35, 14]","Bill Murray, Dan Aykroyd, Sigourney Weaver, Harold Ramis, Rick Moranis, Annie Potts, William Atherton, Ernie Hudson, Slavitza Jovan, David Margulies",Ivan Reitman,0
+978796,Bagman,"[27, 53]","Sam Claflin, Antonia Thomas, Caréll Vincent Rhoden, Will Davis, Adelle Leonce, William Hope, Steven Cree, Rosalie Craig, Peter McDonald, Henry Pettigrew",Colm McCarthy,0
+395817,The Thicket,"[80, 53, 37]","Peter Dinklage, Juliette Lewis, Levon Hawke, Leslie Grace, Gbenga Akinnagbe, Esme Creed-Miles, Andrew Schulz, Macon Blair, Arliss Howard, James Hetfield",Elliott Lester,0
+1255795,Putin,"[18, 53, 10752]","Sławomir Sobala, Thomas Kretschmann, Maksymilian Zieliński, Justyna Karłowska, Przemysław Bluszcz, Tomasz Dedek, Aron Jończyk, Michał Karmowski, Marek Kasprzyk, Andris Keišs",Patryk Vega,0
+78,Blade Runner,"[878, 18, 53]","Harrison Ford, Rutger Hauer, Sean Young, Edward James Olmos, M. Emmet Walsh, Daryl Hannah, William Sanderson, Brion James, Joe Turkel, Joanna Cassidy",Ridley Scott,0
+329865,Arrival,"[18, 878, 9648]","Amy Adams, Jeremy Renner, Forest Whitaker, Michael Stuhlbarg, Mark O'Brien, Tzi Ma, Abigail Pniowsky, Julia Scarlett Dan, Jadyn Malone, Frank Schorpion",Denis Villeneuve,0
+149,Akira,"[16, 878, 28]","Mitsuo Iwata, Nozomu Sasaki, Mami Koyama, Tarō Ishida, Mizuho Suzuki, Tessyo Genda, Koichi Kitamura, Yuriko Fuchizaki, Masaaki Okura, Takeshi Kusao",Katsuhiro Otomo,0
+49051,The Hobbit: An Unexpected Journey,"[12, 14, 28]","Martin Freeman, Ian McKellen, Richard Armitage, James Nesbitt, Ken Stott, Sylvester McCoy, Barry Humphries, Dean O'Gorman, Aidan Turner, Graham McTavish",Peter Jackson,0
+181808,Star Wars: The Last Jedi,"[12, 28, 878]","Mark Hamill, Carrie Fisher, Adam Driver, Daisy Ridley, John Boyega, Oscar Isaac, Andy Serkis, Lupita Nyong'o, Domhnall Gleeson, Anthony Daniels",Rian Johnson,0
+1038263,Maria,"[18, 10402]","Angelina Jolie, Pierfrancesco Favino, Alba Rohrwacher, Haluk Bilginer, Kodi Smit-McPhee, Stephen Ashfield, Valeria Golino, Caspar Phillipson, Lydia Koniordou, Vincent Macaigne",Pablo Larraín,0
+324552,John Wick: Chapter 2,"[28, 53, 80]","Keanu Reeves, Common, Ian McShane, Laurence Fishburne, Riccardo Scamarcio, Ruby Rose, Lance Reddick, Peter Stormare, Bridget Moynahan, Franco Nero",Chad Stahelski,0
+920,Cars,"[16, 12, 35, 10751]","Owen Wilson, Paul Newman, Bonnie Hunt, Larry the Cable Guy, Cheech Marin, Tony Shalhoub, Guido Quaroni, Jenifer Lewis, Paul Dooley, Michael Wallis",John Lasseter,0
+1087822,Hellboy: The Crooked Man,"[14, 27, 28]","Jack Kesy, Jefferson White, Adeline Rudolph, Leah McNamara, Hannah Margetson, Martin Bassindale, Joseph Marcell, Suzanne Bertish, Bodgan Haralambov, Carola Colombo",Brian Taylor,0
+519182,Despicable Me 4,"[16, 10751, 35, 878]","Steve Carell, Kristen Wiig, Will Ferrell, Sofía Vergara, Miranda Cosgrove, Dana Gaier, Madison Polan, Pierre Coffin, Chris Renaud, Steve Coogan",Chris Renaud,0
+1150370,Cold Wallet,[53],"Raúl Castillo, Melonie Diaz, Tony Cavalero, Josh Brener, Zoe Winters, Ian Unterman, Genevieve Adams, Joanna Sylvie Weinig, Otoja Abit, Elizabeth Aspenlieder",Cutter Hodierne,0
+242224,The Babadook,"[18, 27]","Essie Davis, Noah Wiseman, Hayley McElhinney, Daniel Henshall, Barbara West, Ben Winspear, Cathy Adamek, Craig Behenna, Hachi, Tim Purcell",Jennifer Kent,0
+1200801,F Marry Kill,"[35, 53]","Lucy Hale, Virginia Gardner, Brooke Nevin, Jedidiah Goodacre, Brendan Morgan, Samer Salem, Bethany Brown, JayR Tinaco, Haley Victoria Hunt, RJ Fetherstonhaugh",Laura Murphy,0
+24428,The Avengers,"[878, 28, 12]","Robert Downey Jr., Chris Evans, Mark Ruffalo, Chris Hemsworth, Scarlett Johansson, Jeremy Renner, Tom Hiddleston, Clark Gregg, Cobie Smulders, Stellan Skarsgård",Joss Whedon,0
+285,Pirates of the Caribbean: At World's End,"[12, 14, 28]","Johnny Depp, Orlando Bloom, Keira Knightley, Geoffrey Rush, Stellan Skarsgård, Chow Yun-Fat, Bill Nighy, Jack Davenport, Kevin McNally, Tom Hollander",Gore Verbinski,0
+1219560,Old White Man,[35],"Jan Josef Liefers, Nadja Uhl, Elyas M'Barek, Friedrich von Thun, Denise M'Baye, Michael Maertens, Juri Winkler, Momo Beier, Meltem Kaptan, Sarah Mahita",Simon Verhoeven,0
+940721,Godzilla Minus One,"[878, 27, 28]","Ryunosuke Kamiki, Minami Hamabe, Yuki Yamada, Munetaka Aoki, Hidetaka Yoshioka, Sakura Ando, Kuranosuke Sasaki, Saki Nakatani, Miou Tanaka, Yuya Endo",Takashi Yamazaki,0
+9532,Final Destination,[27],"Devon Sawa, Ali Larter, Kerr Smith, Kristen Cloke, Seann William Scott, Chad Donella, Amanda Detmer, Tony Todd, Daniel Roebuck, Roger Guenveur Smith",James Wong,0
+1280672,One of Them Days,[35],"Keke Palmer, SZA, Joshua David Neal, Aziza Scott, Patrick Cage, Katt Williams, Maude Apatow, Vanessa Bell Calloway, Gabrielle Dennis, Janelle James",Lawrence Lamont,0
+634649,Spider-Man: No Way Home,"[28, 12, 878]","Tom Holland, Zendaya, Benedict Cumberbatch, Jacob Batalon, Jon Favreau, Jamie Foxx, Willem Dafoe, Alfred Molina, Benedict Wong, Tony Revolori",Jon Watts,0
+89,Indiana Jones and the Last Crusade,"[12, 28]","Harrison Ford, Sean Connery, Denholm Elliott, Alison Doody, John Rhys-Davies, Julian Glover, River Phoenix, Michael Byrne, Kevork Malikyan, Robert Eddison",Steven Spielberg,0
+102899,Ant-Man,"[878, 28, 12]","Paul Rudd, Michael Douglas, Evangeline Lilly, Corey Stoll, Bobby Cannavale, Anthony Mackie, Judy Greer, Abby Ryder Fortson, Michael Peña, David Dastmalchian",Peyton Reed,0
+370172,No Time to Die,"[28, 53, 12]","Daniel Craig, Léa Seydoux, Rami Malek, Lashana Lynch, Ralph Fiennes, Ben Whishaw, Naomie Harris, Rory Kinnear, Jeffrey Wright, Billy Magnussen",Cary Joji Fukunaga,0
+1102493,Small Things Like These,[18],"Cillian Murphy, Emily Watson, Michelle Fairley, Eileen Walsh, Zara Devlin, Clare Dunne, Helen Behan, Ella Cannon, Patrick Ryan, Peter Claffey",Tim Mielants,0
+75780,Jack Reacher,"[80, 18, 53, 28]","Tom Cruise, Rosamund Pike, Richard Jenkins, David Oyelowo, Werner Herzog, Jai Courtney, Robert Duvall, Vladimir Sizov, Joseph Sikora, Nicole Forester",Christopher McQuarrie,0
+284053,Thor: Ragnarok,"[28, 12, 878]","Chris Hemsworth, Mark Ruffalo, Tom Hiddleston, Cate Blanchett, Idris Elba, Jeff Goldblum, Tessa Thompson, Karl Urban, Anthony Hopkins, Benedict Cumberbatch",Taika Waititi,0
+694,The Shining,"[27, 53]","Jack Nicholson, Shelley Duvall, Danny Lloyd, Scatman Crothers, Barry Nelson, Philip Stone, Joe Turkel, Anne Jackson, Tony Burton, Lia Beldam",Stanley Kubrick,0
+421892,Shrek 5,"[16, 10751, 35, 14]","Mike Myers, Eddie Murphy, Cameron Diaz, Zendaya, Cody Cameron",Walt Dohrn,0
+1191605,Una muerte silenciosa,[53],"Joaquín Furriel, Soledad Villamil, Alejandro Awada, Víctor Laplace, Patricio Contreras, María Marull, Javier Pedersoli, Sol Wainer, Gonzalo Garrido, Ramiro Pintor",Sebastián Schindel,0
+1100099,We Live in Time,"[10749, 18]","Andrew Garfield, Florence Pugh, Grace Delaney, Lee Braithwaite, Aoife Hinds, Adam James, Douglas Hodge, Amy Morgan, Niamh Cusack, Lucy Briers",John Crowley,0
+972533,Last Breath,"[53, 18]","Woody Harrelson, Simu Liu, Finn Cole, Cliff Curtis, Mark Bonnar, MyAnna Buring, Josef Altin, Bobby Rainsbury, Connor Reed, Nick Biadon",Alex Parkinson,0
+70160,The Hunger Games,"[878, 12, 14]","Jennifer Lawrence, Josh Hutcherson, Liam Hemsworth, Woody Harrelson, Elizabeth Banks, Lenny Kravitz, Stanley Tucci, Donald Sutherland, Wes Bentley, Toby Jones",Gary Ross,0
+1422179,The Wrong Track,"[35, 18]","Ada Eide, Trond Fausa Aurvåg, Marie Blokhus, Christian Rubeck, Saga Tuset Meisfjordskar, Deniz Kaya, Shana Mathai, Pia Halvorsen, Nils Bendik Kvissel, André Sørum",Hallvar Witzø,0
+1235499,The Last Showgirl,[18],"Pamela Anderson, Jamie Lee Curtis, Dave Bautista, Brenda Song, Kiernan Shipka, Billie Lourd, John Clofine, Jason Schwartzman, Patrick Hilgart, Jesse Phillips",Gia Coppola,0
+9738,Fantastic Four,"[28, 14, 878]","Ioan Gruffudd, Jessica Alba, Chris Evans, Michael Chiklis, Julian McMahon, Hamish Linklater, Kerry Washington, Laurie Holden, David Parker, Kevin McNulty",Tim Story,0
+765897,The Unbreakable Boy,"[18, 10751]","Zachary Levi, Gavin Warren, Jacob Laval, Amy Acker, Meghann Fahy, Bruce Davis, Kellen Martelli, Roy Jackson Miller, Elle Adler, Patricia Heaton",Jon Gunn,0
+1425617,Another You,"[35, 10749]","Giray Altınok, Ezgi Mola, Kerem Özdoğan, Şükran Ovalı, Nevra Serezli, Hüseyin Avni Danyal, Deniz Cengiz, Ömer Faruk Çavuş, Cihat Tamer, Nergis Çorakçı",Ömer Faruk Sorak,0
+1120911,Saturday Night,"[35, 18]","Gabriel LaBelle, Rachel Sennott, Cory Michael Smith, Ella Hunt, Dylan O'Brien, Emily Fairn, Matt Wood, Lamorne Morris, Kim Matula, Tommy Dewey",Jason Reitman,0
+617126,The Fantastic Four: First Steps,"[878, 12]","Pedro Pascal, Vanessa Kirby, Joseph Quinn, Ebon Moss-Bachrach, Ralph Ineson, Julia Garner, Paul Walter Hauser, John Malkovich, Natasha Lyonne, Sarah Niles",Matt Shakman,0
+4951,10 Things I Hate About You,"[35, 10749, 18]","Heath Ledger, Julia Stiles, Joseph Gordon-Levitt, Larisa Oleynik, David Krumholtz, Andrew Keegan, Susan May Pratt, Gabrielle Union, Larry Miller, Daryl Mitchell",Gil Junger,0
+1891,The Empire Strikes Back,"[12, 28, 878]","Mark Hamill, Harrison Ford, Carrie Fisher, Billy Dee Williams, Anthony Daniels, David Prowse, Peter Mayhew, Kenny Baker, Frank Oz, Alec Guinness",Irvin Kershner,0
+550988,Free Guy,"[35, 12, 878]","Ryan Reynolds, Jodie Comer, Joe Keery, Lil Rel Howery, Utkarsh Ambudkar, Taika Waititi, Channing Tatum, Aaron W Reed, Britne Oldford, Camille Kostek",Shawn Levy,0
+36647,Blade,"[27, 28]","Wesley Snipes, Stephen Dorff, Kris Kristofferson, N'Bushe Wright, Donal Logue, Udo Kier, Arly Jover, Traci Lords, Kevin Patrick Walls, Tim Guinee",Stephen Norrington,0
+1541,Thelma & Louise,"[18, 53, 80, 12]","Susan Sarandon, Geena Davis, Harvey Keitel, Michael Madsen, Christopher McDonald, Stephen Tobolowsky, Brad Pitt, Timothy Carhart, Lucinda Jenney, Jason Beghe",Ridley Scott,0
+1029235,Azrael,"[28, 27, 53]","Samara Weaving, Vic Carmen Sonne, Katariina Unt, Peter Christoffersen, Nathan Stewart-Jarrett, Johhan Rosenberg, Eero Milonoff, Sebastian Bull Sarning, Rea Lest, Phong Giang",E.L. Katz,0
+9800,Philadelphia,[18],"Tom Hanks, Denzel Washington, Jason Robards, Mary Steenburgen, Antonio Banderas, Ron Vawter, Robert Ridgely, Charles Napier, Lisa Summerour, Obba Babatundé",Jonathan Demme,0
+274,The Silence of the Lambs,"[80, 18, 53]","Jodie Foster, Anthony Hopkins, Scott Glenn, Ted Levine, Anthony Heald, Brooke Smith, Diane Baker, Kasi Lemmons, Frankie Faison, Tracey Walter",Jonathan Demme,0
+507086,Jurassic World Dominion,"[12, 28, 878]","Chris Pratt, Bryce Dallas Howard, Laura Dern, Sam Neill, Jeff Goldblum, DeWanda Wise, Mamoudou Athie, Isabella Sermon, Campbell Scott, BD Wong",Colin Trevorrow,0
+767,Harry Potter and the Half-Blood Prince,"[12, 14]","Daniel Radcliffe, Rupert Grint, Emma Watson, Jim Broadbent, Michael Gambon, Tom Felton, Alan Rickman, Bonnie Wright, Jessie Cave, Evanna Lynch",David Yates,0
+209112,Batman v Superman: Dawn of Justice,"[28, 12, 14]","Ben Affleck, Henry Cavill, Jesse Eisenberg, Gal Gadot, Amy Adams, Diane Lane, Laurence Fishburne, Jeremy Irons, Holly Hunter, Scoot McNairy",Zack Snyder,0
+965150,Aftersun,[18],"Paul Mescal, Frankie Corio, Brooklyn Toulson, Celia Rowlson-Hall, Sally Messham, Ayşe Parlak, Sophia Lamanova, Spike Fearn, Harry Perdios, Frank Corio",Charlotte Wells,0
+10191,How to Train Your Dragon,"[14, 12, 16, 10751]","Jay Baruchel, Gerard Butler, Craig Ferguson, America Ferrera, Jonah Hill, Christopher Mintz-Plasse, T.J. Miller, Kristen Wiig, Robin Atkin Downes, Philip McGrade",Dean DeBlois,0
+718821,Twisters,"[28, 53]","Daisy Edgar-Jones, Glen Powell, Anthony Ramos, Brandon Perea, Maura Tierney, Harry Hadden-Paton, Sasha Lane, Daryl McCormack, Kiernan Shipka, Nik Dodani",Lee Isaac Chung,0
+957314,The Passenger,"[27, 53]","Kyle Gallner, Johnny Berchtold, Liza Weil, Billy Slaughter, Matthew Laureano, Jordan Sherley, Kanesha Washington, Lupe Leon, Merah Benoit, Glendon Ray Hobgood",Carter Smith,0
+809,Shrek 2,"[16, 10751, 35, 14, 12]","Mike Myers, Eddie Murphy, Cameron Diaz, Julie Andrews, Antonio Banderas, John Cleese, Rupert Everett, Jennifer Saunders, Aron Warner, Kelly Asbury",Conrad Vernon,0
+278,The Shawshank Redemption,"[18, 80]","Morgan Freeman, Tim Robbins, Bob Gunton, William Sadler, Clancy Brown, Gil Bellows, James Whitmore, Mark Rolston, Jeffrey DeMunn, Larry Brandenburg",Frank Darabont,0
+10193,Toy Story 3,"[16, 10751, 35]","Tom Hanks, Tim Allen, Joan Cusack, Don Rickles, Wallace Shawn, John Ratzenberger, Estelle Harris, Blake Clark, Jeff Pidgeon, Ned Beatty",Lee Unkrich,0
+545611,Everything Everywhere All at Once,"[28, 12, 878]","Michelle Yeoh, Stephanie Hsu, Ke Huy Quan, James Hong, Jamie Lee Curtis, Tallie Medel, Jenny Slate, Harry Shum Jr., Biff Wiff, Sunita Mani",Daniel Scheinert,0
+640146,Ant-Man and the Wasp: Quantumania,"[28, 12, 878]","Paul Rudd, Evangeline Lilly, Michael Douglas, Michelle Pfeiffer, Jonathan Majors, Kathryn Newton, Corey Stoll, Bill Murray, Katy O'Brian, William Jackson Harper",Peyton Reed,0
+58,Pirates of the Caribbean: Dead Man's Chest,"[12, 14, 28]","Johnny Depp, Orlando Bloom, Keira Knightley, Stellan Skarsgård, Bill Nighy, Jack Davenport, Kevin McNally, Jonathan Pryce, Lee Arenberg, Mackenzie Crook",Gore Verbinski,0
+1153714,Death of a Unicorn,"[35, 14, 27]","Jenna Ortega, Paul Rudd, David Pasquesi, Anthony Carrigan, Richard E. Grant, Téa Leoni, Will Poulter, Jessica Hynes, Denise Delgado, Kathryn Erbe",Alex Scharfman,0
+1153110,Bookworm,"[12, 10751, 35, 18]","Nell Fisher, Elijah Wood, Michael Smiley, Vanessa Stacey, Morgana O'Reilly, Millen Baird, Nikki Si'ulepa, Theo Shakes",Ant Timpson,0
+1153714,Death of a Unicorn,"[35, 14, 27]","Jenna Ortega, Paul Rudd, David Pasquesi, Anthony Carrigan, Richard E. Grant, Téa Leoni, Will Poulter, Jessica Hynes, Denise Delgado, Kathryn Erbe",Alex Scharfman,0
+385687,Fast X,"[28, 80, 53, 12, 9648]","Vin Diesel, Michelle Rodriguez, Tyrese Gibson, Ludacris, John Cena, Nathalie Emmanuel, Jordana Brewster, Sung Kang, Jason Momoa, Scott Eastwood",Louis Leterrier,0
+260513,Incredibles 2,"[28, 12, 16, 10751]","Craig T. Nelson, Holly Hunter, Sarah Vowell, Huck Milner, Samuel L. Jackson, Bob Odenkirk, Catherine Keener, Jonathan Banks, Brad Bird, John Ratzenberger",Brad Bird,0
+9799,The Fast and the Furious,"[28, 80, 53]","Paul Walker, Vin Diesel, Michelle Rodriguez, Jordana Brewster, Rick Yune, Chad Lindberg, Johnny Strong, Matt Schulze, Ja Rule, Ted Levine",Rob Cohen,0
+1391482,WWE Elimination Chamber: Toronto,"[10751, 18, 28]","John Cena, Gionna Daddio, Phil Brooks, Bianca Crawford, Andrew Galloway, Alexis Cabrera, Pam Martinez, Logan Paul, Luis Martinez, Patricia Stratigeas",Unknown,0
+62211,Monsters University,"[16, 10751]","Billy Crystal, John Goodman, Steve Buscemi, Helen Mirren, Peter Sohn, Joel Murray, Sean Hayes, Dave Foley, Charlie Day, Alfred Molina",Dan Scanlon,0
+76341,Mad Max: Fury Road,"[28, 12, 878]","Tom Hardy, Charlize Theron, Nicholas Hoult, Hugh Keays-Byrne, Josh Helman, Nathan Jones, Zoë Kravitz, Rosie Huntington-Whiteley, Riley Keough, Abbey Lee",George Miller,0
+8914,Deep Blue Sea,"[28, 27, 878]","Thomas Jane, Saffron Burrows, Samuel L. Jackson, Jacqueline McKenzie, Michael Rapaport, Stellan Skarsgård, LL Cool J, Aida Turturro, Cristos, Daniel Rey",Renny Harlin,0
+453395,Doctor Strange in the Multiverse of Madness,"[14, 28, 12]","Benedict Cumberbatch, Xochitl Gomez, Elizabeth Olsen, Chiwetel Ejiofor, Benedict Wong, Rachel McAdams, Jett Klyne, Julian Hilliard, Michael Stuhlbarg, Hayley Atwell",Sam Raimi,0
+1155828,Sing Sing,[18],"Colman Domingo, Clarence Maclin, Sean San Jose, Paul Raci, David ""Dap"" Giraudy, Patrick ""Preme"" Griffin, Mosi Eagle, James ""Big E"" Williams, Sean Dino Johnson, Brent Buell",Greg Kwedar,0
+12,Finding Nemo,"[16, 10751]","Albert Brooks, Ellen DeGeneres, Alexander Gould, Willem Dafoe, Geoffrey Rush, Brad Garrett, Allison Janney, Austin Pendleton, Stephen Root, Vicki Lewis",Andrew Stanton,0
+383498,Deadpool 2,"[28, 35, 12]","Ryan Reynolds, Josh Brolin, Morena Baccarin, Julian Dennison, Zazie Beetz, T.J. Miller, Leslie Uggams, Karan Soni, Brianna Hildebrand, Jack Kesy",David Leitch,0
+14160,Up,"[16, 35, 10751, 12]","Ed Asner, Christopher Plummer, Jordan Nagai, Bob Peterson, Delroy Lindo, Jerome Ranft, John Ratzenberger, David Kaye, Elie Docter, Jeremy Leary",Pete Docter,0
+1426408,Larissa: The Other Side of Anitta,"[99, 10402]","Anitta, Pedro Cantelmo",João Wainer,0
+1266863,Timuchin,[18],,Aman Ergaziev,0
+1064486,Memoir of a Snail,"[16, 18, 35]","Sarah Snook, Kodi Smit-McPhee, Jacki Weaver, Magda Szubanski, Dominique Pinon, Tony Armstrong, Paul Capsis, Eric Bana, Bernie Clifford, Davey Thompson",Adam Elliot,0
+76338,Thor: The Dark World,"[28, 12, 14]","Chris Hemsworth, Natalie Portman, Tom Hiddleston, Christopher Eccleston, Anthony Hopkins, Jaimie Alexander, Zachary Levi, Ray Stevenson, Tadanobu Asano, Idris Elba",Alan Taylor,0
+1669,The Hunt for Red October,"[28, 12, 53]","Sean Connery, Alec Baldwin, Scott Glenn, Sam Neill, James Earl Jones, Joss Ackland, Richard Jordan, Peter Firth, Tim Curry, Courtney B. Vance",John McTiernan,0
+372058,Your Name.,"[16, 10749, 18]","Ryunosuke Kamiki, Mone Kamishiraishi, Ryo Narita, Aoi Yuki, Nobunaga Shimazaki, Kaito Ishikawa, Kanon Tani, Masaki Terasoma, Sayaka Ohara, Kazuhiko Inoue",Makoto Shinkai,0
+653346,Kingdom of the Planet of the Apes,"[878, 12, 28, 18, 53]","Owen Teague, Freya Allan, Kevin Durand, Peter Macon, William H. Macy, Eka Darville, Travis Jeffery, Lydia Peckham, Neil Sandilands, Ras-Samuel Welda'abzgi",Wes Ball,0
+140607,Star Wars: The Force Awakens,"[12, 28, 878]","Harrison Ford, Mark Hamill, Carrie Fisher, Adam Driver, Daisy Ridley, John Boyega, Oscar Isaac, Lupita Nyong'o, Andy Serkis, Domhnall Gleeson",J.J. Abrams,0
+1146613,The Silent Planet,"[878, 53]","Briana Middleton, Elias Koteas, Bridget Wareham, Reuben Frederick Gear, Justin Nurse",Jeffrey St. Jules,0
+60898,Erotic Ghost Story,"[14, 18, 27]","Amy Yip Chi-Mei, Man Siu, Hitomi Kudô, Pal Sinn Lap-Man, Ha Chi-Chun, Manfred Wong Man-Chun, Lam Chung, Sai Gwa-Pau",Lam Nai-Choi,0
+244786,Whiplash,"[18, 10402]","Miles Teller, J.K. Simmons, Paul Reiser, Melissa Benoist, Austin Stowell, Nate Lang, Chris Mulkey, Damon Gupton, Suanne Spoke, Max Kasch",Damien Chazelle,0
+181812,Star Wars: The Rise of Skywalker,"[12, 28, 878]","Carrie Fisher, Mark Hamill, Daisy Ridley, Adam Driver, John Boyega, Oscar Isaac, Anthony Daniels, Naomi Ackie, Domhnall Gleeson, Richard E. Grant",J.J. Abrams,0
+799583,The Ministry of Ungentlemanly Warfare,"[28, 35, 10752]","Henry Cavill, Eiza González, Alan Ritchson, Henry Golding, Cary Elwes, Alex Pettyfer, Hero Fiennes Tiffin, Babs Olusanmokun, Henry Zaga, Til Schweiger",Guy Ritchie,0
+508883,The Boy and the Heron,"[16, 12, 14, 10751, 18]","Soma Santoki, Masaki Suda, Ko Shibasaki, Aimyon, Yoshino Kimura, Takuya Kimura, Keiko Takeshita, Jun Fubuki, Sawako Agawa, Karen Takizawa",Hayao Miyazaki,0
+396535,Train to Busan,"[27, 53, 28, 12]","Gong Yoo, Kim Su-an, Jung Yu-mi, Don Lee, Choi Woo-shik, An So-hee, Kim Eui-sung, Ye Su-jeong, Park Myung-shin, Choi Gwi-hwa",Yeon Sang-ho,0
+6977,No Country for Old Men,"[80, 18, 53]","Javier Bardem, Tommy Lee Jones, Josh Brolin, Woody Harrelson, Kelly Macdonald, Garret Dillahunt, Tess Harper, Barry Corbin, Stephen Root, Rodger Boyce",Joel Coen,0
+122917,The Hobbit: The Battle of the Five Armies,"[28, 12, 14]","Ian McKellen, Martin Freeman, Richard Armitage, Orlando Bloom, Evangeline Lilly, Luke Evans, Lee Pace, Benedict Cumberbatch, Ken Stott, Aidan Turner",Peter Jackson,0
+3049,Ace Ventura: Pet Detective,"[35, 9648, 80, 12]","Jim Carrey, Courteney Cox, Sean Young, Tone Loc, Dan Marino, Noble Willingham, Troy Evans, Raynor Scheine, Udo Kier, Frank Adonis",Tom Shadyac,0
+420634,Terrifier,"[27, 53]","David Howard Thornton, Jenna Kanell, Samantha Scaffidi, Catherine Corcoran, Pooya Mohseni, Matt McAllister, Katie Maguire, Gino Cafarelli, Cory DuVal, Michael Leavy",Damien Leone,0
+1366,Rocky,[18],"Sylvester Stallone, Talia Shire, Burt Young, Carl Weathers, Burgess Meredith, Thayer David, Joe Spinell, Jimmy Gambina, Bill Baldwin, Al Silvani",John G. Avildsen,0
+335977,Indiana Jones and the Dial of Destiny,"[12, 28]","Harrison Ford, Phoebe Waller-Bridge, Mads Mikkelsen, Boyd Holbrook, Olivier Richters, Ethann Isidore, Toby Jones, Antonio Banderas, Karen Allen, John Rhys-Davies",James Mangold,0
+1051,The French Connection,"[28, 80, 53]","Gene Hackman, Fernando Rey, Roy Scheider, Tony Lo Bianco, Marcel Bozzuffi, Frédéric de Pasquale, Bill Hickman, Ann Rebbot, Harold Gary, Arlene Farber",William Friedkin,0
+283995,Guardians of the Galaxy Vol. 2,"[878, 12, 28]","Chris Pratt, Zoe Saldaña, Dave Bautista, Vin Diesel, Bradley Cooper, Kurt Russell, Michael Rooker, Karen Gillan, Pom Klementieff, Sylvester Stallone",James Gunn,0
+889737,Joker: Folie à Deux,"[18, 80, 53]","Joaquin Phoenix, Lady Gaga, Brendan Gleeson, Catherine Keener, Zazie Beetz, Steve Coogan, Harry Lawtey, Leigh Gill, Ken Leung, Jacob Lofland",Todd Phillips,0
+937287,Challengers,"[10749, 18]","Zendaya, Mike Faist, Josh O'Connor, Darnell Appling, Bryan Doo, Shane T Harris, Nada Despotovich, Joan Mcshane, Chris Fowler, Mary Joe Fernández",Luca Guadagnino,0
+744,Top Gun,"[28, 18]","Tom Cruise, Kelly McGillis, Val Kilmer, Anthony Edwards, Tom Skerritt, Michael Ironside, John Stockwell, Barry Tubb, Rick Rossovich, Tim Robbins",Tony Scott,0
+889737,Joker: Folie à Deux,"[18, 80, 53]","Joaquin Phoenix, Lady Gaga, Brendan Gleeson, Catherine Keener, Zazie Beetz, Steve Coogan, Harry Lawtey, Leigh Gill, Ken Leung, Jacob Lofland",Todd Phillips,0
+937287,Challengers,"[10749, 18]","Zendaya, Mike Faist, Josh O'Connor, Darnell Appling, Bryan Doo, Shane T Harris, Nada Despotovich, Joan Mcshane, Chris Fowler, Mary Joe Fernández",Luca Guadagnino,0
+744,Top Gun,"[28, 18]","Tom Cruise, Kelly McGillis, Val Kilmer, Anthony Edwards, Tom Skerritt, Michael Ironside, John Stockwell, Barry Tubb, Rick Rossovich, Tim Robbins",Tony Scott,0
+1232827,The Girl with the Needle,"[18, 36]","Vic Carmen Sonne, Trine Dyrholm, Besir Zeciri, Joachim Fjelstrup, Tessa Hoder, Ava Knox Martin, Ari Alexander, Søren Sætter-Lassen, Magnus von Horn, Anna Terpiłowska",Magnus von Horn,0
+679,Aliens,"[28, 53, 878]","Sigourney Weaver, Carrie Henn, Michael Biehn, Paul Reiser, Lance Henriksen, Bill Paxton, William Hope, Jenette Goldstein, Al Matthews, Mark Rolston",James Cameron,0
+895549,NYAD,"[18, 36]","Annette Bening, Jodie Foster, Rhys Ifans, Ethan Jones Romero, Luke Cosgrove, Jeena Yi, Eric T. Miller, Anne Marie Kempf, Carolyn McCormick, Marcos Diaz",Elizabeth Chai Vasarhelyi,0
+346648,Paddington 2,"[12, 35, 10751]","Ben Whishaw, Sally Hawkins, Hugh Bonneville, Hugh Grant, Madeleine Harris, Samuel Joslin, Julie Walters, Imelda Staunton, Brendan Gleeson, Jim Broadbent",Paul King,0
+363088,Ant-Man and the Wasp,"[28, 12, 878]","Paul Rudd, Evangeline Lilly, Michael Douglas, Hannah John-Kamen, Randall Park, Michelle Pfeiffer, Laurence Fishburne, Michael Peña, Walton Goggins, Bobby Cannavale",Peyton Reed,0
+101,Léon: The Professional,"[80, 18, 28]","Jean Reno, Natalie Portman, Gary Oldman, Danny Aiello, Peter Appel, Michael Badalucco, Ellen Greene, Elizabeth Regen, Carl J. Matusovich, Eric Challier",Luc Besson,0
+861,Total Recall,"[28, 12, 878]","Arnold Schwarzenegger, Rachel Ticotin, Sharon Stone, Ronny Cox, Michael Ironside, Marshall Bell, Mel Johnson Jr., Michael Champion, Roy Brocksmith, Ray Baker",Paul Verhoeven,0
+1310682,11 Rebels,"[28, 18, 36, 53]","Takayuki Yamada, Taiga Nakano, Riho Sayashi, Ukon Onoe, Takara Sakumoto, Amane Okayama, Yuya Matsuura, Shuhei Nomura, Takuma Otoo, Hiroshi Tamaki",Kazuya Shiraishi,0
+99861,Avengers: Age of Ultron,"[28, 12, 878]","Robert Downey Jr., Chris Hemsworth, Mark Ruffalo, Chris Evans, Scarlett Johansson, Jeremy Renner, James Spader, Samuel L. Jackson, Don Cheadle, Aaron Taylor-Johnson",Joss Whedon,0
+9711,Species III,"[878, 28, 27]","Robin Dunne, Robert Knepper, Sunny Mabrey, Amelia Cooke, Christopher Neame, Patricia Bethune, Michael Warren, Natasha Henstridge, John Paul Pitoc, Joel Stoffer",Brad Turner,0
+949716,Vidaamuyarchi,"[28, 53]","Ajith Kumar, Arjun Sarja, Trisha Krishnan, Regina Cassandra, Aarav Kizar, Ravi Raghavendra, Jeeva Ravi, Sandhya Janak, Ramya Subramanian, Nikhil Nair",Magizh Thirumeni,0
+929590,Civil War,"[10752, 28, 18]","Kirsten Dunst, Wagner Moura, Cailee Spaeny, Stephen McKinley Henderson, Nelson Lee, Nick Offerman, Jefferson White, Evan Lai, Vince Pisani, Justin James Boykin",Alex Garland,0
+1410082,Sniper: The Last Stand,"[28, 53]","Chad Michael Collins, Ryan Robbins, Sharon Taylor, Manuel Rodriguez-Saenz, Vusi Kunene, Sizo Mahlangu, Noxolo Dlamini, Arnold Vosloo, Rob van Vuuren, Scott George",Danishka Esterhazy,0
+4547,Panic Room,"[80, 18, 53]","Jodie Foster, Kristen Stewart, Forest Whitaker, Dwight Yoakam, Jared Leto, Patrick Bauchau, Ann Magnuson, Ian Buchanan, Andrew Kevin Walker, Paul Schulze",David Fincher,0
+1214509,In a Violent Nature,"[27, 53]","Ry Barrett, Andrea Pavlovic, Cameron Love, Reece Presley, Liam Leone, Charlotte Creaghan, Lea Rose Sebastianis, Sam Roulston, Alexander Oliver, Timothy Paul McCarthy",Chris Nash,0
+792307,Poor Things,"[878, 10749, 35]","Emma Stone, Mark Ruffalo, Willem Dafoe, Ramy Youssef, Christopher Abbott, Suzy Bemba, Jerrod Carmichael, Kathryn Hunter, Vicki Pepperdine, Hanna Schygulla",Yorgos Lanthimos,0
+616037,Thor: Love and Thunder,"[14, 28, 35]","Chris Hemsworth, Natalie Portman, Christian Bale, Tessa Thompson, Taika Waititi, Russell Crowe, Jaimie Alexander, Idris Elba, Chris Pratt, Dave Bautista",Taika Waititi,0
+950396,The Gorge,"[10749, 878, 53]","Miles Teller, Anya Taylor-Joy, Sigourney Weaver, Sope Dirisu, William Houston, Kobna Holdbrook-Smith, James Marlowe, Julianna Kurokawa, Ruta Gedmintas, Oliver Trevena",Scott Derrickson,0
+1126166,Flight Risk,"[28, 53, 80]","Mark Wahlberg, Michelle Dockery, Topher Grace, Leah Remini, Paul Ben-Victor, Maaz Ali, Monib Abhat, Eilise Patton, Senor Pablo, Savanah Joeckel",Mel Gibson,0
+1064213,Anora,"[18, 35, 10749]","Mikey Madison, Mark Eydelshteyn, Yura Borisov, Karren Karagulian, Vache Tovmasyan, Luna Sofía Miranda, Lindsey Normington, Darya Ekamasova, Aleksey Serebryakov, Anton Bitter",Sean Baker,0
+762509,Mufasa: The Lion King,"[12, 10751, 16]","Aaron Pierre, Kelvin Harrison, Jr., Tiffany Boone, Kagiso Lediga, Preston Nyman, Blue Ivy Carter, John Kani, Mads Mikkelsen, Seth Rogen, Billy Eichner",Barry Jenkins,0
+1241982,Moana 2,"[16, 12, 10751, 35]","Auliʻi Cravalho, Dwayne Johnson, Hualālai Chung, Rose Matafeo, David Fane, Awhimai Fraser, Khaleesi Lambert-Tsuda, Temuera Morrison, Nicole Scherzinger, Rachel House",David G. Derrick Jr.,0
+939243,Sonic the Hedgehog 3,"[28, 878, 35, 10751]","Jim Carrey, Ben Schwartz, Keanu Reeves, Idris Elba, Colleen O'Shaughnessey, James Marsden, Tika Sumpter, Lee Majdoub, Krysten Ritter, Adam Pally",Jeff Fowler,0
+822119,Captain America: Brave New World,"[28, 53, 878]","Anthony Mackie, Harrison Ford, Danny Ramirez, Shira Haas, Tim Blake Nelson, Carl Lumbly, Giancarlo Esposito, Liv Tyler, Xosha Roquemore, Jóhannes Haukur Jóhannesson",Julius Onah,0
+823219,Flow,"[16, 14, 12]",,Gints Zilbalodis,0
+927342,Amaran,"[28, 18, 12, 10752]","Sivakarthikeyan, Sai Pallavi, Rahul Bose, Bhuvan Arora, Lallu Prasath, Shyam Mohan, Mir Salman, Shyamaprasad, Geetha Kailasam, Gaurav Venkatesh",Rajkumar Periasamy,0
+426889,Le Clitoris,"[16, 99]",Lori Malépart-Traversy,Lori Malépart-Traversy,0
+696506,Mickey 17,"[878, 35, 12]","Robert Pattinson, Naomi Ackie, Steven Yeun, Mark Ruffalo, Toni Collette, Anamaria Vartolomei, Daniel Henshall, Patsy Ferran, Steve Park, Tim Key",Bong Joon Ho,0
+926670,Henry Danger: The Movie,"[28, 35, 10751, 878]","Jace Norman, Sean Ryan Fox, Ella Anderson, Michael D. Cohen, Frankie Grande, Glee Dango, Andre Tricoteux, Cooper Barnes, Eric Mazimpaka, Rachel Drance",Joe Menendez,0
+1084199,Companion,"[27, 878, 53]","Sophie Thatcher, Jack Quaid, Lukas Gage, Megan Suri, Harvey Guillén, Rupert Friend, Jaboukie Young-White, Matthew J. McCarthy, Marc Menchaca, Woody Fu",Drew Hancock,0
+1160956,Panda Plan,"[28, 35]","Jackie Chan, Shi Ce, Wei Xiang, Han Yanbo, Danny Ray, Xu Juncong, Andy Friend, Huang Yuntong, Jia Bing, Temur Mamisashvili",Zhang Luan,0
+912649,Venom: The Last Dance,"[28, 878, 12]","Tom Hardy, Chiwetel Ejiofor, Juno Temple, Rhys Ifans, Stephen Graham, Peggy Lu, Clark Backo, Alanna Ubach, Cristo Fernández, Jared Abrahamson",Kelly Marcel,0
+539972,Kraven the Hunter,"[28, 12, 53]","Aaron Taylor-Johnson, Ariana DeBose, Fred Hechinger, Alessandro Nivola, Christopher Abbott, Russell Crowe, Yuri Kolokolnikov, Levi Miller, Tom Reed, Billy Barratt",J.C. Chandor,0
+558449,Gladiator II,"[28, 12, 18]","Paul Mescal, Denzel Washington, Pedro Pascal, Connie Nielsen, Joseph Quinn, Fred Hechinger, Lior Raz, Derek Jacobi, Peter Mensah, Matt Lucas",Ridley Scott,0
+1405338,Demon City,"[28, 80, 14, 53]","Toma Ikuta, Masahiro Higashide, Miou Tanaka, Ami Touma, Taro Suruga, Mai Kiryu, Naoto Takenaka, Takuma Otoo, Matsuya Onoe, Masanobu Takashima",Seiji Tanaka,0
+933260,The Substance,"[27, 878]","Demi Moore, Margaret Qualley, Dennis Quaid, Edward Hamilton-Clark, Gore Abrams, Oscar Lesage, Christian Erickson, Robin Greer, Tom Morton, Hugo Diego Garcia",Coralie Fargeat,0
+1188104,The X-Treme Riders,"[28, 80]","Jirayu La-ongmani, Wawaa Nichari Chokprajakchat, Chaleeda Gilbert, Assaree Wattanayakun, Ratchanont Suprakob, Saranyoo Prachankit, Pattanapon Kunchorn, Byron Bishop, Akalavut Mankalasut, Jarupong Kluaymaingam",Sor Sangchai,0
+774370,Dog Man,"[10751, 16, 35, 28]","Peter Hastings, Pete Davidson, Lil Rel Howery, Isla Fisher, Lucas Hopkins Calderon, Ricky Gervais, Poppy Liu, Stephen Root, Billy Boyd, Luenell",Peter Hastings,0
+696506,Mickey 17,"[878, 35, 12]","Robert Pattinson, Naomi Ackie, Steven Yeun, Mark Ruffalo, Toni Collette, Anamaria Vartolomei, Daniel Henshall, Patsy Ferran, Steve Park, Tim Key",Bong Joon Ho,0
+1226406,Love Hurts,"[28, 35, 10749]","Ke Huy Quan, Ariana DeBose, Mustafa Shakir, Lio Tipton, Daniel Wu, Cam Gigandet, Marshawn Lynch, André Eriksen, Rhys Darby, Sean Astin",Jonathan Eusebio,0
+1140535,Presence,"[27, 18]","Callina Liang, Lucy Liu, Chris Sullivan, Eddy Maday, Julia Fox, Lucas Papaelias, West Mulholland, Daniel Danielson, Benny Elledge, Natalie Woolams-Torres",Steven Soderbergh,0
+1357633,Solo Leveling -ReAwakening-,"[28, 12, 14, 16]","Taito Ban, Genta Nakamura, Haruna Mikawa, Reina Ueda, Daisuke Hirakawa, Hiroki Touchi, Banjo Ginga, Makoto Furukawa",Shunsuke Nakashige,0
+549509,The Brutalist,[18],"Adrien Brody, Felicity Jones, Guy Pearce, Joe Alwyn, Raffey Cassidy, Stacy Martin, Isaach de Bankolé, Alessandro Nivola, Ariane Labed, Michael Epp",Brady Corbet,0
+1249289,Alarum,"[28, 80, 53]","Scott Eastwood, Sylvester Stallone, Willa Fitzgerald, Mike Colter, D.W. Moffett, Isis Valverde, Joel Cohen, Mark Polish, Anton Narinskiy, Patrick Millin",Michael Polish,0
+974576,Conclave,"[18, 53, 9648]","Ralph Fiennes, Stanley Tucci, John Lithgow, Isabella Rossellini, Lucian Msamati, Carlos Diehz, Sergio Castellitto, Brían F. O'Byrne, Merab Ninidze, Thomas Loibl",Edward Berger,0
+1294203,My Fault: London,"[10749, 18]","Asha Banks, Matthew Broome, Eve Macklin, Ray Fearon, Enva Lewis, Jason Flemyng, Kerim Hassan, Sam Buchanan, Amelia Kenworthy, Harry Gilby",Dani Girdwood,0
+1230208,Squad 36,"[28, 80, 18, 53]","Victor Belmondo, Tewfik Jallab, Soufiane Guerrab, Juliette Dol, Yvan Attal, Nicolas Wanczycki, Ludovic Faure, Lydia Andréï, Jean-Michel Correia, Moussa Mansaly",Olivier Marchal,0
+1356039,Counterattack,"[28, 12, 53]","Luis Alberti, Noé Hernández, Leonardo Alonso, Luis Curiel, Guillermo Nava, David Calderón León, Mayra Batalla, Israel Islas, Ishbel Bautista, Frida Jiser",Chava Cartas,0
+402431,Wicked,"[18, 10749, 14]","Cynthia Erivo, Ariana Grande, Jeff Goldblum, Michelle Yeoh, Jonathan Bailey, Ethan Slater, Marissa Bode, Peter Dinklage, Andy Nyman, Courtney-Mae Briggs",Jon M. Chu,0
+1201012,Dhoom Dhaam,"[35, 10749, 28]","Yami Gautam, Pratik Gandhi, Eijaz Khan, Mukul Chadda, Pavitra Sarkar, Anand Vikas Potdukhe, Sahil Gangurde, Kavin Dave, Prateik Babbar, Garima Yajnik",Rishab Seth,0
+1184918,The Wild Robot,"[16, 878, 10751]","Lupita Nyong'o, Pedro Pascal, Kit Connor, Bill Nighy, Stephanie Hsu, Matt Berry, Ving Rhames, Mark Hamill, Catherine O'Hara, Boone Storm",Chris Sanders,0
+519182,Despicable Me 4,"[16, 10751, 35, 878]","Steve Carell, Kristen Wiig, Will Ferrell, Sofía Vergara, Miranda Cosgrove, Dana Gaier, Madison Polan, Pierre Coffin, Chris Renaud, Steve Coogan",Chris Renaud,0
+1138749,The Island,"[28, 80, 53]","Michael Jai White, Jackson Rathbone, Gillian White, Edoardo Costa, Wayne Gordon, Amber Townsend, Cami Storm, Victor Young",Shaun Paul Piccinino,0
+993710,Back in Action,"[28, 35]","Jamie Foxx, Cameron Diaz, McKenna Roberts, Rylan Jackson, Kyle Chandler, Glenn Close, Jamie Demetriou, Andrew Scott, Fola Evans-Akingbola, Robert Besta",Seth Gordon,0
+1410082,Sniper: The Last Stand,"[28, 53]","Chad Michael Collins, Ryan Robbins, Sharon Taylor, Manuel Rodriguez-Saenz, Vusi Kunene, Sizo Mahlangu, Noxolo Dlamini, Arnold Vosloo, Rob van Vuuren, Scott George",Danishka Esterhazy,0
+533535,Deadpool & Wolverine,"[28, 35, 878]","Ryan Reynolds, Hugh Jackman, Emma Corrin, Matthew Macfadyen, Dafne Keen, Jon Favreau, Morena Baccarin, Rob Delaney, Leslie Uggams, Jennifer Garner",Shawn Levy,0
+661539,A Complete Unknown,"[18, 10402]","Timothée Chalamet, Edward Norton, Elle Fanning, Monica Barbaro, Scoot McNairy, Dan Fogler, Boyd Holbrook, Will Harrison, Joe Tippett, Eriko Hatsune",James Mangold,0
+1035048,Elevation,"[28, 878, 53]","Anthony Mackie, Morena Baccarin, Maddie Hasson, Danny Boyd Jr., Rachel Nicks, Shauna Earp, Tyler Grey, Drexel Malkoff, David Malkoff, Mike Hickman",George Nolfi,0
+1022789,Inside Out 2,"[16, 12, 35, 10751]","Amy Poehler, Maya Hawke, Kensington Tallman, Liza Lapira, Tony Hale, Lewis Black, Phyllis Smith, Ayo Edebiri, Lilimar, Grace Lu",Kelsey Mann,0
+1164355,Lembayung,"[27, 53]","Taskya Namya, Yasamin Jasem, Arya Saloka, Anna Jobling, Daffa Wardhana, Oka Antara, Tio Pakusadewo, Paula Verhoeven, Mario Maulana, Dayu Wijanto",Baim Wong,0
+811941,Devara : Part 1,"[28, 18]","N.T. Rama Rao Jr., Saif Ali Khan, Prakash Raj, Srikanth, Kalaiyarasan, Shruti Marathe, Janhvi Kapoor, Shine Tom Chacko, Ajay, Zarina Wahab",Koratala Siva,0
+1001274,Night Call,"[53, 28]","Jonathan Feltre, Natacha Krief, Jonas Bloquet, Romain Duris, Thomas Mustin, Sam Louwyck, Laura Masci, Claire Bodson, Graham Guit, Marco Maas",Michiel Blanchart,0
+845781,Red One,"[28, 14, 35]","Dwayne Johnson, Chris Evans, Lucy Liu, J.K. Simmons, Bonnie Hunt, Kristofer Hivju, Kiernan Shipka, Mary Elizabeth Ellis, Wesley Kimmel, Nick Kroll",Jake Kasdan,0
+974453,Absolution,"[28, 80, 53, 9648]","Liam Neeson, Ron Perlman, Yolonda Ross, Frankie Shaw, Daniel Diemer, Javier Molina, Jimmy Gonzales, Josh Drennen, Deanna Tarraza, Terrence Pulliam",Hans Petter Moland,0
+1010581,My Fault,"[10749, 18]","Nicole Wallace, Gabriel Guevara, Marta Hazas, Iván Sánchez, Eva Ruiz, Víctor Varona, Fran Berenguer, Adriana Ubani, Ivan Massagué, Mariano Venancio",Domingo González,0
+426063,Nosferatu,"[14, 27]","Lily-Rose Depp, Nicholas Hoult, Bill Skarsgård, Aaron Taylor-Johnson, Willem Dafoe, Emma Corrin, Ralph Ineson, Simon McBurney, Adéla Hesová, Milena Konstantinova",Robert Eggers,0
+383634,Carmen 1945,[18],"Rino Katase, Yûko Natori, Jinpachi Nezu, Kanô Miyuki, Kazuyo Matsui, Senri Yamazaki, Tsunehiko Watase",Hideo Gosha,0
+1247019,Death Whisperer 2,"[27, 53, 28]","Nadech Kugimiya, Ongart Cheamcharoenpornkul, Kajbhunditt Jaidee, Peerakrit Phacharaboonyakiat, Denise Jelilcha Kapaun, Rattanawadee Wongtong, Nutthacha Padovan, Paramej Noiam, Arisara Wongchalee, Phiravich Attachitsataporn",Taweewat Wantha,0
+839033,The Lord of the Rings: The War of the Rohirrim,"[16, 14, 12, 28]","Brian Cox, Gaia Wise, Luke Pasqualino, Laurence Ubong Williams, Lorraine Ashbourne, Miranda Otto, Shaun Dooley, Benjamin Wainwright, Yazdan Qafouri, Michael Wildman",Kenji Kamiyama,0
+1255788,The Gardener,"[28, 35]","Jean-Claude Van Damme, Michaël Youn, Nawell Madani, Carla Poquin, Jérôme Le Banner, Ragnar Le Breton, Kaaris, Studio Danielle, Élie Semoun, Vincent Desagnat",David Charhon,0
+1352774,Piglet,[27],"Alina Desmond, Alex Butler, Lauren Staerck, Valery Danko, Shayli Reagan, Jamie Langlands, Tyler Winchcombe, Alina Varakuta, Max Arlott, Rory Forder",Andrea M. Catinella,0
+85,Raiders of the Lost Ark,"[12, 28]","Harrison Ford, Karen Allen, Paul Freeman, John Rhys-Davies, Ronald Lacey, Wolf Kahler, Anthony Higgins, Denholm Elliott, Alfred Molina, Vic Tablian",Steven Spielberg,0
+411,"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe","[12, 10751, 14]","William Moseley, Anna Popplewell, Skandar Keynes, Georgie Henley, Liam Neeson, Tilda Swinton, James McAvoy, Jim Broadbent, Ray Winstone, Dawn French",Andrew Adamson,0
+710295,Wolf Man,"[27, 53]","Christopher Abbott, Julia Garner, Matilda Firth, Sam Jaeger, Ben Prendergast, Benedict Hardie, Zac Chandler, Milo Cawthorne, Leigh Whannell, Rob MacBride",Leigh Whannell,0
+1156593,Your Fault,"[10749, 18]","Nicole Wallace, Gabriel Guevara, Marta Hazas, Iván Sánchez, Eva Ruiz, Víctor Varona, Gabriela Andrada, Alex Bejar, Goya Toledo, Javier Morgade",Domingo González,0
+1422179,The Wrong Track,"[35, 18]","Ada Eide, Trond Fausa Aurvåg, Marie Blokhus, Christian Rubeck, Saga Tuset Meisfjordskar, Deniz Kaya, Shana Mathai, Pia Halvorsen, Nils Bendik Kvissel, André Sørum",Hallvar Witzø,0
+573435,Bad Boys: Ride or Die,"[28, 35, 80, 53, 12]","Will Smith, Martin Lawrence, Vanessa Hudgens, Alexander Ludwig, Paola Nuñez, Eric Dane, Ioan Gruffudd, Jacob Scipio, Melanie Liburd, Tasha Smith",Adil El Arbi,0
+1422179,The Wrong Track,"[35, 18]","Ada Eide, Trond Fausa Aurvåg, Marie Blokhus, Christian Rubeck, Saga Tuset Meisfjordskar, Deniz Kaya, Shana Mathai, Pia Halvorsen, Nils Bendik Kvissel, André Sørum",Hallvar Witzø,0
+573435,Bad Boys: Ride or Die,"[28, 35, 80, 53, 12]","Will Smith, Martin Lawrence, Vanessa Hudgens, Alexander Ludwig, Paola Nuñez, Eric Dane, Ioan Gruffudd, Jacob Scipio, Melanie Liburd, Tasha Smith",Adil El Arbi,0
+1147416,"Miraculous World, London: At the Edge of Time","[16, 12, 28, 14]","Annouck Hautbois, Benjamin Bollen, Marie Nonnenmacher, Thierry Kazazian, Adeline Chetail, Clara Soares, Martial Le Minoux, Antoine Tomé, Marie Chevalot, Clara Soares",Thomas Astruc,0
+808,Shrek,"[16, 35, 14, 12, 10751]","Mike Myers, Eddie Murphy, Cameron Diaz, John Lithgow, Vincent Cassel, Peter Dennis, Clive Pearse, Jim Cummings, Bobby Block, Chris Miller",Andrew Adamson,0
+1043905,Dirty Angels,"[28, 18, 53, 10752]","Eva Green, Maria Bakalova, Ruby Rose, Reza Brojerdi, Jojo T. Gibbs, Emily Bruni, Aziz Çapkurt, Rona-Lee Shim'on, George Iskandar, Christopher Backus",Martin Campbell,0
+1118031,Apocalypse Z: The Beginning of the End,"[18, 28, 27]","Francisco Ortiz, José María Yázpik, Berta Vázquez, Iria del Río, Marta Poveda, Amalia Gómez, María Salgueiro, Yuri Mykhaylychenko, Ian Monclús, Yaiza Macías",Carles Torrens,0
+1124620,The Monkey,"[27, 35]","Theo James, Tatiana Maslany, Christian Convery, Colin O'Brien, Adam Scott, Elijah Wood, Rohan Campbell, Sarah Levy, Osgood Perkins, Nicco Del Rio",Osgood Perkins,0
+299536,Avengers: Infinity War,"[12, 28, 878]","Robert Downey Jr., Chris Evans, Chris Hemsworth, Josh Brolin, Mark Ruffalo, Scarlett Johansson, Don Cheadle, Benedict Cumberbatch, Tom Holland, Chadwick Boseman",Joe Russo,0
+921436,Escape,"[28, 18]","Lee Je-hoon, Koo Kyo-hwan, Hong Xa-bin, Seo Hyun-woo, Lee Sung-wook, Yoo Tae-joo, Jung Jun-won, Jang Young-nam, Song Kang, Esom",Lee Jong-pil,0
+1006724,Dead Talents Society,"[27, 35, 53]","Chen Bolin, Sandrine Pinna, Gingle Wang, Yao Yi Ti, Bai Jing-yi, Soso Tseng, Ya-Ling Chang, Lin He-Hsuan, Hau-Ping Huang, Hannah Tung",John Hsu,0
+995926,"I, the Executioner","[28, 80]","Hwang Jung-min, Jung Hae-in, Oh Dal-su, Oh Dae-hwan, Jang Yoon-ju, Kim Si-hoo, Jin Kyung, Shin Seung-hwan, Jeong Man-sik, Kwon Hae-hyo",Ryoo Seung-wan,0
+717196,Niko: Beyond the Northern Lights,"[16, 10751, 14]","Matthew Whelan, Emma Jenkins, Paul Tylak, Roger Gregg, Dermot Magennis, Aileen Mythen, Lucy Smith, Harry Weld-Moore, Justin Daniels Anene, Brenda McDonald",Kari Juusonen,0
+259872,Skin. Like. Sun.,[10749],"Wim van Damme, Floor Wyns",Jennifer Lyon Bell,0
+1097549,Babygirl,[18],"Nicole Kidman, Harris Dickinson, Antonio Banderas, Esther-Rose McGregor, Sophie Wilde, Vaughan Reilly, Victor Slezak, Leslie Silva, Gaite Jansen, Robert Farrior",Halina Reijn,0
+945961,Alien: Romulus,"[27, 878]","Cailee Spaeny, David Jonsson, Archie Renaux, Isabela Merced, Spike Fearn, Aileen Wu, Rosie Ede, Soma Simon, Bence Okeke, Viktor Orizu",Fede Álvarez,0
+970450,Werewolves,"[28, 27, 53]","Frank Grillo, Katrina Law, Ilfenesh Hadera, Jimmy Cummings, Lou Diamond Phillips, Kamdynn Gary, Lydia Styslinger, Daniel Fernandez, James Kyson, Betzaida Landín",Steven C. Miller,0
+157336,Interstellar,"[12, 18, 878]","Matthew McConaughey, Anne Hathaway, Michael Caine, Jessica Chastain, Casey Affleck, Wes Bentley, Topher Grace, Mackenzie Foy, Ellen Burstyn, John Lithgow",Christopher Nolan,0
+385687,Fast X,"[28, 80, 53, 12, 9648]","Vin Diesel, Michelle Rodriguez, Tyrese Gibson, Ludacris, John Cena, Nathalie Emmanuel, Jordana Brewster, Sung Kang, Jason Momoa, Scott Eastwood",Louis Leterrier,0
+12236,Speed Zone,"[35, 28]","John Candy, Donna Dixon, Matt Frewer, Joe Flaherty, Tim Matheson, Mimi Kuzyk, Melody Anderson, Shari Belafonte, Brian George, Art Hindle",Jim Drake,0
+1252309,Ask Me What You Want,"[10749, 18]","Gabriela Andrada, Mario Ermito, Celia Freijeiro, David Solans, Alba Ribas, Joel Bosqued, Alicia Bercan, Anna Karinvinge, Fernando Oyagüez, Paco Tous",Lucía Alemany,0
+1100782,Smile 2,"[27, 9648]","Naomi Scott, Rosemarie DeWitt, Lukas Gage, Miles Gutierrez-Riley, Peter Jacobson, Ray Nicholson, Dylan Gelula, Raúl Castillo, Kyle Gallner, Drew Barrymore",Parker Finn,0
+693134,Dune: Part Two,"[878, 12]","Timothée Chalamet, Zendaya, Rebecca Ferguson, Javier Bardem, Josh Brolin, Austin Butler, Florence Pugh, Dave Bautista, Christopher Walken, Léa Seydoux",Denis Villeneuve,0
+516729,Paddington in Peru,"[10751, 12, 35]","Ben Whishaw, Hugh Bonneville, Emily Mortimer, Samuel Joslin, Madeleine Harris, Antonio Banderas, Olivia Colman, Julie Walters, Jim Broadbent, Carla Tous",Dougal Wilson,0
+1203329,The Witcher: Sirens of the Deep,"[16, 14, 28]","Doug Cockle, Joey Batey, Christina Wren, Emily Carey, Camrus Johnson, Simon Templeman, Mallory Jansen, Anya Chalotra, Ray Chase, Cynthia Kaye McWilliams",Kang Hei Chul,0
+10192,Shrek Forever After,"[35, 12, 14, 16, 10751]","Mike Myers, Eddie Murphy, Cameron Diaz, Antonio Banderas, Walt Dohrn, Julie Andrews, John Cleese, Jon Hamm, Jane Lynch, Craig Robinson",Mike Mitchell,0
+1000837,I'm Still Here,"[18, 36]","Fernanda Torres, Selton Mello, Valentina Herszage, Bárbara Luz, Guilherme Silveira, Cora Ramalho, Luiza Kosovski, Pri Helena, Luiz Bertazzo, Maeve Jinkings",Walter Salles,0
+974950,Emilia Pérez,"[18, 53]","Karla Sofía Gascón, Zoe Saldaña, Selena Gomez, Adriana Paz, Edgar Ramírez, Mark Ivanir, Eduardo Aladro, Emiliano Hasan, Gaël Murgia-Fur, Tirso Pietriga",Jacques Audiard,0
+1029235,Azrael,"[28, 27, 53]","Samara Weaving, Vic Carmen Sonne, Katariina Unt, Peter Christoffersen, Nathan Stewart-Jarrett, Johhan Rosenberg, Eero Milonoff, Sebastian Bull Sarning, Rea Lest, Phong Giang",E.L. Katz,0
+1241752,Rita,[18],"Christine Bermas, Gold Aceron, VR Relosa, Josh Ivan Morales, Sahil Khan, Amabella De Leon",Jerry Lopez Sineneng,0
+698687,Transformers One,"[16, 878, 12, 10751]","Chris Hemsworth, Brian Tyree Henry, Scarlett Johansson, Keegan-Michael Key, Jon Hamm, Steve Buscemi, Laurence Fishburne, Vanessa Liguori, Jon Bailey, Jason Konopisos-Alvarez",Josh Cooley,0
+324568,Delinquent in Drag,"[16, 35, 28]","Kappei Yamaguchi, Hideyuki Tanaka, Reiko Oimori, Yumi Touma, Eiko Yamada, Kenyu Horiuchi, Hiroko Emori, Michie Tomizawa, Yasunori Matsumoto, Yoku Shioya",Yusaku Saotome,0
+1099413,The Rogue's Trial,"[35, 18]","Matheus Nachtergaele, Selton Mello, Taís Araújo, Humberto Martins, Luis Miranda, Eduardo Sterblitch, Fabiula Nascimento, Virginia Cavendish, Enrique Díaz, Fernanda Montenegro",Flávia Lacerda,0
+936621,Sex Game 6969,"[35, 18, 10749]","Woo Yeol, So Jeong, Lee Chae-dam, Kim Soo-ji, Yoo Jung",Mongta,0
+597,Titanic,"[18, 10749]","Leonardo DiCaprio, Kate Winslet, Billy Zane, Kathy Bates, Frances Fisher, Gloria Stuart, Victor Garber, Bill Paxton, Bernard Hill, David Warner",James Cameron,0
+1138194,Heretic,"[27, 53]","Hugh Grant, Sophie Thatcher, Chloe East, Topher Grace, Elle Young, Julie Lynn-Mortensen, Haylie Hansen, Elle McKinnon, Hanna Huffman, Anesha Bailey",Scott Beck,0
+1081012,Aftermath,"[28, 53]","Dylan Sprouse, Mason Gooding, Dichen Lachman, Megan Stott, Kevin Chapman, Will Lyman, Tanner Zagarino, Mark Irvingsen, Mark Pettograsso, Ashley Pynn",Patrick Lussier,0
+809,Shrek 2,"[16, 10751, 35, 14, 12]","Mike Myers, Eddie Murphy, Cameron Diaz, Julie Andrews, Antonio Banderas, John Cleese, Rupert Everett, Jennifer Saunders, Aron Warner, Kelly Asbury",Conrad Vernon,0
+238,The Godfather,"[18, 80]","Marlon Brando, Al Pacino, James Caan, Robert Duvall, Richard S. Castellano, Diane Keaton, Talia Shire, Gianni Russo, Sterling Hayden, John Marley",Francis Ford Coppola,0
+1426142,Sosyal Climbers,"[10749, 35]","Maris Racal, Anthony Jennings, Ricky Davao, Carmi Martin, Bart Guingona, Cheska Iñigo, Marissa Sanchez, Raquel Pareño, Pam Arambulo, Shanaia Gomez",Jason Paul Laxamana,0
+278,The Shawshank Redemption,"[18, 80]","Morgan Freeman, Tim Robbins, Bob Gunton, William Sadler, Clancy Brown, Gil Bellows, James Whitmore, Mark Rolston, Jeffrey DeMunn, Larry Brandenburg",Frank Darabont,0
+278,The Shawshank Redemption,"[18, 80]","Morgan Freeman, Tim Robbins, Bob Gunton, William Sadler, Clancy Brown, Gil Bellows, James Whitmore, Mark Rolston, Jeffrey DeMunn, Larry Brandenburg",Frank Darabont,0
+1005331,Carry-On,"[53, 28]","Taron Egerton, Jason Bateman, Sofia Carson, Danielle Deadwyler, Theo Rossi, Logan Marshall-Green, Dean Norris, Sinqua Walls, Gil Perez-Abraham, Tonatiuh",Jaume Collet-Serra,0
+120,The Lord of the Rings: The Fellowship of the Ring,"[12, 14, 28]","Elijah Wood, Ian McKellen, Viggo Mortensen, Sean Astin, Ian Holm, Liv Tyler, Christopher Lee, Sean Bean, Billy Boyd, Dominic Monaghan",Peter Jackson,0
+829557,365 Days: This Day,"[10749, 18]","Anna-Maria Sieklucka, Michele Morrone, Simone Susinna, Magdalena Lamparska, Otar Saralidze, Natasza Urbańska, Ramón Langa, Ewa Kasprzyk, Dariusz Jakubowski, Tomasz Mandes",Tomasz Mandes,0
+671,Harry Potter and the Philosopher's Stone,"[12, 14]","Daniel Radcliffe, Rupert Grint, Emma Watson, Richard Harris, Tom Felton, Alan Rickman, Robbie Coltrane, Maggie Smith, Richard Griffiths, Ian Hart",Chris Columbus,0
+1302916,Heart Eyes,"[27, 35, 9648]","Olivia Holt, Mason Gooding, Jordana Brewster, Devon Sawa, Gigi Zumbado, Ben Black, Chris Parker, Latham Gaines, Lauren O'Hara, Michaela Watkins",Josh Ruben,0
+1104390,Anatema,[27],"Leonor Watling, Pablo Derqui, Jaime Ordóñez, Keren Hapuc, Manuel de Blas, Xóan Fórneas, Mariano Llorente, Mauro Brussolo",Jimina Sabadú,0
+1222064,River of Blood,"[27, 53]","Joseph Millson, Sarah Alexandra Marks, David Wayman, Ella Starbuck, Louis James, Tiffany Hannam-Daniels",Howard J. Ford,0
+1280672,One of Them Days,[35],"Keke Palmer, SZA, Joshua David Neal, Aziza Scott, Patrick Cage, Katt Williams, Maude Apatow, Vanessa Bell Calloway, Gabrielle Dennis, Janelle James",Lawrence Lamont,0
+929204,Wallace & Gromit: Vengeance Most Fowl,"[16, 35, 10751, 12]","Ben Whitehead, Peter Kay, Lauren Patel, Reece Shearsmith, Diane Morgan, Adjoa Andoh, Muzz Khan, Lenny Henry, Victoria Elliott, Jon Glover",Nick Park,0
+58008,Night Nurse,[35],"Gloria Guida, Lino Banfi, Alvaro Vitali, Leo Colonna, Mario Carotenuto, Annamaria Clementi, Lucio Montanaro, Francesca Romana Coluzzi, Paola Senatore, Ermelinda De Felice",Mariano Laurenti,0
+1249013,Jugaremos en el bosque,[27],"Lucía Gómez-Robledo, Alejandro Cuétara, Julieta Egurrola, Arturo Ripstein, Lucía Uribe, Alonso Navarro, Carolina Torres",Alejandra Cárdenas,0
+249578,Tabu,"[35, 10402]","Caetano Veloso, Colé Santana, José Lewgoy, Norma Bengell, Sandro Solviatti, Guará Rodrigues, Mário Gomes, Sônia Dias, Dedé Veloso",Júlio Bressane,0
+1357459,Tatsulok: Tatlo Magkasalo,"[18, 10749]","Mariane Saint, Marlon Marcia, Skye Gonzaga, Daniela Carolino, Mianne Agualada, Byuti Veloso, Jeffrey Carl Baltazar",Jojo Nadela,0
+7451,xXx,"[28, 12, 53, 80]","Vin Diesel, Asia Argento, Marton Csokas, Samuel L. Jackson, Michael Roof, Richy Müller, Werner Daehn, Petr Jákl, Jan Filipenský, Tom Everett",Rob Cohen,0
+978796,Bagman,"[27, 53]","Sam Claflin, Antonia Thomas, Caréll Vincent Rhoden, Will Davis, Adelle Leonce, William Hope, Steven Cree, Rosalie Craig, Peter McDonald, Henry Pettigrew",Colm McCarthy,0
+76600,Avatar: The Way of Water,"[878, 12, 28]","Sam Worthington, Zoe Saldaña, Sigourney Weaver, Stephen Lang, Kate Winslet, Cliff Curtis, Joel David Moore, CCH Pounder, Edie Falco, Jemaine Clement",James Cameron,0
+155,The Dark Knight,"[18, 28, 80, 53]","Christian Bale, Heath Ledger, Aaron Eckhart, Michael Caine, Maggie Gyllenhaal, Gary Oldman, Morgan Freeman, Monique Gabriela Curnen, Ron Dean, Cillian Murphy",Christopher Nolan,0
+957119,Sidelined: The QB and Me,"[35, 10749]","Siena Agudong, Noah Beck, Drew Ray Tanner, James Van Der Beek, Deborah Cox, Asia Lizardo, Jake Foy, Jason Fernandes, Kendall Cross, Josh Zaharia",Justin Wu,0
+1272149,Bridget Jones: Mad About the Boy,"[10749, 35, 18]","Renée Zellweger, Chiwetel Ejiofor, Leo Woodall, Hugh Grant, Jim Broadbent, Gemma Jones, Colin Firth, Sarah Solemani, Josette Simon, Nico Parker",Michael Morris,0
+810,Shrek the Third,"[14, 12, 16, 35, 10751]","Mike Myers, Eddie Murphy, Cameron Diaz, Antonio Banderas, Julie Andrews, John Cleese, Rupert Everett, Eric Idle, Justin Timberlake, Susanne Blakeslee",Chris Miller,0
+1104845,Plankton: The Movie,"[16, 12, 35, 10751, 14]","Mr. Lawrence, Jill Talley, Tom Kenny, Bill Fagerbakke, Rodger Bumpass, Carolyn Lawrence, Clancy Brown, Mary Jo Catlett, Lori Alan, Dee Bradley Baker",Dave Needham,0
+1011985,Kung Fu Panda 4,"[16, 10751, 28, 35]","Jack Black, Awkwafina, Viola Davis, Dustin Hoffman, Bryan Cranston, James Hong, Ian McShane, Ke Huy Quan, Ronny Chieng, Lori Tan Chinn",Mike Mitchell,0
+1051896,Arcadian,"[28, 27, 53, 878]","Nicolas Cage, Jaeden Martell, Maxwell Jenkins, Sadie Soverall, Samantha Coughlan, Joel Gillman, Joe Dixon, Daire McMahon",Benjamin Brewer,0
+24428,The Avengers,"[878, 28, 12]","Robert Downey Jr., Chris Evans, Mark Ruffalo, Chris Hemsworth, Scarlett Johansson, Jeremy Renner, Tom Hiddleston, Clark Gregg, Cobie Smulders, Stellan Skarsgård",Joss Whedon,0
+335984,Blade Runner 2049,"[878, 18]","Ryan Gosling, Harrison Ford, Ana de Armas, Dave Bautista, Robin Wright, Sylvia Hoeks, Mackenzie Davis, Jared Leto, Carla Juri, Hiam Abbass",Denis Villeneuve,0
+198663,The Maze Runner,"[28, 9648, 878, 53]","Dylan O'Brien, Kaya Scodelario, Aml Ameen, Thomas Brodie-Sangster, Ki Hong Lee, Will Poulter, Patricia Clarkson, Blake Cooper, Dexter Darden, Jacob Latimore",Wes Ball,0
+1241320,Kingdom IV: Return of the Great General,"[28, 12]","Kento Yamazaki, Takao Osawa, Ryo Yoshizawa, Kanna Hashimoto, Nana Seino, Shinnosuke Mitsushima, Amane Okayama, Takahiro Miura, Takayuki Hamatsu, Riku Hagiwara",Shinsuke Sato,0
+950387,A Minecraft Movie,"[12, 14, 10751, 35]","Jason Momoa, Jack Black, Danielle Brooks, Emma Myers, Sebastian Eugene Hansen, Jennifer Coolidge, Rachel House, Matt Berry, Kate McKinnon, Jemaine Clement",Jared Hess,0
+447273,Snow White,"[10751, 14]","Rachel Zegler, Gal Gadot, Emilia Faucher, Andrew Burnap, Andrew Barth Feldman, Tituss Burgess, Martin Klebba, Jason Kravits, George Salazar, Jeremy Swift",Marc Webb,0
+604685,Den of Thieves 2: Pantera,"[28, 80, 53]","Gerard Butler, O'Shea Jackson Jr., Evin Ahmad, Salvatore Esposito, Meadow Williams, Swen Temmel, Michael Bisping, Orli Shuka, Rico Verhoeven, Jordan Bridges",Christian Gudegast,0
+1293263,The Curse of the Necklace,"[27, 9648, 53]","Violet McGraw, Madeleine McGraw, Henry Thomas, Sarah Lind, Jacob Moran, Roma Maffia, Felix Solis, Christina Moore, Brynne Kurland, Danielia Maximillian-Almeda",Juan Pablo Arias Munoz,0
+675353,Sonic the Hedgehog 2,"[28, 12, 10751, 35]","Ben Schwartz, James Marsden, Tika Sumpter, Colleen O'Shaughnessey, Idris Elba, Jim Carrey, Natasha Rothwell, Adam Pally, Shemar Moore, Lee Majdoub",Jeff Fowler,0
+361743,Top Gun: Maverick,"[28, 18]","Tom Cruise, Miles Teller, Monica Barbaro, Lewis Pullman, Jay Ellis, Danny Ramirez, Glen Powell, Bashir Salahuddin, Jon Hamm, Charles Parnell",Joseph Kosinski,0
+791042,Levels,"[28, 878, 53]","Cara Gee, Peter Mooney, Aaron Abrams, David Hewlett, Amanda Tapping, Adam Hurtig, Sydney Sabiston, Jade Ma, BJ Verot, Kristian Jordan",Adam Stern,0
+1147710,Hijack 1971,"[28, 53, 80]","Ha Jung-woo, Yeo Jin-goo, Sung Dong-il, Chae Soo-bin, Moon You-kang, Kim Sun-young, Lim Se-mi, Kim Dong-wook, Choi Gwang-il, Kim Jong-soo",Kim Sung-han,0
+122,The Lord of the Rings: The Return of the King,"[12, 14, 28]","Elijah Wood, Ian McKellen, Viggo Mortensen, Sean Astin, Andy Serkis, Dominic Monaghan, Billy Boyd, John Noble, David Wenham, Miranda Otto",Peter Jackson,0
+1017066,Heaven in Hell,"[18, 10749]","Magdalena Boczarska, Simone Susinna, Katarzyna Sawczuk, Janusz Chabior, Sebastian Fabijański, Elżbieta Jarosik, Katarzyna Kwiatkowska, Monika Frączek, Borys Jaźnicki, Marta Dobecka",Tomasz Mandes,0
+653346,Kingdom of the Planet of the Apes,"[878, 12, 28, 18, 53]","Owen Teague, Freya Allan, Kevin Durand, Peter Macon, William H. Macy, Eka Darville, Travis Jeffery, Lydia Peckham, Neil Sandilands, Ras-Samuel Welda'abzgi",Wes Ball,0
+634649,Spider-Man: No Way Home,"[28, 12, 878]","Tom Holland, Zendaya, Benedict Cumberbatch, Jacob Batalon, Jon Favreau, Jamie Foxx, Willem Dafoe, Alfred Molina, Benedict Wong, Tony Revolori",Jon Watts,0
+1078600,Marked Men: Rule + Shaw,"[10749, 18]","Chase Stokes, Sydney Taylor, Ella Balinska, Evan Mock, Alexander Ludwig, Natalie Alyn Lind, Matthew Noszka, Hannah Kepple, Daisy Jelley, Michael Bradway",Nick Cassavetes,0
+1013850,A Real Pain,"[35, 18]","Jesse Eisenberg, Kieran Culkin, Will Sharpe, Jennifer Grey, Kurt Egyiawan, Liza Sadovy, Daniel Oreskes, Ellora Torchia, Banner Eisenberg, Olha Bosova",Jesse Eisenberg,0
+1216191,Oddity,"[27, 9648]","Carolyn Bracken, Jonathan French, Steve Wall, Joe Rooney, Gwilym Lee, Tadhg Murphy, Caroline Menton, Ivan de Wergifosse, Shane Whisker, Josuha Campbell",Damian Mc Carthy,0
+502356,The Super Mario Bros. Movie,"[16, 10751, 12, 14, 35]","Chris Pratt, Anya Taylor-Joy, Charlie Day, Jack Black, Keegan-Michael Key, Seth Rogen, Fred Armisen, Sebastian Maniscalco, Charles Martinet, Kevin Michael Richardson",Aaron Horvath,0
+1426674,A Copenhagen Love Story,"[10749, 18]","Rosalinde Mynster, Joachim Fjelstrup, Sara Fanta Traore, Mille Lehfeldt, Magnus Haugaard, Magnus Millang, Sargun Oshana, Anne Marie Helger, Mia Lerdam, Sarah Juel Werner",Ditte Hansen,0
+786892,Furiosa: A Mad Max Saga,"[28, 878, 12]","Anya Taylor-Joy, Chris Hemsworth, Tom Burke, Alyla Browne, George Shevtsov, Lachy Hulme, John Howard, Angus Sampson, Charlee Fraser, Elsa Pataky",George Miller,0
+1159311,My Hero Academia: You're Next,"[16, 28, 12, 878]","Daiki Yamashita, Meru Nukumi, Mamoru Miyano, Kenta Miyake, Nobuhiko Okamoto, Yuki Kaji, Ayane Sakura, Kaito Ishikawa, Yoshimasa Hosoya, Kei Shindo",Tensai Okamura,0
+592695,Pleasure,[18],"Sofia Kappel, Zelda Morrison, Tee Reel, Evelyn Claire, Chris Cock, Dana DeArmond, Kendra Spade, Mark Spiegler, Eva Melander, Lucy Hart",Ninja Thyberg,0
+1235623,Eye for an Eye 2,"[28, 18]","Xie Miao, Yang Enyou, Huang Tao, Pei Kuishan, Pema Jyad, Liu Fengchao, Jampa Tseten, Xiao Songyuan, Jiang Yixuan, Zhang Haosen",Yang Bingjia,0
+569094,Spider-Man: Across the Spider-Verse,"[16, 28, 12, 878]","Shameik Moore, Hailee Steinfeld, Brian Tyree Henry, Luna Lauren Velez, Jake Johnson, Oscar Isaac, Jason Schwartzman, Issa Rae, Daniel Kaluuya, Karan Soni",Kemp Powers,0
+27205,Inception,"[28, 878, 12]","Leonardo DiCaprio, Joseph Gordon-Levitt, Ken Watanabe, Tom Hardy, Elliot Page, Dileep Rao, Cillian Murphy, Tom Berenger, Marion Cotillard, Pete Postlethwaite",Christopher Nolan,0
+1196470,Survive,"[878, 53, 12, 28]","Émilie Dequenne, Andreas Pietschmann, Lisa Delamar, Lucas Ebel, Arben Bajraktaraj, Olivier Ho Hio Hen, Stéphanie Guerin, Rida Ait Oufqir, Youssef El Hiaboui, Simon Rérolle",Frédéric Jardin,0
+748783,The Garfield Movie,"[16, 35, 10751, 12]","Chris Pratt, Samuel L. Jackson, Hannah Waddingham, Ving Rhames, Nicholas Hoult, Cecily Strong, Harvey Guillén, Brett Goldstein, Bowen Yang, Snoop Dogg",Mark Dindal,0
+218,The Terminator,"[28, 53, 878]","Arnold Schwarzenegger, Michael Biehn, Linda Hamilton, Paul Winfield, Lance Henriksen, Rick Rossovich, Bess Motta, Earl Boen, Dick Miller, Shawn Schepps",James Cameron,0
+714675,The American,[18],"Talia Ryder, Diane Kruger, Oleg Ivenko, Natasha Alderslade, Natalia Osipova, Charlotte Ubben, Borys Szyc, Tomasz Kot, Karolina Gruszka, Martin Hugh Henley",James Napier Robertson,0
+823464,Godzilla x Kong: The New Empire,"[28, 12, 878]","Rebecca Hall, Brian Tyree Henry, Dan Stevens, Kaylee Hottle, Alex Ferns, Fala Chen, Rachel House, Ron Smyck, Chantelle Jamieson, Greg Hatton",Adam Wingard,0
+61108,Emmanuelle 6,"[18, 10749]","Natalie Uher, Jean-René Gossart, Thomas Obermuller, Gustavo Rodríguez, François Guerrar, Luis Carlos Mendes, Tamira, Dagmar Berger, Edda Kopke, Rania Raja",Bruno Zincone,0
+1182387,Armor,"[28, 80, 53, 18]","Jason Patric, Sylvester Stallone, Josh Wiggins, Dash Mihok, Blake Shields, Josh Whites, Jeff Chase, Martin Bats Bradford, Erin Ownbey, Justin William Davis",Justin Routt,0
+872585,Oppenheimer,"[18, 36]","Cillian Murphy, Emily Blunt, Matt Damon, Robert Downey Jr., Florence Pugh, Josh Hartnett, Casey Affleck, Rami Malek, Kenneth Branagh, Benny Safdie",Christopher Nolan,0
+795514,The Fallout,[18],"Jenna Ortega, Maddie Ziegler, Niles Fitch, Will Ropp, Lumi Pollack, John Ortiz, Julie Bowen, Shailene Woodley, Christine Horn, Austin Zajur",Megan Park,0
+496243,Parasite,"[35, 53, 18]","Song Kang-ho, Lee Sun-kyun, Cho Yeo-jeong, Choi Woo-shik, Park So-dam, Lee Jung-eun, Jang Hye-jin, Park Myung-hoon, Jung Ji-so, Jung Hyeon-jun",Bong Joon Ho,0
+421892,Shrek 5,"[16, 10751, 35, 14]","Mike Myers, Eddie Murphy, Cameron Diaz, Zendaya, Cody Cameron",Walt Dohrn,0
+19995,Avatar,"[28, 12, 14, 878]","Sam Worthington, Zoe Saldaña, Sigourney Weaver, Stephen Lang, Michelle Rodriguez, Giovanni Ribisi, Joel David Moore, CCH Pounder, Wes Studi, Laz Alonso",James Cameron,0
+1318917,Chasing the Wind,[10749],"Hande Erçel, Barış Arduç, Gözde Mutluer, Tuğrul Tülek, Şebnem Sönmez, Barış Aytaç, Olimpia Ahenk, Ahmet Saraçoğlu, Serhat Nalbantoğlu",Engin Erden,0
+615453,Ne Zha,"[16, 14, 12]","Lü Yanting, Joseph, Han Mo, Chen Hao, Lü Qi, Yang Wei, Zhang Jiaming, He Yuxiang, Ren Junpeng, Da Hai",Yang Yu,0
+667538,Transformers: Rise of the Beasts,"[878, 12, 28]","Anthony Ramos, Dominique Fishback, Peter Cullen, Ron Perlman, Peter Dinklage, Michelle Yeoh, Pete Davidson, Liza Koshy, Cristo Fernández, Luna Lauren Velez",Steven Caple Jr.,0
+674,Harry Potter and the Goblet of Fire,"[12, 14]","Daniel Radcliffe, Rupert Grint, Emma Watson, Brendan Gleeson, Michael Gambon, Robert Pattinson, Ralph Fiennes, Robbie Coltrane, Alan Rickman, David Tennant",Mike Newell,0
+603692,John Wick: Chapter 4,"[28, 53, 80]","Keanu Reeves, Donnie Yen, Bill Skarsgård, Ian McShane, Laurence Fishburne, Lance Reddick, Clancy Brown, Hiroyuki Sanada, Rina Sawayama, Scott Adkins",Chad Stahelski,0
+8587,The Lion King,"[10751, 16, 18]","Matthew Broderick, Moira Kelly, Nathan Lane, Ernie Sabella, James Earl Jones, Jeremy Irons, Robert Guillaume, Rowan Atkinson, Jonathan Taylor Thomas, Niketa Calame-Harris",Roger Allers,0
+1299372,The Wailing,[27],"Ester Expósito, Mathilde Ollivier, Malena Villa, José Luis Ferrer, Claudia Roset, Lía Lois, Sonia Almarcha, Tomás del Estal, Lautaro Bettoni, Àlex Monner",Pedro Martín Calero,0
+27449,Baby Face,[18],"Barbara Stanwyck, George Brent, Donald Cook, Alphonse Ethier, Henry Kolker, Margaret Lindsay, Arthur Hohl, John Wayne, Robert Barrat, Douglass Dumbrille",Alfred E. Green,0
+672,Harry Potter and the Chamber of Secrets,"[12, 14]","Daniel Radcliffe, Rupert Grint, Emma Watson, Kenneth Branagh, Toby Jones, Robbie Coltrane, Richard Harris, Alan Rickman, Tom Felton, Jason Isaacs",Chris Columbus,0
+1269732,The Legend of Condor Hero: What is Love,"[28, 14, 12]","Zhao Huawei, Wang Zijun, Chen Zihan, Xing Yu, Bruce Leung Siu-Lung, Waise Lee Chi-Hung, Mei Fu, Gallen Lo Ka-Leung, Dong Xuan, Eddy Ko Hung",Lin Zhenzhao,0
+346698,Barbie,"[35, 12]","Margot Robbie, Ryan Gosling, America Ferrera, Ariana Greenblatt, Issa Rae, Kate McKinnon, Alexandra Shipp, Emma Mackey, Hari Nef, Sharon Rooney",Greta Gerwig,0
+1116490,Cash Out,"[28, 53]","John Travolta, Kristin Davis, Lukas Haas, Quavo, Joel Cohen, Noel Gugliemi, Daniel Louis Rivas, Natali Yura, Victorya Brandart, Jake Ellenz",Randall Emmett,0
+420818,The Lion King,"[12, 18, 10751, 16]","Chiwetel Ejiofor, John Oliver, Donald Glover, James Earl Jones, John Kani, Alfre Woodard, Beyoncé, JD McCrary, Shahadi Wright Joseph, Penny Johnson Jerald",Jon Favreau,0
+797271,Counterattack,"[28, 9648, 53]","Vincent Zhao Wenzhuo, Jiang Yiyi, Lu Peng, Song Hanhuan, Diego Dati, Myra Mala, Pari, Mi Ra, Yin Chunxiong, Yu Hongbo",Vincent Zhao Wenzhuo,0
+98,Gladiator,"[28, 18, 12]","Russell Crowe, Joaquin Phoenix, Connie Nielsen, Oliver Reed, Richard Harris, Derek Jacobi, Djimon Hounsou, David Schofield, John Shrapnel, Tomas Arana",Ridley Scott,0
+1433593,El hilo rojo,"[18, 10749]","Michel Brown, Mario Morán, Carolina Miranda, Maya Zapata, Pilar Santacruz",Celso R. García,0
+1114926,The Good Half,"[35, 18]","Nick Jonas, Brittany Snow, Alexandra Shipp, David Arquette, Matt Walsh, Elisabeth Shue, Steve Park, Ryan Bergara, Mason Cufari, Dee Beasnael",Robert Schwartzman,0
+271110,Captain America: Civil War,"[12, 28, 878]","Chris Evans, Robert Downey Jr., Scarlett Johansson, Sebastian Stan, Anthony Mackie, Don Cheadle, Jeremy Renner, Chadwick Boseman, Paul Bettany, Elizabeth Olsen",Joe Russo,0
+438631,Dune,"[878, 12]","Timothée Chalamet, Rebecca Ferguson, Oscar Isaac, Jason Momoa, Stellan Skarsgård, Stephen McKinley Henderson, Josh Brolin, Javier Bardem, Sharon Duncan-Brewster, Chang Chen",Denis Villeneuve,0
+1084736,The Count of Monte Cristo,"[28, 12, 18]","Pierre Niney, Bastien Bouillon, Anaïs Demoustier, Anamaria Vartolomei, Laurent Lafitte, Pierfrancesco Favino, Patrick Mille, Vassili Schneider, Julien de Saint Jean, Julie de Bona",Alexandre de La Patellière,0
+244786,Whiplash,"[18, 10402]","Miles Teller, J.K. Simmons, Paul Reiser, Melissa Benoist, Austin Stowell, Nate Lang, Chris Mulkey, Damon Gupton, Suanne Spoke, Max Kasch",Damien Chazelle,0
+507086,Jurassic World Dominion,"[12, 28, 878]","Chris Pratt, Bryce Dallas Howard, Laura Dern, Sam Neill, Jeff Goldblum, DeWanda Wise, Mamoudou Athie, Isabella Sermon, Campbell Scott, BD Wong",Colin Trevorrow,0
+777443,The Electric State,"[18, 12, 878, 28]","Millie Bobby Brown, Chris Pratt, Woody Harrelson, Ke Huy Quan, Giancarlo Esposito, Stanley Tucci, Anthony Mackie, Brian Cox, Jenny Slate, Woody Norman",Joe Russo,0
+26389,From Paris with Love,"[28, 80, 53]","John Travolta, Jonathan Rhys Meyers, Kasia Smutniak, Richard Durden, Bing Yin, Amber Rose Revah, Eric Godon, François Bredon, Chems Dahmani, Sami Darr",Pierre Morel,0
+585,"Monsters, Inc.","[16, 35, 10751]","John Goodman, Billy Crystal, Mary Gibbs, Steve Buscemi, James Coburn, Jennifer Tilly, Bob Peterson, John Ratzenberger, Frank Oz, Daniel Gerson",Pete Docter,0
+22,Pirates of the Caribbean: The Curse of the Black Pearl,"[12, 14, 28]","Johnny Depp, Orlando Bloom, Keira Knightley, Geoffrey Rush, Jack Davenport, Jonathan Pryce, Lee Arenberg, Mackenzie Crook, Damian O'Hare, Giles New",Gore Verbinski,0
+315162,Puss in Boots: The Last Wish,"[16, 12, 14, 35, 10751]","Antonio Banderas, Salma Hayek Pinault, Harvey Guillén, Wagner Moura, Florence Pugh, Olivia Colman, Ray Winstone, Samson Kayo, John Mulaney, Da'Vine Joy Randolph",Joel Crawford,0
+150540,Inside Out,"[16, 10751, 12, 18, 35]","Amy Poehler, Phyllis Smith, Richard Kind, Bill Hader, Lewis Black, Mindy Kaling, Kaitlyn Dias, Diane Lane, Kyle MacLachlan, Paula Poundstone",Pete Docter,0
+944401,Dogman,"[28, 18, 80]","Caleb Landry Jones, Jojo T. Gibbs, Christopher Denham, Clemens Schick, John Charles Aguilar, Grace Palma, Iris Bry, Marisa Berenson, Lincoln Powell, Alexander Settineri",Luc Besson,0
+51482,Death Note Relight 1: Visions of a God,"[10770, 80, 18, 14, 53, 16]","Mamoru Miyano, Shido Nakamura, Kappei Yamaguchi, Aya Hirano, Naoya Uchida, Kimiko Saito, Keiji Fujiwara, Ryou Naitou, Naoko Matsui, Hideo Ishikawa",Tetsuro Araki,0
+1395724,Chijin no Ai,[18],"Shima Onishi, Sena Natsuki, Shiori Doi, Shunsuke Sato, Yohei Shibayama, Takehiro Murata, Miyoko Yoshimoto, Hiroko Nakajima, Yohta Kawase, Mutsuo Yoshioka",Kishū Izuchi,0
+767,Harry Potter and the Half-Blood Prince,"[12, 14]","Daniel Radcliffe, Rupert Grint, Emma Watson, Jim Broadbent, Michael Gambon, Tom Felton, Alan Rickman, Bonnie Wright, Jessie Cave, Evanna Lynch",David Yates,0
+1303236,GATAO: Like Father Like Son,"[80, 28]","Sunny Wang, Harry Chang, Lung Tien-Hsiang, Rexen Cheng Jen-Shuo, Tsai Chen-Nan, Jieh-Wen King, Jack Kao, Tai Bo, Joseph Hsia, Peng Sun",Jui-Chih Chiang,0
+1129598,Prey,"[28, 53, 27]","Ryan Phillippe, Emile Hirsch, Mena Suvari, Dylan Flashner, Tristan Thompson, Michaela Sasner, Jeremy Tardy, Mohamed Hakeemshady, Alpha Miknas, Godwin Asamoah Obeng",Mukunda Michael Dewil,0
+1064028,Subservience,"[878, 53]","Megan Fox, Michele Morrone, Madeline Zima, Matilda Firth, Andrew Whipp, Atanas Srebrev, Kate Nichols, Trevor Van Uden, Euan Macnaughton, Max Kraus",SK Dale,0
+862,Toy Story,"[16, 12, 10751, 35]","Tom Hanks, Tim Allen, Don Rickles, Jim Varney, Wallace Shawn, John Ratzenberger, Annie Potts, John Morris, Erik von Detten, Laurie Metcalf",John Lasseter,0
+216015,Fifty Shades of Grey,"[18, 10749, 53]","Dakota Johnson, Jamie Dornan, Jennifer Ehle, Eloise Mumford, Victor Rasuk, Luke Grimes, Marcia Gay Harden, Rita Ora, Max Martini, Callum Keith Rennie",Sam Taylor-Johnson,0
+799766,Better Man,"[10402, 18]","Robbie Williams, Jonno Davies, Steve Pemberton, Alison Steadman, Kate Mulvany, Frazer Hadfield, Damon Herriman, Raechelle Banno, Tom Budge, Jake Simmance",Michael Gracey,0
+1167898,Straight,[10749],"Alejandro Speitzer, Franco Masini, Bárbara López",Marcelo Tobar,0
+639720,IF,"[35, 14, 10751]","Cailey Fleming, Ryan Reynolds, John Krasinski, Fiona Shaw, Steve Carell, Phoebe Waller-Bridge, Louis Gossett Jr., Alan Kim, Liza Colón-Zayas, Bobby Moynihan",John Krasinski,0
+1028196,Nickel Boys,[18],"Ethan Herisse, Brandon Wilson, Aunjanue Ellis-Taylor, Hamish Linklater, Gralen Bryant Banks, Fred Hechinger, Jimmie Fails, Luke Tennie, Bryan Gael Guzman, Ethan Cole Sharp",RaMell Ross,0
+228150,Fury,"[10752, 18, 28]","Brad Pitt, Shia LaBeouf, Logan Lerman, Michael Peña, Jon Bernthal, Jim Parrack, Brad William Henke, Kevin Vance, Xavier Samuel, Jason Isaacs",David Ayer,0
+587727,Busty Girlfriend,[10749],"Yoo Jung, Kang Min-sik, Kim Wan- jin, Lee Ji- su, Hooper, Lewis",Junsei,0
+603,The Matrix,"[28, 878]","Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving, Gloria Foster, Joe Pantoliano, Marcus Chong, Julian Arahanga, Matt Doran, Belinda McClory",Lana Wachowski,0
+106646,The Wolf of Wall Street,"[80, 18, 35]","Leonardo DiCaprio, Jonah Hill, Margot Robbie, Matthew McConaughey, Kyle Chandler, Rob Reiner, Jon Bernthal, Jon Favreau, Jean Dujardin, Joanna Lumley",Martin Scorsese,0
+1434053,Girl Meets Boy,"[35, 10749]","Camila Sodi, Sebastián Zurita, Ianis Guerrero, Paulette Hernández, Aurora Papile, Alfonso Borbolla, Carlos Ferro, Daniel Tovar, Nora Velázquez, Denia Agalianou",Raúl Martínez,0
+2062,Ratatouille,"[16, 35, 10751, 14]","Patton Oswalt, Ian Holm, Lou Romano, Brian Dennehy, Peter Sohn, Peter O'Toole, Brad Garrett, Janeane Garofalo, Will Arnett, Julius Callahan",Brad Bird,0
+550,Fight Club,[18],"Edward Norton, Brad Pitt, Helena Bonham Carter, Meat Loaf, Jared Leto, Zach Grenier, Holt McCallany, Eion Bailey, Richmond Arquette, David Andrews",David Fincher,0
+454626,Sonic the Hedgehog,"[28, 878, 35, 10751]","Ben Schwartz, James Marsden, Tika Sumpter, Jim Carrey, Natasha Rothwell, Adam Pally, Neal McDonough, Lee Majdoub, Tom Butler, Frank C. Turner",Jeff Fowler,0
+1000075,The Price of Money: A Largo Winch Adventure,"[28, 12, 53]","Tomer Sisley, James Franco, Clotilde Hesme, Elise Tilloloy, Denis O'Hare, Narayan David Hecter, Koen De Bouw, Supachai Girdsuwan, Banyong Phoonsap, Liliya Atanasova",Olivier Masset-Depasse,0
+957452,The Crow,"[28, 14, 27]","Bill Skarsgård, FKA twigs, Danny Huston, Josette Simon, Laura Birn, Sami Bouajila, Karel Dobrý, Jordan Bolger, Sebastian Orozco, David Bowles",Rupert Sanders,0
+1276945,Ferry 2,"[28, 18, 80, 53]","Frank Lammers, Aiko Beemsterboer, Tobias Kersloot, Marouane Meftah, Hamza Othman, Huub Smit, Jonas Smulders, Tom Wijkamp, Juda Goslinga, Kendrick Etmon",Wannes Destoop,0
+863,Toy Story 2,"[16, 35, 10751]","Tom Hanks, Tim Allen, Joan Cusack, Kelsey Grammer, Don Rickles, Jim Varney, Wallace Shawn, John Ratzenberger, Annie Potts, Wayne Knight",John Lasseter,0
+1221404,Crayon Shin-chan the Movie: Our Dinosaur Diary,"[16, 12, 35, 10751]","Yumiko Kobayashi, Miki Narahashi, Toshiyuki Morikawa, Satomi Korogi, Mari Mashiba, Tamao Hayashi, Teiyu Ichiryusai, Takumi Kitamura, Hatanaka Yū, Shunsuke Ito",Shinobu Sasaki,0
+177572,Big Hero 6,"[12, 10751, 16, 28, 35]","Scott Adsit, Ryan Potter, Daniel Henney, T.J. Miller, Jamie Chung, Damon Wayans Jr., Genesis Rodriguez, James Cromwell, Alan Tudyk, Maya Rudolph",Chris Williams,0
+114,Pretty Woman,"[10749, 35]","Richard Gere, Julia Roberts, Jason Alexander, Ralph Bellamy, Alex Hyde-White, Laura San Giacomo, Héctor Elizondo, Amy Yasbeck, Elinor Donahue, Judith Baldwin",Garry Marshall,0
+680,Pulp Fiction,"[53, 80]","John Travolta, Samuel L. Jackson, Uma Thurman, Bruce Willis, Ving Rhames, Harvey Keitel, Eric Stoltz, Tim Roth, Amanda Plummer, Maria de Medeiros",Quentin Tarantino,0
+675,Harry Potter and the Order of the Phoenix,"[12, 14]","Daniel Radcliffe, Rupert Grint, Emma Watson, Imelda Staunton, Helena Bonham Carter, Robbie Coltrane, Gary Oldman, Ralph Fiennes, Michael Gambon, Alan Rickman",David Yates,0
+354912,Coco,"[10751, 16, 10402, 12]","Anthony Gonzalez, Gael García Bernal, Benjamin Bratt, Alanna Ubach, Renee Victor, Jaime Camil, Alfonso Arau, Herbert Siguenza, Gabriel Iglesias, Lombardo Boyar",Lee Unkrich,0
+1034541,Terrifier 3,"[27, 53]","Lauren LaVera, David Howard Thornton, Samantha Scaffidi, Elliott Fullam, Margaret Anne Florence, Bryce Johnson, Alexa Blair Robertson, Antonella Rose, Mason Mecartea, Krsy Fox",Damien Leone,0
+826937,Sister-in-law's Taste 2,[10749],"Ha Jin, Kim Soo-ji, Gil Dong, Cha Myung-Hoon",Unknown,0
+1323784,Bad Influence,"[18, 53, 10749]","Alberto Olmo, Eléa Rochera, Enrique Arce, Mirela Balić, Farid Bechara, Sara Ariño, Fer Fraga, Mar Isern, Selam Ortega, Clara Chaín",Chloé Wallace,0
+673,Harry Potter and the Prisoner of Azkaban,"[12, 14]","Daniel Radcliffe, Rupert Grint, Emma Watson, Robbie Coltrane, Michael Gambon, Gary Oldman, David Thewlis, Timothy Spall, Alan Rickman, Tom Felton",Alfonso Cuarón,0
+55685,To Be Twenty,[35],"Gloria Guida, Lilli Carati, Ray Lovelock, Vincenzo Crocitti, Giorgio Bracardi, Leopoldo Mastelloni, Roberto Reale, Serena Bennato, Daniele Vargas, Vittorio Caprioli",Fernando Di Leo,0
+1197306,A Working Man,"[28, 53]","Jason Statham, David Harbour, Michael Peña, Jason Flemyng, Arianna Rivas, Noemi Gonzalez, Emmett Scanlan, Eve Mauro, Maximilian Osinski, Kristina Poli",David Ayer,0
+969492,Land of Bad,"[28, 10752, 53]","Liam Hemsworth, Russell Crowe, Luke Hemsworth, Ricky Whittle, Milo Ventimiglia, Chika Ikogwe, Daniel MacPherson, Robert Rabiah, Jack Finsterer, Chris Masters Mah",William Eubank,0
+1125510,The Platform 2,"[878, 27, 53]","Milena Smit, Hovik Keuchkerian, Natalia Tena, Óscar Jaenada, Ivan Massagué, Zorion Eguileor, Bastien Ughetto, Armando Buika, Pedro Bachura, Antonia San Juan",Galder Gaztelu-Urrutia,0
+299534,Avengers: Endgame,"[12, 878, 28]","Robert Downey Jr., Chris Evans, Mark Ruffalo, Chris Hemsworth, Scarlett Johansson, Jeremy Renner, Josh Brolin, Don Cheadle, Paul Rudd, Benedict Cumberbatch",Anthony Russo,0
+122917,The Hobbit: The Battle of the Five Armies,"[28, 12, 14]","Ian McKellen, Martin Freeman, Richard Armitage, Orlando Bloom, Evangeline Lilly, Luke Evans, Lee Pace, Benedict Cumberbatch, Ken Stott, Aidan Turner",Peter Jackson,0
+460229,Kiss and Kill,"[9648, 53, 10749]","Kira Noir, Eve Marlowe, Damian T. Raven, Madeleine Wade, Jay Smooth, Karlie Montana, Kyle Knies, Sal V. Miers",Dean McKendrick,0
+1244361,Operation Undead,"[27, 28, 53]","Chanon Santinatornkul, Awat Ratanapintha, Guntapat Kasemsan Na Ayudhya, Thawatchanin Darayon, Thanadol Auepong, Tanakorn Tiyanont, Tanatwut Rodpai, Jakkrit Sakuldech, Thanapat Suk-im, Teethat Teerakitkarnkul",Kongkiat Khomsiri,0
+592983,Spellbound,"[16, 14, 10751, 12, 35]","Rachel Zegler, Miguel Bernardeau, Giovanna Bush, Dennis Stowe, Jenifer Lewis, Dee Bradley Baker, Susan Fitzer, Nicole Kidman, Javier Bardem, John Lithgow",Vicky Jenson,0
+1226578,Longlegs,"[80, 27, 53]","Maika Monroe, Nicolas Cage, Blair Underwood, Alicia Witt, Michelle Choi-Lee, Dakota Daulby, Lauren Acala, Kiernan Shipka, Maïla Hosie, Jason William Day",Osgood Perkins,0
+929590,Civil War,"[10752, 28, 18]","Kirsten Dunst, Wagner Moura, Cailee Spaeny, Stephen McKinley Henderson, Nelson Lee, Nick Offerman, Jefferson White, Evan Lai, Vince Pisani, Justin James Boykin",Alex Garland,0
+575264,Mission: Impossible - Dead Reckoning Part One,"[28, 12]","Tom Cruise, Hayley Atwell, Ving Rhames, Simon Pegg, Rebecca Ferguson, Vanessa Kirby, Esai Morales, Pom Klementieff, Henry Czerny, Shea Whigham",Christopher McQuarrie,0
+447365,Guardians of the Galaxy Vol. 3,"[878, 12, 28]","Chris Pratt, Zoe Saldaña, Dave Bautista, Karen Gillan, Pom Klementieff, Vin Diesel, Bradley Cooper, Sean Gunn, Chukwudi Iwuji, Will Poulter",James Gunn,0
+588228,The Tomorrow War,"[28, 878, 12]","Chris Pratt, Yvonne Strahovski, J.K. Simmons, Betty Gilpin, Sam Richardson, Edwin Hodge, Jasmine Mathews, Ryan Kiera Armstrong, Keith Powers, Mary Lynn Rajskub",Chris McKay,0
+976573,Elemental,"[16, 35, 10751, 14, 10749]","Leah Lewis, Mamoudou Athie, Ronnie del Carmen, Shila Ommi, Wendi McLendon-Covey, Catherine O'Hara, Mason Wertheimer, Ronobir Lahiri, Wilma Bonet, Joe Pera",Peter Sohn,0
+581528,"The Gangster, the Cop, the Devil","[80, 28, 53]","Don Lee, Kim Moo-yul, Kim Sung-kyu, Heo Dong-won, Yoo Jae-myung, Lee Seo-hwan, Oh Hee-jun, Kim Gyu-ri, Yoo Seung-mok, Ryu Tae-ho",Lee Won-tae,0
+792307,Poor Things,"[878, 10749, 35]","Emma Stone, Mark Ruffalo, Willem Dafoe, Ramy Youssef, Christopher Abbott, Suzy Bemba, Jerrod Carmichael, Kathryn Hunter, Vicki Pepperdine, Hanna Schygulla",Yorgos Lanthimos,0
+1297860,Inheritance,[53],"Phoebe Dynevor, Rhys Ifans, Ciara Baxendale, Kersti Bryan, Majd Eid, Byron Clohessy, Joey Albright, José Alvarez, Jack Lyons, Mitchell Hochman",Neil Burger,0
+505642,Black Panther: Wakanda Forever,"[28, 12, 878]","Letitia Wright, Tenoch Huerta Mejía, Lupita Nyong'o, Danai Gurira, Winston Duke, Angela Bassett, Martin Freeman, Julia Louis-Dreyfus, Dominique Thorne, Florence Kasumba",Ryan Coogler,0
+40108,Emmanuelle: Queen of Sados,"[80, 18, 53]","Laura Gemser, Gabriele Tinti, Livia Russo, Haris Tryfonas, Nadia Neri, Vagelis Vartan, Gordon Mitchell, Pantelis Agelopoulos, Elli Kiriakidou, George Zenios",Ilias Mylonakos,0
+1228681,Sex,"[18, 10749]","Jan Gunnar Røise, Thorbjørn Harr, Siri Forberg, Birgitte Larsen, Theo Dahl, Nasrin Khusrawi, Anne Marie Ottersen, Vetle Bergan, Iver Innset, Brynjar Åbel Bandlien",Dag Johan Haugerud,0
+9502,Kung Fu Panda,"[28, 12, 16, 10751, 35]","Jack Black, Angelina Jolie, Dustin Hoffman, Ian McShane, Jackie Chan, Lucy Liu, Seth Rogen, David Cross, Randall Duk Kim, James Hong",Mark Osborne,0
+866398,The Beekeeper,"[80, 28, 53]","Jason Statham, Emmy Raver-Lampman, Josh Hutcherson, Bobby Naderi, Minnie Driver, David Witts, Michael Epp, Taylor James, Jemma Redgrave, Enzo Cilenti",David Ayer,0
+414906,The Batman,"[80, 9648, 53]","Robert Pattinson, Zoë Kravitz, Jeffrey Wright, Colin Farrell, Paul Dano, John Turturro, Andy Serkis, Peter Sarsgaard, Barry Keoghan, Jayme Lawson",Matt Reeves,0
+121,The Lord of the Rings: The Two Towers,"[12, 14, 28]","Elijah Wood, Ian McKellen, Viggo Mortensen, Sean Astin, Andy Serkis, John Rhys-Davies, Orlando Bloom, Bernard Hill, Miranda Otto, Dominic Monaghan",Peter Jackson,0
+11,Star Wars,"[12, 28, 878]","Mark Hamill, Harrison Ford, Carrie Fisher, Peter Cushing, Alec Guinness, Anthony Daniels, Kenny Baker, Peter Mayhew, David Prowse, James Earl Jones",George Lucas,0
+1212142,Kinda Pregnant,"[35, 10749]","Amy Schumer, Jillian Bell, Brianne Howey, Will Forte, Lizze Broadway, Damon Wayans Jr., Urzila Carlson, Chris Geere, Joel David Moore, Alex Moffat",Tyler Spindel,0
+109445,Frozen,"[16, 10751, 12, 14]","Kristen Bell, Idina Menzel, Jonathan Groff, Josh Gad, Livvy Stubenrauch, Santino Fontana, Eva Bella, Alan Tudyk, Maia Wilson, Ciarán Hinds",Chris Buck,0
+12445,Harry Potter and the Deathly Hallows: Part 2,"[14, 12]","Daniel Radcliffe, Emma Watson, Rupert Grint, Ralph Fiennes, Alan Rickman, Michael Gambon, Warwick Davis, Helena Bonham Carter, Ciarán Hinds, Matthew Lewis",David Yates,0
+324544,In the Lost Lands,"[14, 12, 28]","Milla Jovovich, Dave Bautista, Arly Jover, Amara Okereke, Fraser James, Deirdre Mullins, Sebastian Stankiewicz, Tue Lunding, Jacek Dzisiewicz, Ian Hanmore",Paul W. S. Anderson,0
+829560,The Next 365 Days,"[10749, 18]","Anna-Maria Sieklucka, Michele Morrone, Simone Susinna, Magdalena Lamparska, Otar Saralidze, Ewa Kasprzyk, Dariusz Jakubowski, Ramón Langa, Tomasz Mandes, Natalia Siwiec",Tomasz Mandes,0
+156022,The Equalizer,"[53, 28, 80]","Denzel Washington, Marton Csokas, Chloë Grace Moretz, David Harbour, Haley Bennett, Bill Pullman, Melissa Leo, David Meunier, Johnny Skourtis, Alex Veadov",Antoine Fuqua,0
+16869,Inglourious Basterds,"[18, 53, 10752]","Brad Pitt, Mélanie Laurent, Christoph Waltz, Eli Roth, Michael Fassbender, Diane Kruger, Daniel Brühl, Til Schweiger, Gedeon Burkhard, Jacky Ido",Quentin Tarantino,0
+1122418,This Time Next Year,"[10749, 35]","Sophie Cookson, Lucien Laviscount, John Hannah, Golda Rosheuvel, Monica Dolan, Mandip Gill, Charlie Oscar, Will Hislop, Anita Dobson, Keala Settle",Nick Moore,0
+38,Eternal Sunshine of the Spotless Mind,"[878, 18, 10749]","Jim Carrey, Kate Winslet, Kirsten Dunst, Mark Ruffalo, Elijah Wood, Tom Wilkinson, Jane Adams, David Cross, Deirdre O'Connell, Thomas Jay Ryan",Michel Gondry,0
+564140,Cold Feet,[35],"Heiner Lauterbach, Emilio Sakraya, Sonja Gerhardt, Roman Schomburg, Jeanne Goursaud, Adam Hajajczyk, Michael Ostrowski, Aleksandar Jovanović, Jasmin Gerat, Gerti Drassl",Wolfgang Groos,0
+1311031,Demon Slayer: Kimetsu no Yaiba - Infinity Castle,"[16, 28, 14, 53]","Natsuki Hanae, Yoshitsugu Matsuoka, Hiro Shimono, Akari Kito",Haruo Sotozaki,0
+557,Spider-Man,"[28, 878]","Tobey Maguire, Willem Dafoe, Kirsten Dunst, James Franco, Cliff Robertson, Rosemary Harris, J.K. Simmons, Joe Manganiello, Gerry Becker, Bill Nunn",Sam Raimi,0
+1726,Iron Man,"[28, 878, 12]","Robert Downey Jr., Terrence Howard, Jeff Bridges, Gwyneth Paltrow, Leslie Bibb, Shaun Toub, Faran Tahir, Clark Gregg, Bill Smitrovich, Sayed Badreya",Jon Favreau,0
+1209130,Hagen,"[14, 12, 28]","Gijs Naber, Jannis Niewöhner, Lilja van der Zwaag, Dominic Marcus Singer, Rosalinde Mynster, Jördis Triebel, Jörg Hartmann, Béla Gabor Lenz, Alessandro Schuster, Johanna Kolberg",Cyrill Boss,0
+38757,Tangled,"[16, 10751, 12]","Mandy Moore, Zachary Levi, Donna Murphy, Ron Perlman, M.C. Gainey, Jeffrey Tambor, Brad Garrett, Paul F. Tompkins, Richard Kiel, Delaney Rose Stein",Byron Howard,0
+141213,Riot in a Women's Prison,[18],"Martine Brochard, Marilù Tolo, Erna Schürer, Katia Christine, Cristina Galbó, Isabelle De Valvert, Aliza Adar, Luciana Turina, Maria Cumani Quasimodo, Maria Pia Conte",Brunello Rondi,0
+18785,The Hangover,[35],"Bradley Cooper, Ed Helms, Zach Galifianakis, Justin Bartha, Heather Graham, Sasha Barrese, Jeffrey Tambor, Ken Jeong, Rachael Harris, Mike Tyson",Todd Phillips,0
+13,Forrest Gump,"[35, 18, 10749]","Tom Hanks, Robin Wright, Gary Sinise, Sally Field, Mykelti Williamson, Michael Conner Humphreys, Hanna Hall, Haley Joel Osment, Siobhan Fallon Hogan, Rebecca Williams",Robert Zemeckis,0
+940551,Migration,"[16, 12, 35, 10751]","Kumail Nanjiani, Elizabeth Banks, Caspar Jennings, Tresi Gazal, Awkwafina, Carol Kane, Keegan-Michael Key, Danny DeVito, David Mitchell, Isabela Merced",Benjamin Renner,0
+138843,The Conjuring,"[27, 53]","Patrick Wilson, Vera Farmiga, Lili Taylor, Ron Livingston, Mackenzie Foy, Joey King, Hayley McFarland, Shanley Caswell, Kyla Deaver, Sterling Jerins",James Wan,0
+568124,Encanto,"[16, 35, 10751, 14]","Stephanie Beatriz, María Cecilia Botero, John Leguizamo, Diane Guerrero, Jessica Darrow, Carolina Gaitán, Angie Cepeda, Ravi Cabot-Conyers, Mauro Castillo, Rhenzy Feliz",Byron Howard,0
+324857,Spider-Man: Into the Spider-Verse,"[16, 28, 12, 878]","Shameik Moore, Jake Johnson, Hailee Steinfeld, Mahershala Ali, Brian Tyree Henry, Lily Tomlin, Luna Lauren Velez, Zoë Kravitz, John Mulaney, Kimiko Glenn",Bob Persichetti,0
+12444,Harry Potter and the Deathly Hallows: Part 1,"[12, 14]","Daniel Radcliffe, Emma Watson, Rupert Grint, Toby Jones, Helena Bonham Carter, Alan Rickman, Ralph Fiennes, Bill Nighy, Simon McBurney, Rhys Ifans",David Yates,0
+453395,Doctor Strange in the Multiverse of Madness,"[14, 28, 12]","Benedict Cumberbatch, Xochitl Gomez, Elizabeth Olsen, Chiwetel Ejiofor, Benedict Wong, Rachel McAdams, Jett Klyne, Julian Hilliard, Michael Stuhlbarg, Hayley Atwell",Sam Raimi,0
+1607,A Bronx Tale,"[18, 80]","Robert De Niro, Chazz Palminteri, Lillo Brancato, Francis Capra, Taral Hicks, Kathrine Narducci, Clem Caserta, Alfred Sauchelli, Jr., Frank Pietrangolare, Joe Pesci",Robert De Niro,0
+801335,Girl in the Basement,"[53, 80, 10770]","Judd Nelson, Stefanie Scott, Joely Fisher, Braxton Bjerken, Kim Rosen, Emily Topper, Emma Myers, Jake Nuttall, Liam Pileggi, Jake Etheridge",Elisabeth Röhm,0
+637649,Wrath of Man,"[80, 28, 53]","Jason Statham, Holt McCallany, Josh Hartnett, Scott Eastwood, Darrell D'Silva, Babs Olusanmokun, Jeffrey Donovan, Eddie Marsan, Andy García, Niamh Algar",Guy Ritchie,0
+726139,Project Silence,"[53, 28, 27, 878, 12]","Lee Sun-kyun, Ju Ji-hoon, Kim Hee-won, Moon Sung-keun, Ye Su-jeong, Kim Tae-woo, Park Hee-von, Park Ju-hyun, Kim Su-an, Ha Do-kwon",Kim Tae-gon,0
+1607,A Bronx Tale,"[18, 80]","Robert De Niro, Chazz Palminteri, Lillo Brancato, Francis Capra, Taral Hicks, Kathrine Narducci, Clem Caserta, Alfred Sauchelli, Jr., Frank Pietrangolare, Joe Pesci",Robert De Niro,0
+801335,Girl in the Basement,"[53, 80, 10770]","Judd Nelson, Stefanie Scott, Joely Fisher, Braxton Bjerken, Kim Rosen, Emily Topper, Emma Myers, Jake Nuttall, Liam Pileggi, Jake Etheridge",Elisabeth Röhm,0
+637649,Wrath of Man,"[80, 28, 53]","Jason Statham, Holt McCallany, Josh Hartnett, Scott Eastwood, Darrell D'Silva, Babs Olusanmokun, Jeffrey Donovan, Eddie Marsan, Andy García, Niamh Algar",Guy Ritchie,0
+726139,Project Silence,"[53, 28, 27, 878, 12]","Lee Sun-kyun, Ju Ji-hoon, Kim Hee-won, Moon Sung-keun, Ye Su-jeong, Kim Tae-woo, Park Hee-von, Park Ju-hyun, Kim Su-an, Ha Do-kwon",Kim Tae-gon,0
+1299652,Watchmen: Chapter II,"[16, 9648, 878, 28, 18]","Troy Baker, Adrienne Barbeau, Michael Cerveris, Zehra Fazal, Phil Fondacaro, Grey DeLisle, John Marshall Jones, Max Koch, Phil LaMarr, Yuri Lowenthal",Brandon Vietti,0
+41446,Scream 4,"[27, 9648]","David Arquette, Neve Campbell, Courteney Cox, Emma Roberts, Hayden Panettiere, Anthony Anderson, Adam Brody, Rory Culkin, Mary McDonnell, Marley Shelton",Wes Craven,0
+387824,Mom's Friend,[18],"Heo Ye-chang, Hee-jeong, Yeong Ah, Kim Woon, Jeon Ji-hak, Jo Yong-bok, Kim Mi-na, Jeon Hyeon-soo, Kim Moon-jong",Myeong Seok Hwan,0
+365177,Borderlands,"[28, 878, 35]","Cate Blanchett, Kevin Hart, Edgar Ramírez, Jamie Lee Curtis, Ariana Greenblatt, Florian Munteanu, Janina Gavankar, Jack Black, Benjamin Byron Davis, Olivier Richters",Eli Roth,0
+68555,Death Note Relight 2: L's Successors,"[10770, 53, 16, 80, 18, 14]","Mamoru Miyano, Shido Nakamura, Aya Hirano, Noriko Hidaka, Nozomu Sasaki, Ryou Naitou, Keiji Fujiwara, Maaya Sakamoto, Masaya Matsukaze, Hideo Ishikawa",Tetsuro Araki,0
+337167,Fifty Shades Freed,"[18, 10749]","Dakota Johnson, Jamie Dornan, Eric Johnson, Eloise Mumford, Rita Ora, Luke Grimes, Victor Rasuk, Max Martini, Jennifer Ehle, Kim Basinger",James Foley,0
+1425200,Umjolo: There Is No Cure,"[10749, 35, 18]","Nombuleleo Mhlongo, Busisiwe Mtshali, Tina Redman, Londeka Sishi, Yonda Thomas, Nokuthula Mabika, Brenda Mhlongo, Shezi Sibongiseni, Tyson Mathonsi, Khumbulani Kay Sibiya",Mthunzi Dubazana,0
+566525,Shang-Chi and the Legend of the Ten Rings,"[28, 12, 14]","Simu Liu, Tony Leung, Awkwafina, Ben Kingsley, Meng'er Zhang, Fala Chen, Michelle Yeoh, Yuen Wah, Florian Munteanu, Andy Le",Destin Daniel Cretton,0
+1079091,It Ends with Us,"[18, 10749]","Blake Lively, Justin Baldoni, Jenny Slate, Brandon Sklenar, Hasan Minhaj, Kevin McKidd, Amy Morton, Alex Neustaedter, Isabela Ferrer, Robert Clohessy",Justin Baldoni,0
+1014505,OVERLORD: The Sacred Kingdom,"[28, 12, 16, 14]","Satoshi Hino, Yumi Hara, Masayuki Katou, Yoshino Aoyama, Hitomi Nabatame, Saori Hayami, Haruka Tomatsu, Manami Munakura",Naoyuki Ito,0
+578,Jaws,"[27, 53, 12]","Roy Scheider, Robert Shaw, Richard Dreyfuss, Lorraine Gary, Murray Hamilton, Carl Gottlieb, Jeffrey Kramer, Susan Backlinie, Jonathan Filley, Ted Grossman",Steven Spielberg,0
+1354627,SpongeBob Squarepants: Kreepaway Kamp,"[10770, 10751, 35, 27, 16]","Tom Kenny, Bill Fagerbakke, Rodger Bumpass, Clancy Brown, Carolyn Lawrence, Mr. Lawrence, Lori Alan, Carlos Alazraqui, Dee Bradley Baker, India de Beaufort",Ian Vasquez,0
+82023,Hotel Desire,"[18, 10749]","Saralisa Volm, Clemens Schick, Jan-Gregor Kremp, Herbert Knaup, Palina Rojinski, Frederick Lau, Trystan Pütter, Carlo Ljubek, Liroy Gehrke, Petar Knezevic",Sergej Moya,0
+475557,Joker,"[80, 53, 18]","Joaquin Phoenix, Robert De Niro, Zazie Beetz, Frances Conroy, Brett Cullen, Shea Whigham, Bill Camp, Glenn Fleshler, Leigh Gill, Josh Pais",Todd Phillips,0
+1171640,GTMAX,"[28, 80, 18]","Ava Baya, Jalil Lespert, Jérémie Laheurte, Thibaut Évrard, Riadh Belaïche, Gérard Lanvin, Samir Decazza, Clémentine Célarié, Mohamed Makhtoumi, Céline Jorrion",Olivier Schneider,0
+1167271,Weekend in Taipei,"[28, 12, 53]","Luke Evans, Gwei Lun-Mei, Sung Kang, Wyatt Yang, Pernell Walker, Zach Ireland, Patrick Lee, Virginia Chien, Lu Yi-ching, Tou Tsung-Hua",George Huang,0
+950396,The Gorge,"[10749, 878, 53]","Miles Teller, Anya Taylor-Joy, Sigourney Weaver, Sope Dirisu, William Houston, Kobna Holdbrook-Smith, James Marlowe, Julianna Kurokawa, Ruta Gedmintas, Oliver Trevena",Scott Derrickson,0
+1126166,Flight Risk,"[28, 53, 80]","Mark Wahlberg, Michelle Dockery, Topher Grace, Leah Remini, Paul Ben-Victor, Maaz Ali, Monib Abhat, Eilise Patton, Senor Pablo, Savanah Joeckel",Mel Gibson,0
+1064213,Anora,"[18, 35, 10749]","Mikey Madison, Mark Eydelshteyn, Yura Borisov, Karren Karagulian, Vache Tovmasyan, Luna Sofía Miranda, Lindsey Normington, Darya Ekamasova, Aleksey Serebryakov, Anton Bitter",Sean Baker,0
+1084199,Companion,"[27, 878, 53]","Sophie Thatcher, Jack Quaid, Lukas Gage, Megan Suri, Harvey Guillén, Rupert Friend, Jaboukie Young-White, Matthew J. McCarthy, Marc Menchaca, Woody Fu",Drew Hancock,0
+1160956,Panda Plan,"[28, 35]","Jackie Chan, Shi Ce, Wei Xiang, Han Yanbo, Danny Ray, Xu Juncong, Andy Friend, Huang Yuntong, Jia Bing, Temur Mamisashvili",Zhang Luan,0
+822119,Captain America: Brave New World,"[28, 53, 878]","Anthony Mackie, Harrison Ford, Danny Ramirez, Shira Haas, Tim Blake Nelson, Carl Lumbly, Giancarlo Esposito, Liv Tyler, Xosha Roquemore, Jóhannes Haukur Jóhannesson",Julius Onah,0
+823219,Flow,"[16, 14, 12]",,Gints Zilbalodis,0
+1405338,Demon City,"[28, 80, 14, 53]","Toma Ikuta, Masahiro Higashide, Miou Tanaka, Ami Touma, Taro Suruga, Mai Kiryu, Naoto Takenaka, Takuma Otoo, Matsuya Onoe, Masanobu Takashima",Seiji Tanaka,0
+933260,The Substance,"[27, 878]","Demi Moore, Margaret Qualley, Dennis Quaid, Edward Hamilton-Clark, Gore Abrams, Oscar Lesage, Christian Erickson, Robin Greer, Tom Morton, Hugo Diego Garcia",Coralie Fargeat,0
+1064486,Memoir of a Snail,"[16, 18, 35]","Sarah Snook, Kodi Smit-McPhee, Jacki Weaver, Magda Szubanski, Dominique Pinon, Tony Armstrong, Paul Capsis, Eric Bana, Bernie Clifford, Davey Thompson",Adam Elliot,0
+774370,Dog Man,"[10751, 16, 35, 28]","Peter Hastings, Pete Davidson, Lil Rel Howery, Isla Fisher, Lucas Hopkins Calderon, Ricky Gervais, Poppy Liu, Stephen Root, Billy Boyd, Luenell",Peter Hastings,0
+696506,Mickey 17,"[878, 35, 12]","Robert Pattinson, Naomi Ackie, Steven Yeun, Mark Ruffalo, Toni Collette, Anamaria Vartolomei, Daniel Henshall, Patsy Ferran, Steve Park, Tim Key",Bong Joon Ho,0
+1226406,Love Hurts,"[28, 35, 10749]","Ke Huy Quan, Ariana DeBose, Mustafa Shakir, Lio Tipton, Daniel Wu, Cam Gigandet, Marshawn Lynch, André Eriksen, Rhys Darby, Sean Astin",Jonathan Eusebio,0
+1140535,Presence,"[27, 18]","Callina Liang, Lucy Liu, Chris Sullivan, Eddy Maday, Julia Fox, Lucas Papaelias, West Mulholland, Daniel Danielson, Benny Elledge, Natalie Woolams-Torres",Steven Soderbergh,0
+549509,The Brutalist,[18],"Adrien Brody, Felicity Jones, Guy Pearce, Joe Alwyn, Raffey Cassidy, Stacy Martin, Isaach de Bankolé, Alessandro Nivola, Ariane Labed, Michael Epp",Brady Corbet,0
+1249289,Alarum,"[28, 80, 53]","Scott Eastwood, Sylvester Stallone, Willa Fitzgerald, Mike Colter, D.W. Moffett, Isis Valverde, Joel Cohen, Mark Polish, Anton Narinskiy, Patrick Millin",Michael Polish,0
+974576,Conclave,"[18, 53, 9648]","Ralph Fiennes, Stanley Tucci, John Lithgow, Isabella Rossellini, Lucian Msamati, Carlos Diehz, Sergio Castellitto, Brían F. O'Byrne, Merab Ninidze, Thomas Loibl",Edward Berger,0
+1294203,My Fault: London,"[10749, 18]","Asha Banks, Matthew Broome, Eve Macklin, Ray Fearon, Enva Lewis, Jason Flemyng, Kerim Hassan, Sam Buchanan, Amelia Kenworthy, Harry Gilby",Dani Girdwood,0
+1356039,Counterattack,"[28, 12, 53]","Luis Alberti, Noé Hernández, Leonardo Alonso, Luis Curiel, Guillermo Nava, David Calderón León, Mayra Batalla, Israel Islas, Ishbel Bautista, Frida Jiser",Chava Cartas,0
+402431,Wicked,"[18, 10749, 14]","Cynthia Erivo, Ariana Grande, Jeff Goldblum, Michelle Yeoh, Jonathan Bailey, Ethan Slater, Marissa Bode, Peter Dinklage, Andy Nyman, Courtney-Mae Briggs",Jon M. Chu,0
+1201012,Dhoom Dhaam,"[35, 10749, 28]","Yami Gautam, Pratik Gandhi, Eijaz Khan, Mukul Chadda, Pavitra Sarkar, Anand Vikas Potdukhe, Sahil Gangurde, Kavin Dave, Prateik Babbar, Garima Yajnik",Rishab Seth,0
+1184918,The Wild Robot,"[16, 878, 10751]","Lupita Nyong'o, Pedro Pascal, Kit Connor, Bill Nighy, Stephanie Hsu, Matt Berry, Ving Rhames, Mark Hamill, Catherine O'Hara, Boone Storm",Chris Sanders,0
+661539,A Complete Unknown,"[18, 10402]","Timothée Chalamet, Edward Norton, Elle Fanning, Monica Barbaro, Scoot McNairy, Dan Fogler, Boyd Holbrook, Will Harrison, Joe Tippett, Eriko Hatsune",James Mangold,0
+1164355,Lembayung,"[27, 53]","Taskya Namya, Yasamin Jasem, Arya Saloka, Anna Jobling, Daffa Wardhana, Oka Antara, Tio Pakusadewo, Paula Verhoeven, Mario Maulana, Dayu Wijanto",Baim Wong,0
+974453,Absolution,"[28, 80, 53, 9648]","Liam Neeson, Ron Perlman, Yolonda Ross, Frankie Shaw, Daniel Diemer, Javier Molina, Jimmy Gonzales, Josh Drennen, Deanna Tarraza, Terrence Pulliam",Hans Petter Moland,0
+426063,Nosferatu,"[14, 27]","Lily-Rose Depp, Nicholas Hoult, Bill Skarsgård, Aaron Taylor-Johnson, Willem Dafoe, Emma Corrin, Ralph Ineson, Simon McBurney, Adéla Hesová, Milena Konstantinova",Robert Eggers,0
+1255788,The Gardener,"[28, 35]","Jean-Claude Van Damme, Michaël Youn, Nawell Madani, Carla Poquin, Jérôme Le Banner, Ragnar Le Breton, Kaaris, Studio Danielle, Élie Semoun, Vincent Desagnat",David Charhon,0
+710295,Wolf Man,"[27, 53]","Christopher Abbott, Julia Garner, Matilda Firth, Sam Jaeger, Ben Prendergast, Benedict Hardie, Zac Chandler, Milo Cawthorne, Leigh Whannell, Rob MacBride",Leigh Whannell,0
+1422179,The Wrong Track,"[35, 18]","Ada Eide, Trond Fausa Aurvåg, Marie Blokhus, Christian Rubeck, Saga Tuset Meisfjordskar, Deniz Kaya, Shana Mathai, Pia Halvorsen, Nils Bendik Kvissel, André Sørum",Hallvar Witzø,0
+1230208,Squad 36,"[28, 80, 18, 53]","Victor Belmondo, Tewfik Jallab, Soufiane Guerrab, Juliette Dol, Yvan Attal, Nicolas Wanczycki, Ludovic Faure, Lydia Andréï, Jean-Michel Correia, Moussa Mansaly",Olivier Marchal,0
+1124620,The Monkey,"[27, 35]","Theo James, Tatiana Maslany, Christian Convery, Colin O'Brien, Adam Scott, Elijah Wood, Rohan Campbell, Sarah Levy, Osgood Perkins, Nicco Del Rio",Osgood Perkins,0
+1006724,Dead Talents Society,"[27, 35, 53]","Chen Bolin, Sandrine Pinna, Gingle Wang, Yao Yi Ti, Bai Jing-yi, Soso Tseng, Ya-Ling Chang, Lin He-Hsuan, Hau-Ping Huang, Hannah Tung",John Hsu,0
+1097549,Babygirl,[18],"Nicole Kidman, Harris Dickinson, Antonio Banderas, Esther-Rose McGregor, Sophie Wilde, Vaughan Reilly, Victor Slezak, Leslie Silva, Gaite Jansen, Robert Farrior",Halina Reijn,0
+970450,Werewolves,"[28, 27, 53]","Frank Grillo, Katrina Law, Ilfenesh Hadera, Jimmy Cummings, Lou Diamond Phillips, Kamdynn Gary, Lydia Styslinger, Daniel Fernandez, James Kyson, Betzaida Landín",Steven C. Miller,0
+157336,Interstellar,"[12, 18, 878]","Matthew McConaughey, Anne Hathaway, Michael Caine, Jessica Chastain, Casey Affleck, Wes Bentley, Topher Grace, Mackenzie Foy, Ellen Burstyn, John Lithgow",Christopher Nolan,0
+516729,Paddington in Peru,"[10751, 12, 35]","Ben Whishaw, Hugh Bonneville, Emily Mortimer, Samuel Joslin, Madeleine Harris, Antonio Banderas, Olivia Colman, Julie Walters, Jim Broadbent, Carla Tous",Dougal Wilson,0
+1203329,The Witcher: Sirens of the Deep,"[16, 14, 28]","Doug Cockle, Joey Batey, Christina Wren, Emily Carey, Camrus Johnson, Simon Templeman, Mallory Jansen, Anya Chalotra, Ray Chase, Cynthia Kaye McWilliams",Kang Hei Chul,0
+1000837,I'm Still Here,"[18, 36]","Fernanda Torres, Selton Mello, Valentina Herszage, Bárbara Luz, Guilherme Silveira, Cora Ramalho, Luiza Kosovski, Pri Helena, Luiz Bertazzo, Maeve Jinkings",Walter Salles,0
+974950,Emilia Pérez,"[18, 53]","Karla Sofía Gascón, Zoe Saldaña, Selena Gomez, Adriana Paz, Edgar Ramírez, Mark Ivanir, Eduardo Aladro, Emiliano Hasan, Gaël Murgia-Fur, Tirso Pietriga",Jacques Audiard,0
+1138194,Heretic,"[27, 53]","Hugh Grant, Sophie Thatcher, Chloe East, Topher Grace, Elle Young, Julie Lynn-Mortensen, Haylie Hansen, Elle McKinnon, Hanna Huffman, Anesha Bailey",Scott Beck,0
+1138194,Heretic,"[27, 53]","Hugh Grant, Sophie Thatcher, Chloe East, Topher Grace, Elle Young, Julie Lynn-Mortensen, Haylie Hansen, Elle McKinnon, Hanna Huffman, Anesha Bailey",Scott Beck,0
+1426142,Sosyal Climbers,"[10749, 35]","Maris Racal, Anthony Jennings, Ricky Davao, Carmi Martin, Bart Guingona, Cheska Iñigo, Marissa Sanchez, Raquel Pareño, Pam Arambulo, Shanaia Gomez",Jason Paul Laxamana,0
+671,Harry Potter and the Philosopher's Stone,"[12, 14]","Daniel Radcliffe, Rupert Grint, Emma Watson, Richard Harris, Tom Felton, Alan Rickman, Robbie Coltrane, Maggie Smith, Richard Griffiths, Ian Hart",Chris Columbus,0
+1302916,Heart Eyes,"[27, 35, 9648]","Olivia Holt, Mason Gooding, Jordana Brewster, Devon Sawa, Gigi Zumbado, Ben Black, Chris Parker, Latham Gaines, Lauren O'Hara, Michaela Watkins",Josh Ruben,0
+1280672,One of Them Days,[35],"Keke Palmer, SZA, Joshua David Neal, Aziza Scott, Patrick Cage, Katt Williams, Maude Apatow, Vanessa Bell Calloway, Gabrielle Dennis, Janelle James",Lawrence Lamont,0
+978796,Bagman,"[27, 53]","Sam Claflin, Antonia Thomas, Caréll Vincent Rhoden, Will Davis, Adelle Leonce, William Hope, Steven Cree, Rosalie Craig, Peter McDonald, Henry Pettigrew",Colm McCarthy,0
+957119,Sidelined: The QB and Me,"[35, 10749]","Siena Agudong, Noah Beck, Drew Ray Tanner, James Van Der Beek, Deborah Cox, Asia Lizardo, Jake Foy, Jason Fernandes, Kendall Cross, Josh Zaharia",Justin Wu,0
+1272149,Bridget Jones: Mad About the Boy,"[10749, 35, 18]","Renée Zellweger, Chiwetel Ejiofor, Leo Woodall, Hugh Grant, Jim Broadbent, Gemma Jones, Colin Firth, Sarah Solemani, Josette Simon, Nico Parker",Michael Morris,0
+1104845,Plankton: The Movie,"[16, 12, 35, 10751, 14]","Mr. Lawrence, Jill Talley, Tom Kenny, Bill Fagerbakke, Rodger Bumpass, Carolyn Lawrence, Clancy Brown, Mary Jo Catlett, Lori Alan, Dee Bradley Baker",Dave Needham,0
+1051896,Arcadian,"[28, 27, 53, 878]","Nicolas Cage, Jaeden Martell, Maxwell Jenkins, Sadie Soverall, Samantha Coughlan, Joel Gillman, Joe Dixon, Daire McMahon",Benjamin Brewer,0
+604685,Den of Thieves 2: Pantera,"[28, 80, 53]","Gerard Butler, O'Shea Jackson Jr., Evin Ahmad, Salvatore Esposito, Meadow Williams, Swen Temmel, Michael Bisping, Orli Shuka, Rico Verhoeven, Jordan Bridges",Christian Gudegast,0
+1078600,Marked Men: Rule + Shaw,"[10749, 18]","Chase Stokes, Sydney Taylor, Ella Balinska, Evan Mock, Alexander Ludwig, Natalie Alyn Lind, Matthew Noszka, Hannah Kepple, Daisy Jelley, Michael Bradway",Nick Cassavetes,0
+1013850,A Real Pain,"[35, 18]","Jesse Eisenberg, Kieran Culkin, Will Sharpe, Jennifer Grey, Kurt Egyiawan, Liza Sadovy, Daniel Oreskes, Ellora Torchia, Banner Eisenberg, Olha Bosova",Jesse Eisenberg,0
+1216191,Oddity,"[27, 9648]","Carolyn Bracken, Jonathan French, Steve Wall, Joe Rooney, Gwilym Lee, Tadhg Murphy, Caroline Menton, Ivan de Wergifosse, Shane Whisker, Josuha Campbell",Damian Mc Carthy,0
+1426674,A Copenhagen Love Story,"[10749, 18]","Rosalinde Mynster, Joachim Fjelstrup, Sara Fanta Traore, Mille Lehfeldt, Magnus Haugaard, Magnus Millang, Sargun Oshana, Anne Marie Helger, Mia Lerdam, Sarah Juel Werner",Ditte Hansen,0
+1196470,Survive,"[878, 53, 12, 28]","Émilie Dequenne, Andreas Pietschmann, Lisa Delamar, Lucas Ebel, Arben Bajraktaraj, Olivier Ho Hio Hen, Stéphanie Guerin, Rida Ait Oufqir, Youssef El Hiaboui, Simon Rérolle",Frédéric Jardin,0
+1182387,Armor,"[28, 80, 53, 18]","Jason Patric, Sylvester Stallone, Josh Wiggins, Dash Mihok, Blake Shields, Josh Whites, Jeff Chase, Martin Bats Bradford, Erin Ownbey, Justin William Davis",Justin Routt,0
+496243,Parasite,"[35, 53, 18]","Song Kang-ho, Lee Sun-kyun, Cho Yeo-jeong, Choi Woo-shik, Park So-dam, Lee Jung-eun, Jang Hye-jin, Park Myung-hoon, Jung Ji-so, Jung Hyeon-jun",Bong Joon Ho,0
+1318917,Chasing the Wind,[10749],"Hande Erçel, Barış Arduç, Gözde Mutluer, Tuğrul Tülek, Şebnem Sönmez, Barış Aytaç, Olimpia Ahenk, Ahmet Saraçoğlu, Serhat Nalbantoğlu",Engin Erden,0
+674,Harry Potter and the Goblet of Fire,"[12, 14]","Daniel Radcliffe, Rupert Grint, Emma Watson, Brendan Gleeson, Michael Gambon, Robert Pattinson, Ralph Fiennes, Robbie Coltrane, Alan Rickman, David Tennant",Mike Newell,0
+1299372,The Wailing,[27],"Ester Expósito, Mathilde Ollivier, Malena Villa, José Luis Ferrer, Claudia Roset, Lía Lois, Sonia Almarcha, Tomás del Estal, Lautaro Bettoni, Àlex Monner",Pedro Martín Calero,0
+672,Harry Potter and the Chamber of Secrets,"[12, 14]","Daniel Radcliffe, Rupert Grint, Emma Watson, Kenneth Branagh, Toby Jones, Robbie Coltrane, Richard Harris, Alan Rickman, Tom Felton, Jason Isaacs",Chris Columbus,0
+1433593,El hilo rojo,"[18, 10749]","Michel Brown, Mario Morán, Carolina Miranda, Maya Zapata, Pilar Santacruz",Celso R. García,0
+777443,The Electric State,"[18, 12, 878, 28]","Millie Bobby Brown, Chris Pratt, Woody Harrelson, Ke Huy Quan, Giancarlo Esposito, Stanley Tucci, Anthony Mackie, Brian Cox, Jenny Slate, Woody Norman",Joe Russo,0
+1064028,Subservience,"[878, 53]","Megan Fox, Michele Morrone, Madeline Zima, Matilda Firth, Andrew Whipp, Atanas Srebrev, Kate Nichols, Trevor Van Uden, Euan Macnaughton, Max Kraus",SK Dale,0
+799766,Better Man,"[10402, 18]","Robbie Williams, Jonno Davies, Steve Pemberton, Alison Steadman, Kate Mulvany, Frazer Hadfield, Damon Herriman, Raechelle Banno, Tom Budge, Jake Simmance",Michael Gracey,0
+1434053,Girl Meets Boy,"[35, 10749]","Camila Sodi, Sebastián Zurita, Ianis Guerrero, Paulette Hernández, Aurora Papile, Alfonso Borbolla, Carlos Ferro, Daniel Tovar, Nora Velázquez, Denia Agalianou",Raúl Martínez,0
+673,Harry Potter and the Prisoner of Azkaban,"[12, 14]","Daniel Radcliffe, Rupert Grint, Emma Watson, Robbie Coltrane, Michael Gambon, Gary Oldman, David Thewlis, Timothy Spall, Alan Rickman, Tom Felton",Alfonso Cuarón,0
+1297860,Inheritance,[53],"Phoebe Dynevor, Rhys Ifans, Ciara Baxendale, Kersti Bryan, Majd Eid, Byron Clohessy, Joey Albright, José Alvarez, Jack Lyons, Mitchell Hochman",Neil Burger,0
+1228681,Sex,"[18, 10749]","Jan Gunnar Røise, Thorbjørn Harr, Siri Forberg, Birgitte Larsen, Theo Dahl, Nasrin Khusrawi, Anne Marie Ottersen, Vetle Bergan, Iver Innset, Brynjar Åbel Bandlien",Dag Johan Haugerud,0
+1212142,Kinda Pregnant,"[35, 10749]","Amy Schumer, Jillian Bell, Brianne Howey, Will Forte, Lizze Broadway, Damon Wayans Jr., Urzila Carlson, Chris Geere, Joel David Moore, Alex Moffat",Tyler Spindel,0
+324544,In the Lost Lands,"[14, 12, 28]","Milla Jovovich, Dave Bautista, Arly Jover, Amara Okereke, Fraser James, Deirdre Mullins, Sebastian Stankiewicz, Tue Lunding, Jacek Dzisiewicz, Ian Hanmore",Paul W. S. Anderson,0
+365177,Borderlands,"[28, 878, 35]","Cate Blanchett, Kevin Hart, Edgar Ramírez, Jamie Lee Curtis, Ariana Greenblatt, Florian Munteanu, Janina Gavankar, Jack Black, Benjamin Byron Davis, Olivier Richters",Eli Roth,0
+1425200,Umjolo: There Is No Cure,"[10749, 35, 18]","Nombuleleo Mhlongo, Busisiwe Mtshali, Tina Redman, Londeka Sishi, Yonda Thomas, Nokuthula Mabika, Brenda Mhlongo, Shezi Sibongiseni, Tyson Mathonsi, Khumbulani Kay Sibiya",Mthunzi Dubazana,0
+1014505,OVERLORD: The Sacred Kingdom,"[28, 12, 16, 14]","Satoshi Hino, Yumi Hara, Masayuki Katou, Yoshino Aoyama, Hitomi Nabatame, Saori Hayami, Haruka Tomatsu, Manami Munakura",Naoyuki Ito,0
+1167271,Weekend in Taipei,"[28, 12, 53]","Luke Evans, Gwei Lun-Mei, Sung Kang, Wyatt Yang, Pernell Walker, Zach Ireland, Patrick Lee, Virginia Chien, Lu Yi-ching, Tou Tsung-Hua",George Huang,0
+1029281,Strange Darling,"[80, 27, 53]","Willa Fitzgerald, Kyle Gallner, Madisen Beaty, Bianca A. Santos, Steven Michael Quezada, Ed Begley Jr., Barbara Hershey, Denise Grayson, Eugenia Kuzmina, Duke Mollner",JT Mollner,0
+1333100,Attack on Titan: THE LAST ATTACK,"[16, 28, 12, 14]","Yuki Kaji, Yui Ishikawa, Marina Inoue, Hiroshi Kamiya, Yu Shimamura, Romi Park, Yoshimasa Hosoya, Kisho Taniyama, Hiro Shimono, Koji Hiwatari",Yuichiro Hayashi,0
+940721,Godzilla Minus One,"[878, 27, 28]","Ryunosuke Kamiki, Minami Hamabe, Yuki Yamada, Munetaka Aoki, Hidetaka Yoshioka, Sakura Ando, Kuranosuke Sasaki, Saki Nakatani, Miou Tanaka, Yuya Endo",Takashi Yamazaki,0
+807,Se7en,"[80, 9648, 53]","Morgan Freeman, Brad Pitt, Gwyneth Paltrow, John Cassini, Peter Crombie, Reg E. Cathey, R. Lee Ermey, Daniel Zacapa, Andrew Kevin Walker, George Christy",David Fincher,0
+1304800,The Lion King at the Hollywood Bowl,[10402],"Jennifer Hudson, Nathan Lane, Jeremy Irons, Ernie Sabella, Billy Eichner, Jason Weaver, Bradley Gibson, North West, Heather Headley, Lebo M.",Paul Dugdale,0
+1088514,The Room Next Door,[18],"Julianne Moore, Tilda Swinton, John Turturro, Alessandro Nivola, Juan Diego Botto, Raúl Arévalo, Victoria Luengo, Alex Høgh Andersen, Esther-Rose McGregor, Alvise Rigo",Pedro Almodóvar,0
+1232449,Young Hearts,"[18, 10749]","Lou Goossens, Marius De Saeger, Geert Van Rampelberg, Emilie De Roo, Dirk van Dijck, Jul Goossens, Ezra van Dongen, Olivier Englebert, Olga De Saeger, Wim Opbrouck",Anthony Schatteman,0
+940139,Here,[18],"Tom Hanks, Robin Wright, Paul Bettany, Kelly Reilly, Ellis Grunsell, Teddy Russell, Finn Guegan, Callum Macreadie, Lauren McQueen, Grace Lyra",Robert Zemeckis,0
+1211472,September 5,"[53, 18, 36]","John Magaro, Leonie Benesch, Peter Sarsgaard, Ben Chaplin, Zinedine Soualem, Georgina Rich, Corey Johnson, Marcus Rutherford, Daniel Adeosun, Benjamin Walker",Tim Fehlbaum,0
+1233575,Black Bag,"[53, 18]","Michael Fassbender, Cate Blanchett, Marisa Abela, Tom Burke, Naomie Harris, Regé-Jean Page, Pierce Brosnan, Gustaf Skarsgård, Kae Alexander, Martin Bassindale",Steven Soderbergh,0
+1393069,The Most Beautiful Girl in the World,"[35, 18, 10749]","Reza Rahadian, Sheila Dara, Kevin Julio, Indra Birowo, Jihane Almira, Bucek Depp, Ira Wibowo, Frederika Cull, Dea Panendra, Agastya Kandou",Robert Ronny,0
+1278263,The Seed of the Sacred Fig,"[18, 53, 80]","Misagh Zare, Soheila Golestani, Mahsa Rostami, Setareh Maleki, Niousha Akhshi, Reza Akhlaghirad, Shiva Ordooie, Amineh Mazrouie Arani, Mohammad Kamal Alavi, Parisa Mohyedini",Mohammad Rasoulof,0
+1361622,Honeymoon Crasher,[35],"Michèle Laroque, Julien Frison, Rossy de Palma, Gilbert Melki, Margot Bancilhon, Kad Merad, Jake Francois, Camille Aguilar, Rémi Johnsen, Clara Joly",Nicolas Cuche,0
+1435760,Andrew Schulz: LIFE,[35],Andrew Schulz,Troy Miller,0
+1224993,Dark Nuns,"[53, 27, 9648, 18]","Song Hye-kyo, Jeon Yeo-been, Lee Jin-uk, Moon Woo-jin, Huh Joon-ho, Kim Kuk-hee, Shin Jae-hwi, Gang Dong-won, Han Dong-hee, Park Jeong-hak",Kwon Hyeok-jae,0
+1252377,La Dolce Villa,"[10749, 35]","Scott Foley, Violante Placido, Maia Reficco, Giuseppe Futia, Simone Luglio, Tommaso Basili, Nunzia Schiano, Luisa De Santis, Lucia Ricalzone, Giselle LeBleu Gant",Mark Waters,0
+1319968,Millers in Marriage,[18],"Gretchen Mol, Julianna Margulies, Minnie Driver, Edward Burns, Morena Baccarin, Benjamin Bratt, Patrick Wilson, Campbell Scott, Brian d'Arcy James, Elizabeth Masucci",Edward Burns,0
+1204892,Picture This,"[10749, 35]","Simone Ashley, Hero Fiennes Tiffin, Sindhu Vee, Luke Fetherston, Nikesh Patel, Adil Ray, Anoushka Chadha, Eben Figueiredo, Kulvinder Ghir, Asim Chaudhry",Prarthana Mohan,0
+1100099,We Live in Time,"[10749, 18]","Andrew Garfield, Florence Pugh, Grace Delaney, Lee Braithwaite, Aoife Hinds, Adam James, Douglas Hodge, Amy Morgan, Niamh Cusack, Lucy Briers",John Crowley,0
+1155281,Creation of the Gods II: Demon Force,"[28, 14, 10752]","Huang Bo, Yu Shi, Nashi, Chen Muchi, Kris Phillips, Narana Erdyneeva, Wu Hsing-Guo, Han Pengyi, Ci Sha, Wu Yafan",Wuershan,0
+976576,Emmanuelle,"[10749, 18]","Noémie Merlant, Will Sharpe, Jamie Campbell Bower, Chacha Huang, Anthony Wong Chau-Sang, Naomi Watts, Harrison Arevalo, Marguerite Dabrin, Simon Yin, Adam Pak Tin-Nam",Audrey Diwan,0
+996821,You're Cordially Invited,[35],"Will Ferrell, Reese Witherspoon, Geraldine Viswanathan, Meredith Hagner, Jimmy Tatro, Stony Blyden, Leanne Morgan, Rory Scovel, Keyla Monterroso Mejia, Ramona Young",Nicholas Stoller,0
+1429299,With You in the Future,"[35, 10749]","Sandra Echeverría, Michel Brown, Mariané Cartas, Fernando Cattori, Mauricio Barrientos, Diego Guzmán, Harold Azuara, Aminta Ireta, Demetrio Bonilla, Félix Farid",Roberto Girault,0
+1144932,Queen of the Ring,[18],"Emily Bett Rickards, Marie Avgeropoulos, Walton Goggins, Josh Lucas, Gavin Casalegno, Kelli Berglund, Tyler Posey, Martin Kove, Damaris Lewis, Ash Avildsen",Ash Avildsen,0
+1144932,Queen of the Ring,[18],"Emily Bett Rickards, Marie Avgeropoulos, Walton Goggins, Josh Lucas, Gavin Casalegno, Kelli Berglund, Tyler Posey, Martin Kove, Damaris Lewis, Ash Avildsen",Ash Avildsen,0
+1208491,Zak & Wowo: The Legend of Lendarys,"[16, 12, 14]","Jérôme Niel, Manu Payet, Clara Luciani, Kyan Khojandi, Akil Wingate",Jean-Baptiste Cuvelier,0
+974250,Greedy People,"[35, 9648, 80]","Himesh Patel, Joseph Gordon-Levitt, Lily James, Uzo Aduba, Tim Blake Nelson, Simon Rex, Nina Arianda, Jim Gaffigan, José María Yázpik, Joey Lauren Adams",Potsy Ponciroli,0
+1196943,Chhaava,"[36, 28, 18]","Vicky Kaushal, Rashmika Mandanna, Akshaye Khanna, Ashutosh Rana, Divya Dutta, Pradeep Ram Singh Rawat, Vineet Kumar Singh, Neil Bhoopalam, Santosh Juvekar, Rajiv Kachroo",Laxman Utekar,0
+615173,The Witch: Part 2. The Other One,"[28, 9648, 53, 878]","Shin Si-a, Park Eun-bin, Seo Eun-soo, Jin Goo, Seong Yu-bin, Justin John Harvey, Cho Min-soo, Cha Soon-bae, Lee Jong-suk, Kim Da-mi",Park Hoon-jung,0
+1214481,Love Forever,"[10749, 35, 18]","Matilda Källström, Charlie Gustafsson, Kjell Bergqvist, Anja Lundqvist, Claes Malmberg, Barbro 'Babben' Larsson, Vilhelm Blomgren, Doreen Ndagire, Niklas Engdahl, Katarina Ewerlöf",Staffan Lindberg,0
+1180417,The Dutchman,[53],"André Holland, Kate Mara, Zazie Beetz, Stephen McKinley Henderson, Aldis Hodge, Lauren E. Banks",Andre Gains,0
+1253003,Marching Powder,"[28, 80, 35, 10749]","Danny Dyer, Stephanie Leonidas, Calum MacNab, Arty Dyer, Bailey Patrick, Lex Shrapnel, Janet Kumah, Geoff Bell, Philippe Brenninkmeyer, Dean Harrison",Nick Love,0
+496450,"Miraculous: Ladybug & Cat Noir, The Movie","[16, 14, 28, 10749, 10751]","Annouck Hautbois, Benjamin Bollen, Fanny Bloc, Alexandre N'Guyen, Antoine Tomé, Marie Chevalot, Marie Nonnenmacher, Martial Le Minoux, Flora Kaprielian, Franck Tordjman",Jeremy Zag,0
+881415,Love Me,"[878, 18, 10749]","Kristen Stewart, Steven Yeun",Andrew Zuchero,0
+1339772,Pengantin Setan,"[27, 53]","Erika Carlina, Emir Mahira, Wavi Zihan, Ruth Marini, Alfie Alfandy, Ence Bagus, Dwika Pradnyana, Baim D'Bill",Azhar Kinoi Lubis,0
+1418290,The Reluctant Royal,"[10770, 35, 10749]","Andrew W. Walker, Emilie de Ravin",Kevin Fair,0
+1288229,Forge,"[35, 80]","Kelly Marie Tran, Andie Ju, Brandon Soo Hoo, Sonya Walger, Eva De Dominici, Edmund Donovan, T.R. Knight, Jack Falahee, Phillip Andre Botello, Deborah Tucker",Jing Ai Ng,0
+1422877,Miss Italia Mustn't Die,[99],Patrizia Mirigliani,David Gallerano,0
+1422096,Good Boy,"[18, 27]","Stuart Rudin, Shane Jensen, Larry Fessenden, Arielle Friedman, Anya Krawcheck, Indy",Ben Leonberg,0
+1038263,Maria,"[18, 10402]","Angelina Jolie, Pierfrancesco Favino, Alba Rohrwacher, Haluk Bilginer, Kodi Smit-McPhee, Stephen Ashfield, Valeria Golino, Caspar Phillipson, Lydia Koniordou, Vincent Macaigne",Pablo Larraín,0
+974573,Another Simple Favor,"[35, 80, 53]","Anna Kendrick, Blake Lively, Henry Golding, Andrew Rannells, Bashir Salahuddin, Joshua Satine, Ian Ho, Kelly McCormack, Elena Sofia Ricci, Michele Morrone",Paul Feig,0
+982116,Butthole Surfers: The Hole Truth and Nothing Butt,"[99, 10402]","Gibby Haynes, Paul Leary, King Coffey, David Yow, Henry Rollins, Ice-T, Teresa Taylor, Buzz Osborne, Dale Crover, J.G. Thirlwell",Tom Stern,0
+1109255,Parthenope,"[10749, 18]","Celeste Dalla Porta, Stefania Sandrelli, Gary Oldman, Silvio Orlando, Luisa Ranieri, Peppe Lanzetta, Isabella Ferrari, Silvia Degrandi, Lorenzo Gleijeses, Daniele Rienzo",Paolo Sorrentino,0
+1047373,The Silent Hour,"[80, 53, 28]","Joel Kinnaman, Sandra Mae Frank, Mekhi Phifer, Mark Strong, Michael Eklund, Anthony Grant, Jonathan Koensgen, Mike Parish, Seán James Sutton, Djinda Kane",Brad Anderson,0
+1275332,Girls on Wire,[18],"Liu Haocun, Wen Qi, Zhang Youhao, Liu Yitie, Peng Jing, Jian Kang, Yang Haoyu, Zhou You, Geng Le, Liu Yuanyuan",Vivian Qu,0
+1422004,Bunny,[18],"Mo Stark, Ben Jacobson, Liza Colby, Tony Drazan, Lina Rong Mei Chen, Genevieve Hudson-Price, Liz Caribel Sierra, Ajay Naidu, Richard Price, Henry Czerny",Ben Jacobson,0
+1325482,Death Before the Wedding,"[35, 10749]","Agnieszka Suchora, Tomasz Karolak, Natalia Sitarska, Gamou Fall, Paulina Gałązka, Antoni Pawlicki, Robert Talarczyk, Monica Mariotti, Waleria Gorobets, Barbara Garstka",Tomasz Konecki,0
+1340110,Redux Redux,"[27, 53]","Michaela McManus, Stella Marcus, Jim Cummings, Grace Van Dien, Jeremy Holm",Kevin McManus,0
+1232493,No Other Land,[99],"Basel Adra, Yuval Abraham, Farisa Abu Aram, Nasser Adra, Harun Abu Aram, Kifah Adara",Basel Adra,0
+1422052,Descendent,"[18, 27, 9648, 878]","Ross Marquand, Sarah Bolger, Susan Wilder, Charlene Amoia, Dan O'Brien, Brandon Scott, Alexandra Barreto, Alex Ruiz, Clare Cooney, Emily Pendergast",Peter Cilella,0
+1422037,We Are Storror,"[99, 28]",,Michael Bay,0
+1429886,We Beat the Dream Team,[99],"Grant Hill, Chris Webber, Penny Hardaway, Bobby Hurley, Jamal Mashburn, Allan Houston, Rodney Rogers, Eric Montross, Christian Laettner, Michael Jordan",Michael Tolajian,0
+1154304,Buffalo Kids,"[16, 12, 35, 10751]","Mia Pérez Ullod, Jaume Solà, Javier Cassi Gimeno, Federico Bote Bubaila, Isabel Valls, Ricky Coello, Óscar Barberán, Alfonso Vallés, Miguel Ángel Jenner, Celia Sol",Pedro Solís,0
+767901,Hearts of Darkness: The Making of the Final Friday,[99],"Adam Marcus, Kane Hodder, John D. LeMay, Steven Williams, Julie Michaels, Rusty Schwimmer, Michael B. Silver, Richard Gant, Deborah Voorhees, Robert Kurtzman",Michael Felsher,0
+1212742,The Rule of Jenny Pen,"[53, 27, 18]","Geoffrey Rush, John Lithgow, George Henare, Nathaniel Lees, Thomas Sainsbury, Maaka Pohatu, Irene Wood, Ian Mune, Bruce Phillips, Holly Shanahan",James Ashcroft,0
+1195506,Novocaine,"[28, 53, 35]","Jack Quaid, Amber Midthunder, Ray Nicholson, Jacob Batalon, Betty Gabriel, Matt Walsh, Evan Hengst, Conrad Kemp, Jessica Stanley, Dominique Maher",Dan Berk,0
+1435149,Alpentod - Ein Bergland-Krimi - Gemeinsame Ziele,[80],"Veronica Ferres, Tim Oliver Schultz, Salka Weber, Heiko Ruprecht, Marcel Mohab, Sami Loris, Milena Dreißig, Jutta Fastian, Nikolaus Barton, Martina Ebm",Samira Radsi,0
+1297446,Slanted,"[35, 53, 878]","Shirley Chen, Mckenna Grace, Maitreyi Ramakrishnan, Amelie Zilber, Vivian Wu, Fang Du, Elaine Hendrix, Keith Harris",Amy Wang,0
+937287,Challengers,"[10749, 18]","Zendaya, Mike Faist, Josh O'Connor, Darnell Appling, Bryan Doo, Shane T Harris, Nada Despotovich, Joan Mcshane, Chris Fowler, Mary Joe Fernández",Luca Guadagnino,0
+1303498,$POSITIONS,[18],"Michael Kunicki, Vinny Kress, Trevor Dawkins, Kaylyn Carter, Reagan Fitzgerald",Brandon Daley,0
+765897,The Unbreakable Boy,"[18, 10751]","Zachary Levi, Gavin Warren, Jacob Laval, Amy Acker, Meghann Fahy, Bruce Davis, Kellen Martelli, Roy Jackson Miller, Elle Adler, Patricia Heaton",Jon Gunn,0
+1082195,The Order,"[80, 18, 53]","Jude Law, Nicholas Hoult, Tye Sheridan, Jurnee Smollett, Alison Oliver, Odessa Young, Sebastian Pigott, George Tchortov, Victor Slezak, Phillip Forest Lewitski",Justin Kurzel,0
+1407861,The Bayou,"[53, 27, 28]","Elisha Applebaum, Madalena Aragão, David Newman, Sarah Priddy, Andonis Anthony, Athena Strates, Isabelle Bonfrer, Tayla Kovacevic-Ebong, Mohammed Mansaray, Flynn Barnard",Taneli Mustonen,0
+1421990,The Baltimorons,"[35, 18]","Michael Strassner, Liz Larson, Olivia Luccardi",Jay Duplass,0
+1422120,Mermaid,[18],,Tyler Cornack,0
+1307397,Always Have Always Will,[18],"Peng Yuchang, Yang Enyou, Wei Daxun, Li Xueqin, Wu Jinyan, Lu Xingchen, Zou Yuanqing",Liu Jie,0
+1425816,Barbie & Teresa: Recipe for Friendship,"[16, 10751, 35]","Tatiana Varria, America Young, Yeni Alvarez, Giselle Fernández, Ren Hanami, Cristina Milizia, Margo Rey, Nicolas Roye, Desirae Whitfield",Karen J. Lloyd,0
+1422008,Fucktoys,[18],"Annapurna Sriram, Sadie Scott, François Arnaud, Damian Young, Big Freedia, Brandon Flynn, Lorrie Odom, Jowin Marie Batoon, Tamika Lawrence, Arianna Ortiz",Annapurna Sriram,0
+1422013,Outerlands,[18],"Asia Kate Dillon, Louisa Krause, Ridley Asha Bateman, Lea DeLaria, Daniel K. Isaac, Melinda Meeng, Allie Heng, Winter Dewitt, Safiya Fredericks, Sedrick Cabrera",Elena Oxman,0
+1205656,Hallow Road,[53],"Rosamund Pike, Matthew Rhys, Paul Tylak, Megan McDonnell, Stephen Jones",Babak Anvari,0
+1018,Mulholland Drive,"[53, 18, 9648]","Naomi Watts, Laura Harring, Justin Theroux, Ann Miller, Mark Pellegrino, Robert Forster, Dan Hedaya, Angelo Badalamenti, Patrick Fischler, Brent Briscoe",David Lynch,0
+1083782,Seven Veils,[18],"Amanda Seyfried, Rebecca Liddiard, Douglas Smith, Mark O'Brien, Vinessa Antoine, Ambur Braid, Michael Kupfer-Radecky, Tara Nicodemo, Maia Jae Bastidas, Lynne Griffin",Atom Egoyan,0
+251,Ghost,"[14, 18, 53, 9648, 10749]","Patrick Swayze, Demi Moore, Whoopi Goldberg, Tony Goldwyn, Vincent Schiavelli, Rick Aviles, Martina Deignan, Rick Kleber, Phil Leeds, Armelia McQueen",Jerry Zucker,0
+1049286,Twiggy,[99],"Twiggy, Leigh Lawson, Carly Wiggins, Michael Witney, Justin de Villeneuve, Joanna Lumley, Tommy Tune, Brooke Shields, Sienna Miller, Lulu",Sadie Frost,0
+747,Shaun of the Dead,"[27, 35]","Simon Pegg, Nick Frost, Kate Ashfield, Lucy Davis, Dylan Moran, Penelope Wilton, Bill Nighy, Peter Serafinowicz, Jessica Hynes, Rafe Spall",Edgar Wright,0
+1071646,My First of May,"[18, 10751]","Aaron Kwok, Gigi Leung Wing-Kei, Natalie Hsu, Pau Hei-Ching, Patrick Tam, Lawrence Cheng Tan-Shui, Kenji Fan",James Hung,0
+1127674,Forbidden City,"[28, 10749, 18]","Yaxi Liu, Enrico Borello, Marco Giallini, Sabrina Ferilli, Chunyu Shanshan, Luca Zingaretti, Tomal Islam, Miki Yeung Oi-Gan, Claudio Pallitto, Daniele Mosca",Gabriele Mainetti,0
+1424802,Blurred Lines,[18],"Miranda Benjamin, David Barden, Heather Elise Nelson, Simon Jennings, Terence J Corbett, Johnny Byrom",Mark Duggan,0
+1422033,The Infinite Husk,[18],"Peace Ikediuba, Foreste Jean Feely, Circus-Szalewski, Michael Jon Murphy, Geena Alexandra, Gary Lee Reed, William Thomas Jones, Smaran Harihar, Jyl Haruye Kaneshiro",Aaron Silverstein,0
+1422029,Shuffle,[99],,Benjamin Flaherty,0
+770,Gone with the Wind,"[18, 10752, 10749]","Vivien Leigh, Clark Gable, Olivia de Havilland, Leslie Howard, Hattie McDaniel, Thomas Mitchell, Barbara O'Neil, Evelyn Keyes, Ann Rutherford, George Reeves",Victor Fleming,0
+975324,Afternoons of Solitude,[99],"Andrés Roca Rey, Pablo Aguado",Albert Serra,0
+1422101,Glorious Summer,"[18, 9648]","Magdalena Fejdasz, Helena Ganjalyan, Daniela Komędera, Weronika Humaj",Bartosz Szpak,0
+257094,Holland,"[53, 18]","Nicole Kidman, Gael García Bernal, Matthew Macfadyen, Rachel Sennott, Jude Hill, Lennon Parham, Jacob Moran, Jeff Pope, Isaac Krasner, Chris Witaske",Mimi Cave,0
+257094,Holland,"[53, 18]","Nicole Kidman, Gael García Bernal, Matthew Macfadyen, Rachel Sennott, Jude Hill, Lennon Parham, Jacob Moran, Jeff Pope, Isaac Krasner, Chris Witaske",Mimi Cave,0
+1422628,Seen and Heard,[99],,Giselle Bailey,0
+1422038,Ghost Boy,[99],,Rodney Ascher,0
+1164614,We're All Gonna Die,"[35, 878]","Ashly Burch, Jordan Rodrigues, Willow Hale, Chase Mangum, Regina McKee Redwing, Vin Vescio, Joshua Hinson, Brian Firenzi",Matthew Arnold,0
+1147546,The Diplomat,"[53, 18]","John Abraham, Sadia Khateeb, Kumud Mishra, Sharib Hashmi, Ashwath Bhatt, Ram Gopal Bajaj, Benjamin Gilani, Vidhatri Bandi, Jagjeet Sandhu, Sehar Shehnaz",Shivam Nair,0
+972533,Last Breath,"[53, 18]","Woody Harrelson, Simu Liu, Finn Cole, Cliff Curtis, Mark Bonnar, MyAnna Buring, Josef Altin, Bobby Rainsbury, Connor Reed, Nick Biadon",Alex Parkinson,0
+856289,Creation of the Gods I: Kingdom of Storms,"[28, 14, 10752]","Kris Phillips, Li Xuejian, Huang Bo, Yu Shi, Chen Muchi, Narana Erdyneeva, Yu Xia, Yuan Quan, Chen Kun, Ci Sha",Wuershan,0
+937393,Bloat,[27],"Ben McKenzie, Bojana Novaković, Sawyer Jones, Malcolm Fuller, Kane Kosugi, Royce Johnson, David Gibson, David Lavine, Ethan Herschenfeld, Asha Etchison",Pablo Absento,0
+1330232,Reeling,[18],"Ryan Wuestewald, Hans Christopher, Nikki DeParis, Fabrizio Alliata, Makena Miller, Nyah Juliano, Michael Carter",Yana Alliata,0
+1421977,Fantasy Life,[18],"Matthew Shear, Amanda Peet, Alessandro Nivola, Judd Hirsch, Bob Balaban, Andrea Martin, Zosia Mamet, Jessica Harper, Holland Taylor, Sheng Wang",Matthew Shear,0
+1102493,Small Things Like These,[18],"Cillian Murphy, Emily Watson, Michelle Fairley, Eileen Walsh, Zara Devlin, Clare Dunne, Helen Behan, Ella Cannon, Patrick Ryan, Peter Claffey",Tim Mielants,0
+1393676,Kingston,"[27, 12]","G. V. Prakash Kumar, Divyabharathi, Chetan, Elango Kumaravel, Sabumon Abdusamad, Rajesh Balachandiran, N. Azhagamperumal, Antony, VishavRaaj, Arunachaleshwaran",Kamal Prakash,0
+1215020,American Sweatshop,"[53, 9648]","Lili Reinhart, Daniela Melchior, Christiane Paul, Joel Fry, Jeremy Ang Jones, Josh Whitehouse, Tim Plester",Uta Briesewitz,0
+1324198,Blood on My Hands,"[27, 53, 80]","Nicole Foster, Gary Daniel, Derek Fox, Ryan Kyle Newman, Cole Buck, Johan Lopez, Alex Louis",Kameron Cross,0
+1293285,Guns of Redemption,[37],"Casper Van Dien, Jeff Fahey, Kaitlyn Kemp, Siena Bjornerud, Sean Astin, James Logan, Liz Atwater, Celeste Blandon",Brian Skiba,0
+1419229,Silent Zone,"[27, 53]","Matt Devere, Luca Papp, Nikolett Barabas, Declan Hannigan, Alexis Latham, Julian Krenn, Roderick Hill, Anders Grundberg, Ágota Dunai, Katia Bokor",Peter Deak,0
+1422478,Ways of Knowing: A Navajo Nuclear History,[99],"Sunny Dooley, Tina Garnanez, Tommy Rock, Janene Yazzie, Bobby Leonard Mason",Kayla Briët,0
+1422600,Strange Journey: The Story of Rocky Horror,[99],,Linus O'Brien,0
+1135303,The Senior,[18],"Michael Chiklis, Mary Stuart Masterson, Brandon Flynn, Rob Corddry, Todd Terry, Terayle Hill, Steve Mokate, Gail Cronauer, Major Dodge",Rod Lurie,0
+1422625,Starman,[99],,Robert Stone,0
+1135303,The Senior,[18],"Michael Chiklis, Mary Stuart Masterson, Brandon Flynn, Rob Corddry, Todd Terry, Terayle Hill, Steve Mokate, Gail Cronauer, Major Dodge",Rod Lurie,0
+1422625,Starman,[99],,Robert Stone,0
+1422048,New Jack Fury,[18],"Andre Hall, Page Kennedy",Lanfia Wal,0
+1422027,Remaining Native,[99],,Paige Bethmann,0
+126963,Dragon Ball Z: Battle of Gods,"[16, 28, 878]","Masako Nozawa, Koichi Yamadera, Masakazu Morita, Ryo Horikawa, Hiromi Tsuru, Joji Yanami, Toshio Furukawa, Shoko Nakagawa, Kenji Utsumi, Mayumi Tanaka",Masahiro Hosoda,0
+800513,The Great Lillian Hall,[18],"Jessica Lange, Kathy Bates, Jesse Williams, Lily Rabe, Pierce Brosnan, Michael Rose, Cindy Hogan, Keith Arthur Bolden, Jonathan Horne, Clayton Landey",Michael Cristofer,0
+1422227,Aşk Sadece Bir An,"[10749, 18]","Emirhan Çakal, Nilsu Berfin Aktaş, Tuana Naz Tiryaki, Emre Kınay, Burcu Kara, Gonca Vuslateri, Tuba Ünsal, Teoman, Nazlı Yağcı, Rizacan durmus",Mustafa Kotan,0
+1383580,Surviving Earth,[18],"Slavko Sobin, Olive Gray, Ann Ogbomo, Arthur McBain",Thea Gajic,0
+1217876,Ellie and the Monster Team,"[16, 10751, 35]",,Jens Møller,0
+1440471,The Cancer Card,[],"Dekin Walter, Elvis Garcia",Jimmy Rancich,0
+1421979,The Python Hunt,[99],,Xander Robin,0
+1284120,The Ugly Stepsister,"[35, 27]","Lea Mathilde Skar-Myren, Ane Dahl Torp, Thea Sofie Loch Næss, Flo Fagerli, Isac Calmroth, Malte Gårdinger, Ralph Carlsson, Cecilia Forss, Katarzyna Herman, Adam Lundgren",Emilie Kristine Blichfeldt,0
+942955,Aalambana,"[14, 35]","Vaibhav, Parvatii Nair, Munishkanth, Yogi Babu, Anandaraj, Murali Sharma, Robo Shankar, Dindugul Leoni, Kabir Duhan Singh, Pandiarajan",Pari K. Vijay,0
+1422596,Take No Prisoners,[99],,Subrata De,0
+1416914,Nervous Energy,"[18, 35]","Lucie Zhang, Sonia Yuan, Ramzi Bashour, Keisuke Asano, Hudson Oz, Wai Ching Ho, Eleven Lee, Yuki Kawahisa, Emily May Jampel",Eve Liu,0
+1439875,Эффект хамелеона,[18],"Kirill Zaporozhskiy, Sergey Chonishvili, Anita Pudikova, Yury Lyakhov, Erik Kholyavko-Grishin, Uliana Donskova, Ruslan Muradasilov",Aleksandr Harlamov,0
+1165466,Wake Up,"[27, 53, 28]","Turlough Convery, Benny O. Arthur, Alessia Yoko Fontana, Jacqueline Moré, Kyle Scudder, Thomas Gould, Charlotte Stoiber, Aidan O'Hare, Gary Anthony Stennette",François Simard,0
+1285669,Life Hack,[53],"Yasmin Finney, Charlie Creed-Miles, Jessica Reynolds, Jill Winternitz, Georgie Farmer",Ronan Corrigan,0
+1282774,Magic Hour,"[18, 9648, 10749]","Katie Aselton, Daveed Diggs, Brad Garrett, Susan Sullivan",Katie Aselton,0
+1439863,Tehran Another View,[18],"Ali Shadman, Anahita Afshar, Aida Makhiani, Reza Kolavani",Ali Behrad,0
+993708,The Threesome,"[35, 10749, 18]","Zoey Deutch, Ruby Cruz, Jonah Hauer-King, Jaboukie Young-White, Josh Segarra, Kristin Slaysman, Allan McLeod, Julia Sweeney, Robert Longstreet, Arden Myrin",Chad Hartigan,0
+1430137,Baba I'm Fine,[35],"Aladeen Tawfeek, Adaeze Dozie, Michelle Do, Hibah Abdellatif, Sophia Zonno, Axton McBride",Karina Dandashi,0
+1422031,The Spies Among Us,[99],,Jamie Coughlin Silverman,0
+1225624,On Falling,[18],"Joana Santos, Inês Vaz, Neil Leiper, Deborah Arnott, Ola Forman, Ross Ian-Martin, Daniel Mcguire, Helen Robinson, Robert Rutonjić, Piotr Sikora",Laura Carreira,0
+1422019,Assembly,[99],,Rashaad Newsome,0
+1422028,The Secret of Me,[99],,Grace Hughes-Hallett,0
+1026227,There's Still Tomorrow,"[18, 35, 10752, 36]","Paola Cortellesi, Valerio Mastandrea, Romana Maggiora Vergano, Emanuela Fanelli, Giorgio Colangeli, Vinicio Marchioni, Alessia Barela, Francesco Centorame, Raffaele Vannoli, Paola Tiziana Cruciani",Paola Cortellesi,0
+1422017,My Uncle Jens,"[35, 18]","Peiman Azizpour, Hamza Agooshi, Sarah Francesca Brænne, Magnus B. Bjørlo Lysbakken, Theresa Frostad Eggesbø, Emir Hakki, Marko Lazic, Mohamed Chakiri, Eirik Hallert, Marte Germaine Christensen",Brwa Vahabpour,0
+1093537,Adhirshtasaali,[18],"R. Madhavan, Madonna Sebastian, Sai Dhanshika, Upasana Rai, Radikaa Sarathkumar",Mithran Jawahar,0
+1433321,The Corpse,[27],"Ngô Quang Tuấn, Khả Như, Thanh Nam, Tân Chề, Vân Dung, Phú Đôn",Pom Nguyễn,0
+1422108,Forever We Are Young,"[99, 10402]",,Grace Lee,0
+1422105,The Makings of Curtis Mayfield,[99],Curtis Mayfield,H.E.R.,0
+1305042,A Bathroom of One's Own,[18],"Nuria González, Carles Sanjaime, Manu Valls, Amparo Ferrer-Báguena",Lucía Casañ Rodríguez,0
+975511,The Return,"[36, 18, 12]","Ralph Fiennes, Juliette Binoche, Charlie Plummer, Marwan Kenzari, Claudio Santamaria, Ángela Molina, Nikitas Tsakiroglou, Tom Rhys Harries, Jamie Andrew Cutler, Moe Bar-El",Uberto Pasolini,0
+1385169,Rumpelstiltskin,"[27, 14]","Hannah Baxter-Eve, Joss Carter, Adrian Bouchet, Colin Malone, Evyn George, Ayvianna Snow, Jennifer Lim, Annabella Rich, Sarah Jane Duncan, James Dance",Andy Edwards,0
+1086260,The Astronaut,"[27, 878, 53]","Kate Mara, Laurence Fishburne, Gabriel Luna, Macy Gray, Reza Diako",Jess Varley,0
+1422632,Now! More! Yes!,[99],,Max Hey,0
+1436763,Sacra Lunaria,"[18, 14]","Alejandra Lifante, Luisa Maciá, Agata Clares, Esther del Cura",Mey Montero,0
+1137860,Pédalo,[35],"Camille Felton, Marc Fournier, Catherine Proulx-Lemay, Stéphane E. Roy",Stéphane E. Roy,0
+1422039,Night Fight,[99],,Khary Saeed Jones,0
+1123042,Address,"[18, 28]","Esakki Bharath, Atharvaa Murali, Diya Mayurikha, Thambi Ramaiah, Devadarshini, A. Venkatesh, Poster Nandakumar, Muthu Azhagarsamy",Rajmohan,0
+1324887,They Can't All Be Winners,"[35, 18, 10749]","Will Ehren, Madalynn Mathews, Bill Mellen, Abigail Weinick, Pixie Esmonde, Jessica DiSalvo, Ava Lamantia, Mark Ashin",Vincent D'Alessandro,0
+1354736,"True Love, For Once in My Life",[18],"Cecilia Yip Tung, Tse Kwan-Ho, Hui Yuet-Sheung, Himmy Wong, Stephanie Che Yuen-Yuen, Tai Bo, Yeung Wai-Lun, Carl Ng Ka-Lung, Kwai Chung, Nic Tsang Chun-Yuen",Delon Siu,0
+785542,The Outrun,[18],"Saoirse Ronan, Paapa Essiedu, Nabil Elouahabi, Izuka Hoyle, Lauren Lyle, Stephen Dillane, Saskia Reeves, Naomi Wirthner, Tony Hamilton-Croft, Posy Sterling",Nora Fingscheidt,0
+1426408,Larissa: The Other Side of Anitta,"[99, 10402]","Anitta, Pedro Cantelmo",João Wainer,0
+1304457,Beautiful!,[18],"Marta Nieradkiewicz, Marta Ścisłowicz, Hanna Śleszyńska, Katarzyna Herman, Kamila Urzędowska, Róża Szmidt, Mikołaj Roznerski, Konrad Eleryk, Olaf Lubaszenko, Wiktoria Bylinka",Katia Priwieziencew,0
+1439936,A Scam Called Love,[],"Thando Thabethe, Tobi Bamtefa, Didintle Khunou",CARLA FONSECA,0
+1362347,Keytar Bear,[99],"Keytar Bear, Abby Taylor, Ken Macleod, Shannon O'Brien, Richard Meinke, Delarose Mahmoud, Keytar Fox",Kely Maloney,0
+1337631,ASCO: Without Permission,[99],"Harry Gamboa Jr., Gronk, Willie Herron, Patssi Valdez",Travis Gutiérrez Senger,0
+1304047,"Oskar, Patka i Złoto Bałtyku","[10751, 12]","Oliwier Grzegorzewski, Klara Olszewska, Piotr Głowacki, Dorota Kolak, Tomasz Sapryk, Karolina Gruszka, Ireneusz Czop, Maria Kuśmierska, Edyta Jungowska, Fabian Małkiewicz",Magdalena Nieć,0
+1421993,The True Beauty of Being Bitten by a Tick,[18],"Zoë Chao, Jeremy O. Harris, Callie Hernandez, James Cusati-Moyer",Pete Ohs,0
+1265014,RED,"[878, 18]","Kai Zhao, Elsie Cairns, FreddyLee Bourne",FreddyLee Bourne,0
+1417675,Brother Verses Brother,"[10751, 10402, 18]","Ari Gold, Ethan Gold, Lara Louise, Tongo Eisen-Martin, Brian Bell",Ari Gold,0
+1234743,Stationed at Home,[18],"Erik Bjarnar, Jamie Donnelly, Drea Berg, Scott Williams, Jeff DuMont, Peter Foster Morris, Alex Osinski, Darryle Johnson, Misty Monroe, Jon Cesar",Daniel V. Masciari,0
+1420498,Love Island,"[18, 35, 10749]","Lyric Lan, Liu Yichang, Peter Sheng, Lexuan Lin, Jia Bing, Fan Tiantian, Huang Xiaolei",Meng Tian,0
+1323488,Let Us Descend,"[18, 27]",,Pietro Coppolecchia,0
+1431271,Niram Marum Ulagil,[18],"Bharathiraja, Rio Raj, Sandy, Aegan, Natarajan Subramaniam, Yogi Babu, Vignesh, Lovelyn Chandrasekhar, Mime Gopi, Rishikanth",JB Britto,0
+1390983,Dark Frequency,"[18, 53, 27]","Kristin Macke, Madison Sovak, Rivers Duggan, Keryn Math, Madison Stallings, Marissa Maloney, Nneoma Ogbonna, Margaret Thompson, Sasha Pearson, Olivia Mignone",Ryan Callaway,0
+1327148,Misie,"[35, 10749]","Krzysztof Zalewski, Sebastian Karpiel-Bułecka, Karol Dziuba, Sebastian Stankiewicz, Wojciech Solarz, Małgorzata Mikołajczak, Paulina Gałązka, Przemysław Bluszcz, Karol Osentowski, Kacper Jasper Porębski",Mariusz Malec,0
+1422121,Caper,"[35, 80, 18]","Christopher Tramantana, Asa James, Celester Rich, Richard Cooper, Sam Gilroy, Ron Palais, Michael Panes, Anne Klaus, Caroline Angelica Winkler, Joseph R. Sicari",Dean Imperial,0
+1330747,Odyssey,[53],"Mikael Persbrandt, Rebecca Calder, Guy Burnet, Polly Maberly, Charley Palmer Rothwell, Sarah Beck Mather, Leon Annor, Ryan Hayes, Sallieu Sesay, Adam Lawrence",Gerard Johnson,0
+848826,Vodi,"[27, 18, 16]","Chase Mullins, Renee Gagner, Alicia Blasingame, Chad Higgs, Nina Nikolic, Rudolph Whitcomb, Monika Vidakovic, Jesse James Dean, Drew Arnett",Nath Milburn,0
+1377676,Sudden Outbursts of Emotions,"[35, 18, 10749]","Iina Kuustonen, Riku Nieminen, Laura Malmivaara, Minka Kuustonen, Marc Gassot, Anna-Leena Härkönen, Pyry Nikkilä, Lauri Maijala, Jasir Osman, Cécile Orblin",Paula Korva,0
+1431043,Gentlewoman,[18],"Lijomol Jose, Hari Krishnan, Losliya Mariyanesan",Joshua Sethuraman,0
+1422074,Are We Good?,[99],Marc Maron,Steven Feinartz,0
+1235945,The Dog,"[53, 9648, 18]","Tomasz Schuchardt, Klara Williams, Lila Vasina, Stefan Wójcik, Wanda Marzec, Kinga Jasik, Jakub Oderski, Jacek Reda, Amelia Żuchowska, Joanna Rucińska",Ireneusz Grzyb,0
+1422119,I Really Love My Husband,[18],"Madison Lanesey, Travis Quentin Young, Arta Gee, Lisa Jacqueline Starrett, Elizabeth de Robbins, Armodio Sophia, Meggan Taylor, Mitch Bisschop, Amberlin Morse",G.G. Hawkins,0
+1414850,Kama,"[53, 18]","Tank Dhamalia, Matt Wakeford, Jemima Toms, Samir Gurung, Puja Gupta, Mia Bennett, Kajol Gurung",Veemsen Lama,0
+1384736,The Last Prayer,"[53, 18]","Dan Claudino, Davi Claudino, Raquel Paim, Roberto Lopes, Thalia Nunes, Felipe Batista, Petra Maria Sepulvida, Artur Sapun",Saulo Carvalho,0
+1437273,Manidham,[18],"Krishna Raju K., Madhunika Rajalakshmi, Kalaimamani Sellappa Jegashanmugam, Yatra Srinivassan, Lakshmi Narayanan",J. Bruno Savio,0
+1439367,Asthram,[53],"Shaam, Niranjani Ashokan, Ranjith D, Nizhalgal Ravi, Jeeva Ravi, Arul D. Shankar, Venba, Videsh Anand",Aravind Rajagopal,0
+1422011,It Ends,"[35, 27, 53]","Phinehas Yoon, Akira Jackson, Noah Toth, Mitchell Cole",Alexander Ullom,0
+1425617,Another You,"[35, 10749]","Giray Altınok, Ezgi Mola, Kerem Özdoğan, Şükran Ovalı, Nevra Serezli, Hüseyin Avni Danyal, Deniz Cengiz, Ömer Faruk Çavuş, Cihat Tamer, Nergis Çorakçı",Ömer Faruk Sorak,0
+1432018,Conspiracy Theories with Quin,[99],"Quin Breter, Ava Bennett, Ainslee Podgers",Quin Breter,0
+1422626,Spreadsheet Champions,[99],,Kristina Kraskov,0
+1421974,Creede U.S.A.,[99],,Kahane Cooperman,0
+1265341,Kirtaner Por Kirtan,"[10751, 35, 18]","Paran Banerjee, Arunima Ghosh, Gourab Chatterjee, Laboni Sarkar, Ishan Mukherjee, Aporajita Ghosh, Abhijit Guha, Apratim Chatterjee",Abhimanyu Mukherjee,0
+1422631,Other Side,[99],,Carter Oakley,0
+1422639,Deepfaking Sam Altman,[99],,Adam Bhala Lough,0
+1424950,The Doom Busters,"[27, 35]","Margaret Clunie, Timothy Renouf, Jessica Webber, Tom Bailey",Jack McHenry,0
+1424950,The Doom Busters,"[27, 35]","Margaret Clunie, Timothy Renouf, Jessica Webber, Tom Bailey",Jack McHenry,0
+1412583,Online Selling,[18],"Arah Alonzo, Aria Bench, Andrew Gan, Marc Capilador, Tommy Samonte",Jacqueline R. Carlos,0
+1421805,Spirit Pandemic Phase 32,[27],,Unknown,0
+1422634,Flight 149: Hostage Of War,[99],,Jenny Ash,0
+1341515,Subscribe for More,"[35, 18]","Max Glasser, Miranda Tate, Landry Davis, Cooper Thorpe, Anna Grace Denny, Madison Gunderson",Will Jones,0
+1416886,The Take-Out,"[80, 35, 18]","Alina Hubing, Acacia Hubing, Cadence Hubing, Ariana Hubing, Timothy O'Reagan, Isaac Hubing, Jeff Hubing, Ian Weathington",Ariana Hubing,0
+1437221,TACHÉE,"[18, 10749]","Sahra PASCAL, Manes POTTIER, Sohan PASCAUD, Naomi PROST, Sasha BORY, Marceau RICARD, Ketty MARTIN",Sohan PASCAUD,0
+1422638,Deeper,[99],,Jennifer Peedom,0
+1422637,Dear Tomorrow,[99],,Kaspar Astrup Schröder,0
+1431188,Децата на Бендида,"[12, 14]","Silvia Petkova, Nick Stanchev, Kalin Veliov, Velina Georgieva, Dimitar Sulev, Dancho Koleff, Kostadin Sultov, Todor Parpulov",Nick Stanchev,0
+1433326,Maqam,[18],"Tom Alter, Maayur Jittsingh, Mrinal Mukherjee, Shruti Das, J. Brandon Hill, Kurush Deboo, Kunal Sharma, Aaqib Peerzada",Sachiin Shettyy,0
+991610,Invasion,"[28, 18, 53]","Tarikh Janssen, Gijs Blom, Ortál Vriend, Jasha Rudge, Fedja van Huêt, Gijs Scholten van Aschat, Raymond Thiry, Uriah Havertong, Jonas Smulders, Siawaash Cyrroes",Bobby Boermans,0
+1430197,Worm-ance,[],"Gary Nickols, Gracie Hamlin",Kim-Minh Vo,0
+1422627,Snow Leopard Sisters,[99],,Andrew Lynch,0
+1428646,Place to place,[],,Natasha Cánepa,0
+1421811,Honto Ni Atta! Noroi No Video 110,[27],,Unknown,0
+1400510,The Man Who Wanted Everything,"[10749, 35, 10402]","Israel Roberto Perez II, Anisa Gonzalez, Katie Monzon, Chad Hamel, Ali Chavez, Asher McCown",Johnny Angel Villegas,0
+1426480,LuElla’s Quilt,[18],,Unknown,0
+1426452,Memento Mori,[],"David Wade, Justin Smith, Natasha Ellis",Patrick Peacock,0
+1414202,Ikimono no kiroku,[],"Masatoshi Nagase, Kanako Mizumoto",Junichi Inoue,0
+1428666,A Quarter Life Crisis,[],"Caitlyn Hagney, Lynn Pineda",Nandhu Ramkumar,0
+1429808,Tail of Two Rivers,[99],,Jennifer Brown,0
+1430181,The Walker,"[18, 53]","Alex Hyde-White, Thomas Carter Rochester, Anna Faulkner",Stephen Wise,0
+1431022,STATIC!,[18],"Jamie Patterson, Victoria Hernandez",Aria Vidana,0
+1430167,A Tortoise Called Pumpkin Spice,[],,Laura Albritton,0
+1430153,That’s My House,[10751],"Drew Smith, Diane Mullins, Edward Parker, Elizabeth Holmes",Clint Till,0
+1380895,Sweetness,"[10402, 53]","Kate Hallett, Herman Tømmeraas, Justin Chatwin, Steven Ogg, Amanda Brugel, Aya Furukawa, Erika Swayze, Julius Cho, Kelsey Ruhl, Kelly Reich",Emma Higgins,0
+1401599,AEW Revolution,[],"Jonathan Good, Marina Shafir, Adam Copeland, Mercedes Varnado, Momo Watanabe, Stephen Woltz, Maxwell Tyler Friedman, Toni Rossall, Mariah May Mead, Konosuke Takeshita",Unknown,0
+1429116,Recompense,[],"Thomas Weber, Donavan Smalley",Patrick Peacock,0
+1426448,The Magic Hour,"[16, 35, 10751]","Robbie Sublett, Sublett Sublett, Rivki Bench",Nath Milburn,0
+1426439,Leave a Message,[18],"Jonathan Maher, Xander Allen",Mason Silva,0
+1427007,Para Paty,[99],,Germán López Tirado,0
+1426980,Occupied,"[27, 35]","Hannah Pendergrass, Seraphina Curtin",Hannah Pendergrass,0
+1426985,The Oliver Theory,[35],"Audrey Hunt, Kylie Conklin, Charlie Bantner, Cherri Lorenz",Rosella Lorenz,0
+1366118,Better When You're Dancing,[18],"Kayley Glasheen, Jack O'Mahony, Lisa Marie Murphy, Austin Grehan, Jane McAleese, Jay Flavin, Michael De Brún, Lea Talia Meic, Michaela Fogarty",Kyra Owers,0
+1428638,Pity Party,"[18, 9648]","Ava Bub, Arwen Cameron, Sebastian Zuniga",Madison Traub,0
+1430170,Urgent Sea,[],,Karlyn Hoon,0
+1430188,Warp Weft Water Weeds,[],Elizabeth Bradford,John Rash,0
+1440108,Wilmer X - när tiden stannar,[99],,Stefan Berg,0
+1440085,PLAVE 'Dash' in Cinema,"[10402, 16, 878, 28]","Yejun, Noah, Bamby, Eunho, Hamin",Lee Sung-gu,0
